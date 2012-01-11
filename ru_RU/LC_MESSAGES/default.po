@@ -1,0 +1,3279 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Tibia-ME.net\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-01-11 02:45+0300\n"
+"PO-Revision-Date: 2012-01-11 02:46+0300\n"
+"Last-Translator: Molodoy <molodoy@tibia-me.net>\n"
+"Language-Team: Molodoy <molodoy@tibia-me.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: Russian Federation\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: /home/molodoy/Documents/www\n"
+
+#: /home/molodoy/Documents/www/update_schedule.php:3
+msgid "Episode 1"
+msgstr "Эпизод 1"
+
+#: /home/molodoy/Documents/www/update_schedule.php:4
+msgid "Episode 2"
+msgstr "Эпизод 2"
+
+#: /home/molodoy/Documents/www/update_schedule.php:5
+msgid "Episode 3"
+msgstr "Эпизод 3"
+
+#: /home/molodoy/Documents/www/update_schedule.php:6
+msgid "Episode 4"
+msgstr "Эпизод 4"
+
+#: /home/molodoy/Documents/www/update_schedule.php:7
+msgid "Episode 5"
+msgstr "Эпизод 5"
+
+#: /home/molodoy/Documents/www/update_schedule.php:8
+msgid "Episode 6"
+msgstr "Эпизод 6"
+
+#: /home/molodoy/Documents/www/functions/artworks.class.php:103
+#: /home/molodoy/Documents/www/functions/artworks.class.php:124
+msgid "You don't have permission to edit this artwork."
+msgstr "Вы не можете редактировать это изображение."
+
+#: /home/molodoy/Documents/www/functions/artworks.class.php:163
+msgid "Artwork has been uploaded."
+msgstr "Изображение загружено."
+
+#: /home/molodoy/Documents/www/functions/artworks.class.php:172
+#: /home/molodoy/Documents/www/functions/functions.php:797
+#: /home/molodoy/Documents/www/functions/functions.php:822
+#: /home/molodoy/Documents/www/functions/functions.php:1797
+#: /home/molodoy/Documents/www/functions/functions.php:2049
+msgid "Changes saved."
+msgstr "Изменения сохранены."
+
+#: /home/molodoy/Documents/www/functions/document.class.php:26
+#, php-format
+msgid "Maintenance work. Come back in %d minute."
+msgid_plural "Maintenance work. Come back in %d minutes."
+msgstr[0] "Технические работы. Зайдите через %d минуту."
+msgstr[1] "Технические работы. Зайдите через %d минуты."
+msgstr[2] "Технические работы. Зайдите через %d минут."
+
+#: /home/molodoy/Documents/www/functions/document.class.php:29
+#, php-format
+msgid "Updating highscores. Come back in %d minute."
+msgid_plural "Updating highscores. Come back in %d minutes."
+msgstr[0] "Обновление рекордов. Зайдите через %d минуту."
+msgstr[1] "Обновление рекордов. Зайдите через %d минуты."
+msgstr[2] "Обновление рекордов. Зайдите через %d минут."
+
+#: /home/molodoy/Documents/www/functions/document.class.php:53
+#, php-format
+msgid "%d notification"
+msgid_plural "%d notifications"
+msgstr[0] "%d уведомление"
+msgstr[1] "%d уведомления"
+msgstr[2] "%d уведомлений"
+
+#: /home/molodoy/Documents/www/functions/document.class.php:53
+msgid "No notifications"
+msgstr "Нет уведомлений"
+
+#: /home/molodoy/Documents/www/functions/document.class.php:59
+#, php-format
+msgid "You have been banished until %s"
+msgstr "Вы забанены до %s"
+
+#: /home/molodoy/Documents/www/functions/document.class.php:65
+#: /home/molodoy/Documents/www/functions/document.class.php:76
+#: /home/molodoy/Documents/www/functions/functions.php:1652
+msgid "Online"
+msgstr "Онлайн"
+
+#: /home/molodoy/Documents/www/functions/document.class.php:77
+#, php-format
+msgid "%d registered user"
+msgid_plural "%d registered users"
+msgstr[0] "%d зарегистрированный пользователь"
+msgstr[1] "%d зарегистрированныx пользователя"
+msgstr[2] "%d зарегистрированныx пользователей"
+
+#: /home/molodoy/Documents/www/functions/document.class.php:78
+#, php-format
+msgid "%d guest"
+msgid_plural "%d guests"
+msgstr[0] "%d гость"
+msgstr[1] "%d гостя"
+msgstr[2] "%d гостей"
+
+#: /home/molodoy/Documents/www/functions/document.class.php:79
+msgid "Total users"
+msgstr "Всего пользователей"
+
+#: /home/molodoy/Documents/www/functions/forum.php:29
+msgid "Create forum"
+msgstr "Создать раздел"
+
+#: /home/molodoy/Documents/www/functions/forum.php:53
+#: /home/molodoy/Documents/www/functions/functions.php:952
+msgid "Message"
+msgstr "Сообщение"
+
+#: /home/molodoy/Documents/www/functions/forum.php:57
+msgid "Save"
+msgstr "Сохранить"
+
+#: /home/molodoy/Documents/www/functions/forum.php:61
+#: /home/molodoy/Documents/www/functions/functions.php:868
+#: /home/molodoy/Documents/www/templates/artworks_index.tpl.php:18
+msgid "Cancel"
+msgstr "Отмена"
+
+#: /home/molodoy/Documents/www/functions/forum.php:83
+msgid "This message had been already posted."
+msgstr "Это сообщение уже было отправлено."
+
+#: /home/molodoy/Documents/www/functions/functions.php:22
+msgid "Please fill all fields."
+msgstr "Пожалуйста, заполните все поля."
+
+#: /home/molodoy/Documents/www/functions/functions.php:28
+msgid "User not found."
+msgstr "Пользователь не найден."
+
+#: /home/molodoy/Documents/www/functions/functions.php:31
+msgid "Incorrect password was entered too many times.<br>Your account is locked.<br>Password recovery will unlock it."
+msgstr "Неверный пароль был введен слишком много раз.<br>Ваш аккаунт заблокирован.<br>Восстановление пароля разблокирует его."
+
+#: /home/molodoy/Documents/www/functions/functions.php:60
+msgid "Incorrect password."
+msgstr "Неверный пароль."
+
+#: /home/molodoy/Documents/www/functions/functions.php:116
+msgid "Your nickname contains illegal characters."
+msgstr "Ваш ник содержит недопустимые символы."
+
+#: /home/molodoy/Documents/www/functions/functions.php:119
+msgid "Invalid email."
+msgstr "Неверный email."
+
+#: /home/molodoy/Documents/www/functions/functions.php:122
+msgid "Your nickname should not contain more than 10 characters."
+msgstr "Ваш ник не должен содержать более 10 символов."
+
+#: /home/molodoy/Documents/www/functions/functions.php:125
+msgid "Your nickname should contain at least 2 characters."
+msgstr "Ваш ник должен содержать хотя бы 2 символа."
+
+#: /home/molodoy/Documents/www/functions/functions.php:130
+msgid "You already have an account."
+msgstr "У Вас уже есть аккаунт."
+
+#: /home/molodoy/Documents/www/functions/functions.php:149
+msgid "Your account has been just created!"
+msgstr "Ваш аккаунт создан!"
+
+#: /home/molodoy/Documents/www/functions/functions.php:150
+msgid "Please remember your password."
+msgstr "Пожалуйста, запомните Ваш пароль."
+
+#: /home/molodoy/Documents/www/functions/functions.php:151
+msgid "Nickname"
+msgstr "Ник"
+
+#: /home/molodoy/Documents/www/functions/functions.php:152
+#: /home/molodoy/Documents/www/templates/album_index_sortbox.tpl.php:23
+msgid "World"
+msgstr "Мир"
+
+#: /home/molodoy/Documents/www/functions/functions.php:153
+msgid "Password"
+msgstr "Пароль"
+
+#: /home/molodoy/Documents/www/functions/functions.php:184
+msgid "Spam"
+msgstr "Спам"
+
+#: /home/molodoy/Documents/www/functions/functions.php:186
+msgid "Offensive statements"
+msgstr "Оскорбительные высказывания"
+
+#: /home/molodoy/Documents/www/functions/functions.php:188
+msgid "Rules violation"
+msgstr "Нарушение правил"
+
+#: /home/molodoy/Documents/www/functions/functions.php:226
+#: /home/molodoy/Documents/www/functions/functions.php:227
+msgid "wrote"
+msgstr "написал"
+
+#: /home/molodoy/Documents/www/functions/functions.php:284
+msgid "Author"
+msgstr "Автор"
+
+#: /home/molodoy/Documents/www/functions/functions.php:286
+#, php-format
+msgid "Views: %d"
+msgstr "Просмотров: %d"
+
+#: /home/molodoy/Documents/www/functions/functions.php:441
+msgid "No name specified."
+msgstr "Не указано имя."
+
+#: /home/molodoy/Documents/www/functions/functions.php:445
+msgid "Invalid name."
+msgstr "Неверное имя."
+
+#: /home/molodoy/Documents/www/functions/functions.php:447
+#: /home/molodoy/Documents/www/functions/functions.php:1871
+msgid "Name is too long."
+msgstr "Слишком длинное имя."
+
+#: /home/molodoy/Documents/www/functions/functions.php:458
+msgid "Monster with this name already exists."
+msgstr "Монстр с таким названием уже существует."
+
+#: /home/molodoy/Documents/www/functions/functions.php:461
+msgid "Item with this name already exists."
+msgstr "Предмет с таким названием уже существует."
+
+#: /home/molodoy/Documents/www/functions/functions.php:464
+msgid "Skill with this name already exists."
+msgstr "Способность с таким названием уже существует."
+
+#: /home/molodoy/Documents/www/functions/functions.php:467
+msgid "Spell with this name already exists."
+msgstr "Заклинание с таким названием уже существует."
+
+#: /home/molodoy/Documents/www/functions/functions.php:470
+msgid "Achievement with this name already exists."
+msgstr "Достижение с таким названием уже существует."
+
+#: /home/molodoy/Documents/www/functions/functions.php:485
+#: /home/molodoy/Documents/www/functions/functions.php:599
+#: /home/molodoy/Documents/www/functions/functions.php:719
+msgid "Invalid level."
+msgstr "Неверный уровень."
+
+#: /home/molodoy/Documents/www/functions/functions.php:495
+msgid "Invalid exp."
+msgstr "Неверный опыт."
+
+#: /home/molodoy/Documents/www/functions/functions.php:505
+msgid "Invalid speed."
+msgstr "Неверная скорость."
+
+#: /home/molodoy/Documents/www/functions/functions.php:516
+msgid "Invalid spell."
+msgstr "Неверное заклинание."
+
+#: /home/molodoy/Documents/www/functions/functions.php:527
+msgid "Invalid skill."
+msgstr "Неверная способность."
+
+#: /home/molodoy/Documents/www/functions/functions.php:534
+#: /home/molodoy/Documents/www/functions/functions.php:540
+msgid "Invalid attack."
+msgstr "Неверная атака."
+
+#: /home/molodoy/Documents/www/functions/functions.php:556
+#: /home/molodoy/Documents/www/functions/functions.php:562
+msgid "Invalid weakness."
+msgstr "Неверная слабость."
+
+#: /home/molodoy/Documents/www/functions/functions.php:575
+#: /home/molodoy/Documents/www/functions/functions.php:584
+msgid "Invalid drop."
+msgstr "Неверный дроп."
+
+#: /home/molodoy/Documents/www/functions/functions.php:610
+#: /home/molodoy/Documents/www/functions/functions.php:708
+msgid "Invalid mana."
+msgstr "Неверное количество маны."
+
+#: /home/molodoy/Documents/www/functions/functions.php:619
+#: /home/molodoy/Documents/www/functions/functions.php:689
+msgid "Invalid type."
+msgstr "Неверный тип."
+
+#: /home/molodoy/Documents/www/functions/functions.php:627
+#: /home/molodoy/Documents/www/functions/functions.php:659
+#: /home/molodoy/Documents/www/functions/functions.php:698
+#: /home/molodoy/Documents/www/functions/functions.php:1983
+msgid "Invalid vocation."
+msgstr "Неверная профессия."
+
+#: /home/molodoy/Documents/www/functions/functions.php:638
+msgid "Invalid data."
+msgstr "Неверные данные."
+
+#: /home/molodoy/Documents/www/functions/functions.php:650
+msgid "Invalid school."
+msgstr "Неверный класс."
+
+#: /home/molodoy/Documents/www/functions/functions.php:674
+#: /home/molodoy/Documents/www/functions/functions.php:728
+#: /home/molodoy/Documents/www/functions/functions.php:763
+msgid "Description is too long."
+msgstr "Слишком длинное описание."
+
+#: /home/molodoy/Documents/www/functions/functions.php:741
+msgid "Invalid element."
+msgstr "Неверный элемент."
+
+#: /home/molodoy/Documents/www/functions/functions.php:754
+msgid "Invalid points."
+msgstr "Неверные очки."
+
+#: /home/molodoy/Documents/www/functions/functions.php:832
+msgid "Monster has been removed from the list."
+msgstr "Монстр удален из списка."
+
+#: /home/molodoy/Documents/www/functions/functions.php:834
+msgid "Item has been removed from the list."
+msgstr "Предмет удален из списка."
+
+#: /home/molodoy/Documents/www/functions/functions.php:836
+msgid "Skill has been removed from the list."
+msgstr "Способность удалена из списка."
+
+#: /home/molodoy/Documents/www/functions/functions.php:838
+msgid "Spell has been removed from the list."
+msgstr "Заклинание удалено из списка."
+
+#: /home/molodoy/Documents/www/functions/functions.php:840
+msgid "Achievement has been removed from the list."
+msgstr "Достижение удалено из списка."
+
+#: /home/molodoy/Documents/www/functions/functions.php:845
+msgid "Are you sure you want to delete this monster from the list?"
+msgstr "Вы уверены, что хотите удалить этого монстра из списка?"
+
+#: /home/molodoy/Documents/www/functions/functions.php:848
+msgid "Are you sure you want to delete this item from the list?"
+msgstr "Вы уверены, что хотите удалить этот предмет из списка?"
+
+#: /home/molodoy/Documents/www/functions/functions.php:851
+msgid "Are you sure you want to delete this skill from the list?"
+msgstr "Вы уверены, что хотите удалить эту способность из списка?"
+
+#: /home/molodoy/Documents/www/functions/functions.php:854
+msgid "Are you sure you want to delete this spell from the list?"
+msgstr "Вы уверены, что хотите удалить это заклинание из списка?"
+
+#: /home/molodoy/Documents/www/functions/functions.php:857
+msgid "Are you sure you want to delete this achievement from the list?"
+msgstr "Вы уверены, что хотите удалить это достижение из списка?"
+
+#: /home/molodoy/Documents/www/functions/functions.php:864
+#: /home/molodoy/Documents/www/templates/artworks_index.tpl.php:14
+#: /home/molodoy/Documents/www/templates/artworks_index.tpl.php:46
+msgid "Delete"
+msgstr "Удалить"
+
+#: /home/molodoy/Documents/www/functions/functions.php:879
+#: /home/molodoy/Documents/www/functions/functions.php:889
+msgid "Invalid requirements."
+msgstr "Неверные требования."
+
+#: /home/molodoy/Documents/www/functions/functions.php:909
+msgid "Invalid icon."
+msgstr "Неверная иконка."
+
+#: /home/molodoy/Documents/www/functions/functions.php:941
+#: /home/molodoy/Documents/www/templates/album_index.tpl.php:21
+msgid "Send letter"
+msgstr "Отправить письмо"
+
+#: /home/molodoy/Documents/www/functions/functions.php:943
+#: /home/molodoy/Documents/www/functions/functions.php:945
+msgid "Remove friend"
+msgstr "Удалить из друзей"
+
+#: /home/molodoy/Documents/www/functions/functions.php:947
+msgid "Add friend"
+msgstr "Добавить в друзья"
+
+#: /home/molodoy/Documents/www/functions/functions.php:950
+#, php-format
+msgid "%s wants to be your friend."
+msgstr "%s хочет быть Вашим другом."
+
+#: /home/molodoy/Documents/www/functions/functions.php:958
+msgid "Accept"
+msgstr "Принять"
+
+#: /home/molodoy/Documents/www/functions/functions.php:964
+msgid "Decline"
+msgstr "Отклонить"
+
+#: /home/molodoy/Documents/www/functions/functions.php:1021
+#: /home/molodoy/Documents/www/functions/functions.php:1029
+msgid "Like"
+msgstr "+1"
+
+#: /home/molodoy/Documents/www/functions/functions.php:1024
+#: /home/molodoy/Documents/www/functions/functions.php:1026
+#: /home/molodoy/Documents/www/functions/functions.php:1029
+msgid "Dislike"
+msgstr "-1"
+
+#: /home/molodoy/Documents/www/functions/functions.php:1026
+#: /home/molodoy/Documents/www/functions/functions.php:1029
+msgid "Unvote"
+msgstr "Отмена"
+
+#: /home/molodoy/Documents/www/functions/functions.php:1038
+msgid "Moderators"
+msgstr "Модераторы"
+
+#: /home/molodoy/Documents/www/functions/functions.php:1049
+msgid "none"
+msgstr "нет"
+
+#: /home/molodoy/Documents/www/functions/functions.php:1101
+msgid "Access denied."
+msgstr "Доступ запрещен."
+
+#: /home/molodoy/Documents/www/functions/functions.php:1339
+msgid "Your file is too large."
+msgstr "Файл слишком большой."
+
+#: /home/molodoy/Documents/www/functions/functions.php:1341
+msgid "An error occured while uploading file."
+msgstr "Ошибка при загрузке файла."
+
+#: /home/molodoy/Documents/www/functions/functions.php:1343
+msgid "Please specify a file."
+msgstr "Пожалуйста, выберите файл."
+
+#: /home/molodoy/Documents/www/functions/functions.php:1345
+#: /home/molodoy/Documents/www/functions/images.class.php:76
+#: /home/molodoy/Documents/www/functions/images.class.php:80
+msgid "Unknown error."
+msgstr "Неизвестная ошибка."
+
+#: /home/molodoy/Documents/www/functions/functions.php:1554
+msgid "prev"
+msgstr "пред."
+
+#: /home/molodoy/Documents/www/functions/functions.php:1556
+msgid "next"
+msgstr "след."
+
+#: /home/molodoy/Documents/www/functions/functions.php:1642
+msgid "Goto page"
+msgstr "Стр."
+
+#: /home/molodoy/Documents/www/functions/functions.php:1654
+msgid "Offline"
+msgstr "Офлайн"
+
+#: /home/molodoy/Documents/www/functions/functions.php:1785
+msgid "Avatar removed."
+msgstr "Аватар удален."
+
+#: /home/molodoy/Documents/www/functions/functions.php:1840
+msgid "Invalid birth day."
+msgstr "Неверный день рождения."
+
+#: /home/molodoy/Documents/www/functions/functions.php:1846
+#: /home/molodoy/Documents/www/functions/functions.php:1852
+msgid "Invalid birth month."
+msgstr "Неверный месяц рождения."
+
+#: /home/molodoy/Documents/www/functions/functions.php:1881
+msgid "Invalid gender."
+msgstr "Неверный пол."
+
+#: /home/molodoy/Documents/www/functions/functions.php:1901
+msgid "Location is too long."
+msgstr "Слишком длинное местоположение."
+
+#: /home/molodoy/Documents/www/functions/functions.php:1912
+msgid "Invalid rank."
+msgstr "Неверный ранг."
+
+#: /home/molodoy/Documents/www/functions/functions.php:1922
+msgid "MSN is too long."
+msgstr "Слишком длинный MSN."
+
+#: /home/molodoy/Documents/www/functions/functions.php:1924
+msgid "Invalid MSN."
+msgstr "Неверный MSN."
+
+#: /home/molodoy/Documents/www/functions/functions.php:1934
+msgid "Invalid ICQ."
+msgstr "Неверный ICQ."
+
+#: /home/molodoy/Documents/www/functions/functions.php:1944
+msgid "Yahoo ID is too short."
+msgstr "Слишком короткий Yahoo ID."
+
+#: /home/molodoy/Documents/www/functions/functions.php:1946
+msgid "Yahoo ID is too long."
+msgstr "Слишком длинный Yahoo ID."
+
+#: /home/molodoy/Documents/www/functions/functions.php:1956
+msgid "Skype ID is too short."
+msgstr "Слишком короткий Skype ID."
+
+#: /home/molodoy/Documents/www/functions/functions.php:1958
+msgid "Skype ID is too long."
+msgstr "Слишком длинный Skype ID."
+
+#: /home/molodoy/Documents/www/functions/functions.php:1973
+msgid "Invalid relationship status."
+msgstr "Неверное семейное положение."
+
+#: /home/molodoy/Documents/www/functions/functions.php:1992
+msgid "Signature is too long."
+msgstr "Слишком длинная подпись."
+
+#: /home/molodoy/Documents/www/functions/functions.php:2002
+msgid "Invalid E-mail."
+msgstr "Неверный E-mail."
+
+#: /home/molodoy/Documents/www/functions/functions.php:2070
+msgid "Download"
+msgstr "Скачать"
+
+#: /home/molodoy/Documents/www/functions/functions.php:2093
+msgid "Edit"
+msgstr "Редактировать"
+
+#: /home/molodoy/Documents/www/functions/images.class.php:30
+#: /home/molodoy/Documents/www/functions/images.class.php:38
+#: /home/molodoy/Documents/www/functions/images.class.php:46
+msgid "No file specified."
+msgstr "Не выбран файл."
+
+#: /home/molodoy/Documents/www/functions/images.class.php:54
+#, php-format
+msgid "Invalid MIME type (%s)."
+msgstr "Неверный MIME тип (%s)."
+
+#: /home/molodoy/Documents/www/functions/images.class.php:61
+msgid "This photo had been already uploaded."
+msgstr "Эта фотография уже была загружена ранее."
+
+#: /home/molodoy/Documents/www/functions/images.class.php:64
+msgid "This screenshot had been already uploaded."
+msgstr "Этот скриншот уже был загружен ранее."
+
+#: /home/molodoy/Documents/www/functions/images.class.php:67
+msgid "This artwork had been already uploaded."
+msgstr "Это изображение уже было загружено ранее."
+
+#: /home/molodoy/Documents/www/functions/images.class.php:70
+msgid "This file had been already uploaded."
+msgstr "Этот файл уже был загружен ранее."
+
+#: /home/molodoy/Documents/www/functions/images.class.php:86
+msgid "File is too large."
+msgstr "Файл слишком большой."
+
+#: /home/molodoy/Documents/www/functions/images.class.php:90
+#, php-format
+msgid "Unknown error (errorcode: %d)."
+msgstr "Неизвестная ошибка (код ошибки: %d)."
+
+#: /home/molodoy/Documents/www/templates/album_index.tpl.php:17
+#, php-format
+msgid "%d album"
+msgid_plural "%d albums"
+msgstr[0] "%d альбом"
+msgstr[1] "%d альбома"
+msgstr[2] "%d альбомов"
+
+#: /home/molodoy/Documents/www/templates/album_index.tpl.php:18
+#, php-format
+msgid "%d photo"
+msgid_plural "%d photos"
+msgstr[0] "%d фотография"
+msgstr[1] "%d фотографии"
+msgstr[2] "%d фотографий"
+
+#: /home/molodoy/Documents/www/templates/album_index.tpl.php:19
+#, php-format
+msgid "%d comment"
+msgid_plural "%d comments"
+msgstr[0] "%d комментарий"
+msgstr[1] "%d комментария"
+msgstr[2] "%d комментариев"
+
+#: /home/molodoy/Documents/www/templates/album_index.tpl.php:19
+msgid "no comments"
+msgstr "нет комментариев"
+
+#: /home/molodoy/Documents/www/templates/album_index.tpl.php:19
+msgid "comments disabled"
+msgstr "комментарии отключены"
+
+#: /home/molodoy/Documents/www/templates/album_index.tpl.php:20
+msgid "View profile"
+msgstr "Профиль"
+
+#: /home/molodoy/Documents/www/templates/album_index_sortbox.tpl.php:5
+msgid "Sort"
+msgstr "Сортировать"
+
+#: /home/molodoy/Documents/www/templates/album_index_sortbox.tpl.php:8
+#: /home/molodoy/Documents/www/templates/album_index_sortbox.tpl.php:10
+msgid "by nickname"
+msgstr "по нику"
+
+#: /home/molodoy/Documents/www/templates/album_index_sortbox.tpl.php:13
+#: /home/molodoy/Documents/www/templates/album_index_sortbox.tpl.php:15
+msgid "by last update"
+msgstr "по обновлению"
+
+#: /home/molodoy/Documents/www/templates/album_index_sortbox.tpl.php:18
+#: /home/molodoy/Documents/www/templates/album_index_sortbox.tpl.php:20
+msgid "by comments"
+msgstr "по комментариям"
+
+#: /home/molodoy/Documents/www/templates/album_index_sortbox.tpl.php:24
+msgid "all"
+msgstr "все"
+
+#: /home/molodoy/Documents/www/templates/artworks_comments.tpl.php:6
+msgid "No one has commented yet."
+msgstr "Никто пока не оставил комментариев."
+
+#: /home/molodoy/Documents/www/templates/artworks_comments.tpl.php:16
+msgid "Comment"
+msgstr "Комментарий"
+
+#: /home/molodoy/Documents/www/templates/artworks_comments.tpl.php:21
+msgid "Send"
+msgstr "Отправить"
+
+#: /home/molodoy/Documents/www/templates/artworks_comments.tpl.php:24
+msgid "Log in to post your comments."
+msgstr "Авторизуйтесь, чтобы оставить комментарий."
+
+#: /home/molodoy/Documents/www/templates/artworks_index.tpl.php:4
+msgid "Artworks"
+msgstr "Творчество"
+
+#: /home/molodoy/Documents/www/templates/artworks_index.tpl.php:10
+msgid "Are you sure you want to delete this artwork?"
+msgstr "Вы уверены, что хотите удалить эту работу?"
+
+#: /home/molodoy/Documents/www/templates/artworks_index.tpl.php:21
+msgid "No artworks available."
+msgstr "Этот раздел пуст."
+
+#: /home/molodoy/Documents/www/templates/artworks_index.tpl.php:32
+msgid "Uploaded by"
+msgstr "Загрузил(a)"
+
+#: /home/molodoy/Documents/www/templates/artworks_index.tpl.php:34
+msgid "File size"
+msgstr "Размер"
+
+#: /home/molodoy/Documents/www/templates/artworks_index.tpl.php:36
+msgid "mb"
+msgstr "мб"
+
+#: /home/molodoy/Documents/www/templates/artworks_index.tpl.php:37
+msgid "kb"
+msgstr "кб"
+
+#: /home/molodoy/Documents/www/templates/artworks_index.tpl.php:38
+msgid "Resolution"
+msgstr "Разрешение"
+
+#: /home/molodoy/Documents/www/templates/artworks_index.tpl.php:40
+msgid "Comments"
+msgstr "Комментарии"
+
+#: /home/molodoy/Documents/www/templates/artworks_index.tpl.php:54
+msgid "Upload"
+msgstr "Загрузить"
+
+#: /home/molodoy/Documents/www/templates/artworks_index.tpl.php:57
+msgid "Log in to upload artworks."
+msgstr "Авторизуйтесь для загрузки файлов."
+
+#: /home/molodoy/Documents/www/templates/index.tpl.php:5
+msgid "Next update"
+msgstr "Следующее обновление"
+
+#: /home/molodoy/Documents/www/templates/index.tpl.php:30
+msgid "Latest news"
+msgstr "Последнии новости"
+
+#: /home/molodoy/Documents/www/templates/index.tpl.php:34
+msgid "all news"
+msgstr "все новости"
+
+#: /home/molodoy/Documents/www/templates/index.tpl.php:43
+#: /home/molodoy/Documents/www/wap.tibia-me.net/about.php:3
+#: /home/molodoy/Documents/www/wap.tibia-me.net/about.php:6
+#: /home/molodoy/Documents/www/wap.tibia-me.net/about.php:11
+msgid "What is TibiaME?"
+msgstr "Что такое TibiaME?"
+
+#: /home/molodoy/Documents/www/templates/index.tpl.php:49
+#: /home/molodoy/Documents/www/templates/profile.tpl.php:431
+#: /home/molodoy/Documents/www/templates/profile.tpl.php:433
+msgid "Screenshots"
+msgstr "Скриншоты"
+
+#: /home/molodoy/Documents/www/templates/index.tpl.php:50
+msgid "Photo album"
+msgstr "Фотоальбом"
+
+#: /home/molodoy/Documents/www/templates/index.tpl.php:51
+msgid "Forum"
+msgstr "Форум"
+
+#: /home/molodoy/Documents/www/templates/index.tpl.php:52
+#: /home/molodoy/Documents/www/templates/profile.tpl.php:436
+msgid "Themes"
+msgstr "Темы"
+
+#: /home/molodoy/Documents/www/templates/index.tpl.php:54
+msgid "Highscores"
+msgstr "Рекорды"
+
+#: /home/molodoy/Documents/www/templates/index.tpl.php:56
+msgid "TOP 100"
+msgstr "ТОП 100"
+
+#: /home/molodoy/Documents/www/templates/index.tpl.php:57
+msgid "TOP hunters"
+msgstr "Лучшие охотники"
+
+#: /home/molodoy/Documents/www/templates/index.tpl.php:59
+#: /home/molodoy/Documents/www/templates/index.tpl.php:73
+msgid "Achievements"
+msgstr "Достижения"
+
+#: /home/molodoy/Documents/www/templates/index.tpl.php:60
+msgid "Guilds"
+msgstr "Гильдии"
+
+#: /home/molodoy/Documents/www/templates/index.tpl.php:61
+msgid "Worlds"
+msgstr "Миры"
+
+#: /home/molodoy/Documents/www/templates/index.tpl.php:66
+msgid "Premium"
+msgstr "Премиум"
+
+#: /home/molodoy/Documents/www/templates/index.tpl.php:67
+msgid "Tables"
+msgstr "Таблицы"
+
+#: /home/molodoy/Documents/www/templates/index.tpl.php:69
+msgid "Monsters"
+msgstr "Монстры"
+
+#: /home/molodoy/Documents/www/templates/index.tpl.php:70
+msgid "Items"
+msgstr "Предметы"
+
+#: /home/molodoy/Documents/www/templates/index.tpl.php:71
+msgid "Skills"
+msgstr "Способности"
+
+#: /home/molodoy/Documents/www/templates/index.tpl.php:72
+msgid "Spells"
+msgstr "Заклинания"
+
+#: /home/molodoy/Documents/www/templates/index.tpl.php:75
+msgid "Community"
+msgstr "Сообщество"
+
+#: /home/molodoy/Documents/www/templates/index.tpl.php:78
+msgid "Memberlist"
+msgstr "Пользователи"
+
+#: /home/molodoy/Documents/www/templates/index.tpl.php:79
+msgid "Friendlist"
+msgstr "Друзья"
+
+#: /home/molodoy/Documents/www/templates/index.tpl.php:80
+#: /home/molodoy/Documents/www/templates/page_header.tpl.php:119
+#: /home/molodoy/Documents/www/templates/page_header.tpl.php:121
+#: /home/molodoy/Documents/www/templates/page_header.tpl.php:123
+msgid "Letters"
+msgstr "Письма"
+
+#: /home/molodoy/Documents/www/templates/index.tpl.php:81
+#: /home/molodoy/Documents/www/templates/page_header.tpl.php:115
+msgid "Profile"
+msgstr "Профиль"
+
+#: /home/molodoy/Documents/www/templates/index.tpl.php:82
+#: /home/molodoy/Documents/www/templates/page_header.tpl.php:128
+msgid "Settings"
+msgstr "Настройки"
+
+#: /home/molodoy/Documents/www/templates/index.tpl.php:83
+#: /home/molodoy/Documents/www/templates/page_header.tpl.php:129
+msgid "Log out"
+msgstr "Выйти"
+
+#: /home/molodoy/Documents/www/templates/index.tpl.php:85
+#: /home/molodoy/Documents/www/templates/page_header.tpl.php:167
+msgid "Log in"
+msgstr "Войти"
+
+#: /home/molodoy/Documents/www/templates/index.tpl.php:86
+#: /home/molodoy/Documents/www/templates/page_header.tpl.php:168
+msgid "Register"
+msgstr "Зарегистрироваться"
+
+#: /home/molodoy/Documents/www/templates/index.tpl.php:87
+#: /home/molodoy/Documents/www/templates/page_header.tpl.php:169
+msgid "Recover password"
+msgstr "Восстановить пароль"
+
+#: /home/molodoy/Documents/www/templates/index.tpl.php:89
+msgid "Emoticons"
+msgstr "Смайлы"
+
+#: /home/molodoy/Documents/www/templates/index.tpl.php:91
+msgid "Banlist"
+msgstr "Список банов"
+
+#: /home/molodoy/Documents/www/templates/index.tpl.php:93
+msgid "User agreement"
+msgstr "Пользовательское соглашение"
+
+#: /home/molodoy/Documents/www/templates/index.tpl.php:94
+#: /home/molodoy/Documents/www/wap.tibia-me.net/donate.php:3
+#: /home/molodoy/Documents/www/wap.tibia-me.net/donate.php:6
+msgid "Donate"
+msgstr "Пожертвовать"
+
+#: /home/molodoy/Documents/www/templates/index.tpl.php:96
+msgid "Related sites"
+msgstr "Похожие сайты"
+
+#: /home/molodoy/Documents/www/templates/index.tpl.php:102
+msgid "Contact us"
+msgstr "Связаться с нами"
+
+#: /home/molodoy/Documents/www/templates/index.tpl.php:104
+#: /home/molodoy/Documents/www/wap.tibia-me.net/contacts.php:3
+#: /home/molodoy/Documents/www/wap.tibia-me.net/contacts.php:6
+#: /home/molodoy/Documents/www/wap.tibia-me.net/contacts.php:12
+msgid "Contacts"
+msgstr "Контакты"
+
+#: /home/molodoy/Documents/www/templates/index.tpl.php:113
+msgid "Tibia and TibiaME are trademarks of <a href=\"http://www.cipsoft.com\" target=\"_blank\">CipSoft GmbH</a>, Germany."
+msgstr "Tibia и TibiaME являются торговыми марками <a href=\"http://www.cipsoft.com\" target=\"_blank\">OOO \"CipSoft\"</a>, Германия."
+
+#: /home/molodoy/Documents/www/templates/page_header.tpl.php:114
+#: /home/molodoy/Documents/www/wap.tibia-me.net/about.php:5
+#: /home/molodoy/Documents/www/wap.tibia-me.net/advertisement.php:22
+#: /home/molodoy/Documents/www/wap.tibia-me.net/contacts.php:5
+#: /home/molodoy/Documents/www/wap.tibia-me.net/donate.php:5
+msgid "Home"
+msgstr "На главную"
+
+#: /home/molodoy/Documents/www/templates/page_header.tpl.php:127
+#: /home/molodoy/Documents/www/templates/profile.tpl.php:425
+#: /home/molodoy/Documents/www/templates/profile.tpl.php:427
+msgid "Photos"
+msgstr "Фотографии"
+
+#: /home/molodoy/Documents/www/templates/page_header.tpl.php:133
+#, php-format
+msgid "%d new letter"
+msgid_plural "%d new letters"
+msgstr[0] "%d новое сообщение"
+msgstr[1] "%d новых сообщения"
+msgstr[2] "%d новых сообщений"
+
+#: /home/molodoy/Documents/www/templates/page_header.tpl.php:136
+#, php-format
+msgid "%d friend request"
+msgid_plural "%d friend requests"
+msgstr[0] "%d новый друг"
+msgstr[1] "%d новыx друга"
+msgstr[2] "%d новых друзей"
+
+#: /home/molodoy/Documents/www/templates/page_header.tpl.php:160
+msgid "Menu"
+msgstr "Меню"
+
+#: /home/molodoy/Documents/www/templates/page_header.tpl.php:166
+msgid "You are not authorized."
+msgstr "Вы не авторизованы."
+
+#: /home/molodoy/Documents/www/templates/profile.tpl.php:25
+msgid "Remove avatar"
+msgstr "Удалить аватар"
+
+#: /home/molodoy/Documents/www/templates/profile.tpl.php:32
+msgid "Banned"
+msgstr "Забанен"
+
+#: /home/molodoy/Documents/www/templates/profile.tpl.php:39
+msgid "Vocation"
+msgstr "Профессия"
+
+#: /home/molodoy/Documents/www/templates/profile.tpl.php:42
+#: /home/molodoy/Documents/www/templates/profile.tpl.php:63
+#: /home/molodoy/Documents/www/templates/profile.tpl.php:102
+#: /home/molodoy/Documents/www/templates/profile.tpl.php:124
+#: /home/molodoy/Documents/www/templates/profile.tpl.php:132
+#: /home/molodoy/Documents/www/templates/profile.tpl.php:197
+#: /home/molodoy/Documents/www/templates/profile.tpl.php:287
+msgid "not specified"
+msgstr "не указано"
+
+#: /home/molodoy/Documents/www/templates/profile.tpl.php:45
+#: /home/molodoy/Documents/www/templates/profile.tpl.php:48
+#: /home/molodoy/Documents/www/templates/profile.tpl.php:59
+msgid "warrior"
+msgstr "воин"
+
+#: /home/molodoy/Documents/www/templates/profile.tpl.php:52
+#: /home/molodoy/Documents/www/templates/profile.tpl.php:55
+#: /home/molodoy/Documents/www/templates/profile.tpl.php:61
+msgid "wizard"
+msgstr "маг"
+
+#: /home/molodoy/Documents/www/templates/profile.tpl.php:69
+msgid "Rank"
+msgstr "Ранг"
+
+#: /home/molodoy/Documents/www/templates/profile.tpl.php:82
+msgid "Rating"
+msgstr "Рейтинг"
+
+#: /home/molodoy/Documents/www/templates/profile.tpl.php:87
+msgid "Name"
+msgstr "Имя"
+
+#: /home/molodoy/Documents/www/templates/profile.tpl.php:99
+msgid "Gender"
+msgstr "Пол"
+
+#: /home/molodoy/Documents/www/templates/profile.tpl.php:105
+#: /home/molodoy/Documents/www/templates/profile.tpl.php:108
+#: /home/molodoy/Documents/www/templates/profile.tpl.php:120
+msgid "Male"
+msgstr "Мужской"
+
+#: /home/molodoy/Documents/www/templates/profile.tpl.php:112
+#: /home/molodoy/Documents/www/templates/profile.tpl.php:115
+#: /home/molodoy/Documents/www/templates/profile.tpl.php:122
+msgid "Female"
+msgstr "Женский"
+
+#: /home/molodoy/Documents/www/templates/profile.tpl.php:129
+msgid "Relationship status"
+msgstr "Семейное положение"
+
+#: /home/molodoy/Documents/www/templates/profile.tpl.php:135
+#: /home/molodoy/Documents/www/templates/profile.tpl.php:138
+#: /home/molodoy/Documents/www/templates/profile.tpl.php:179
+msgid "Single"
+msgstr "Холост/Не замужем"
+
+#: /home/molodoy/Documents/www/templates/profile.tpl.php:142
+#: /home/molodoy/Documents/www/templates/profile.tpl.php:145
+#: /home/molodoy/Documents/www/templates/profile.tpl.php:182
+msgid "In relationship"
+msgstr "Встречаюсь"
+
+#: /home/molodoy/Documents/www/templates/profile.tpl.php:149
+#: /home/molodoy/Documents/www/templates/profile.tpl.php:152
+#: /home/molodoy/Documents/www/templates/profile.tpl.php:185
+msgid "Engaged"
+msgstr "Помолвлен(а)"
+
+#: /home/molodoy/Documents/www/templates/profile.tpl.php:156
+#: /home/molodoy/Documents/www/templates/profile.tpl.php:159
+#: /home/molodoy/Documents/www/templates/profile.tpl.php:188
+msgid "Married"
+msgstr "Женат/Замужем"
+
+#: /home/molodoy/Documents/www/templates/profile.tpl.php:163
+#: /home/molodoy/Documents/www/templates/profile.tpl.php:166
+#: /home/molodoy/Documents/www/templates/profile.tpl.php:191
+msgid "It's complicated"
+msgstr "Все сложно"
+
+#: /home/molodoy/Documents/www/templates/profile.tpl.php:170
+#: /home/molodoy/Documents/www/templates/profile.tpl.php:173
+#: /home/molodoy/Documents/www/templates/profile.tpl.php:194
+msgid "Actively searching"
+msgstr "В активном поиске"
+
+#: /home/molodoy/Documents/www/templates/profile.tpl.php:202
+msgid "Birthday"
+msgstr "Дата рождения"
+
+#: /home/molodoy/Documents/www/templates/profile.tpl.php:221
+msgid "January"
+msgstr "Январь"
+
+#: /home/molodoy/Documents/www/templates/profile.tpl.php:224
+msgid "February"
+msgstr "Февраль"
+
+#: /home/molodoy/Documents/www/templates/profile.tpl.php:227
+msgid "March"
+msgstr "Март"
+
+#: /home/molodoy/Documents/www/templates/profile.tpl.php:230
+msgid "April"
+msgstr "Апрель"
+
+#: /home/molodoy/Documents/www/templates/profile.tpl.php:233
+msgid "May"
+msgstr "Май"
+
+#: /home/molodoy/Documents/www/templates/profile.tpl.php:236
+msgid "June"
+msgstr "Июнь"
+
+#: /home/molodoy/Documents/www/templates/profile.tpl.php:239
+msgid "July"
+msgstr "Июль"
+
+#: /home/molodoy/Documents/www/templates/profile.tpl.php:242
+msgid "August"
+msgstr "Август"
+
+#: /home/molodoy/Documents/www/templates/profile.tpl.php:245
+msgid "September"
+msgstr "Сентябрь"
+
+#: /home/molodoy/Documents/www/templates/profile.tpl.php:248
+msgid "October"
+msgstr "Октябрь"
+
+#: /home/molodoy/Documents/www/templates/profile.tpl.php:251
+msgid "November"
+msgstr "Ноябрь"
+
+#: /home/molodoy/Documents/www/templates/profile.tpl.php:254
+msgid "December"
+msgstr "Декабрь"
+
+#: /home/molodoy/Documents/www/templates/profile.tpl.php:278
+msgid "Hide age"
+msgstr "Скрыть возраст"
+
+#: /home/molodoy/Documents/www/templates/profile.tpl.php:290
+msgid "Age"
+msgstr "Возраст"
+
+#: /home/molodoy/Documents/www/templates/profile.tpl.php:298
+#: /home/molodoy/Documents/www/templates/profile.tpl.php:302
+msgid "Location"
+msgstr "Откуда"
+
+#: /home/molodoy/Documents/www/templates/profile.tpl.php:307
+msgid "Joined"
+msgstr "Загеристрирован с"
+
+#: /home/molodoy/Documents/www/templates/profile.tpl.php:311
+msgid "Before 27th of August, 2009"
+msgstr "До 27 августа 2009"
+
+#: /home/molodoy/Documents/www/templates/profile.tpl.php:315
+msgid "Last visit"
+msgstr "Последнее посещение"
+
+#: /home/molodoy/Documents/www/templates/profile.tpl.php:319
+msgid "no data"
+msgstr "нет данных"
+
+#: /home/molodoy/Documents/www/templates/profile.tpl.php:323
+msgid "Total online time"
+msgstr "Провел на сайте"
+
+#: /home/molodoy/Documents/www/templates/profile.tpl.php:324
+#, php-format
+msgid "%dh %dmin %dsec"
+msgstr "%dч %dмин %dс"
+
+#: /home/molodoy/Documents/www/templates/profile.tpl.php:334
+msgid "Hide email"
+msgstr "Скрыть email"
+
+#: /home/molodoy/Documents/www/templates/profile.tpl.php:408
+#: /home/molodoy/Documents/www/templates/profile.tpl.php:413
+msgid "Signature"
+msgstr "Подпись"
+
+#: /home/molodoy/Documents/www/templates/profile.tpl.php:409
+msgid "will be attached to your messages"
+msgstr "будет добавлена к Вашим сообщениям"
+
+#: /home/molodoy/Documents/www/templates/profile.tpl.php:421
+msgid "Posts at forum"
+msgstr "Постов на форуме"
+
+#: /home/molodoy/Documents/www/templates/profile.tpl.php:440
+#: /home/molodoy/Documents/www/templates/profile.tpl.php:442
+msgid "Friends"
+msgstr "Друзья"
+
+#: /home/molodoy/Documents/www/templates/profile.tpl.php:460
+#: /home/molodoy/Documents/www/templates/profile.tpl.php:462
+msgid "Banishments"
+msgstr "Наказания"
+
+#: /home/molodoy/Documents/www/templates/profile.tpl.php:471
+msgid "Permissions"
+msgstr "Права"
+
+#: /home/molodoy/Documents/www/templates/profile.tpl.php:478
+msgid "Ban"
+msgstr "Забанить"
+
+#: /home/molodoy/Documents/www/templates/profile.tpl.php:483
+msgid "Delete all posts"
+msgstr "Удалить все посты"
+
+#: /home/molodoy/Documents/www/templates/user_permissions.php:11
+msgid "Moderate album"
+msgstr "Редактировать альбом"
+
+#: /home/molodoy/Documents/www/templates/user_permissions.php:14
+msgid "Ban users"
+msgstr "Банить пользователей"
+
+#: /home/molodoy/Documents/www/templates/user_permissions.php:17
+msgid "Moderate forum"
+msgstr "Модерировать форум"
+
+#: /home/molodoy/Documents/www/templates/user_permissions.php:20
+msgid "Access to hidden forum"
+msgstr "Доступ к скрытому форуму"
+
+#: /home/molodoy/Documents/www/templates/user_permissions.php:23
+msgid "Edit profiles"
+msgstr "Редактировать профили"
+
+#: /home/molodoy/Documents/www/templates/user_permissions.php:26
+msgid "Moderate screenshots"
+msgstr "Модерировать скриншоты"
+
+#: /home/molodoy/Documents/www/templates/user_permissions.php:29
+msgid "Edit signatures"
+msgstr "Редактировать подписи"
+
+#: /home/molodoy/Documents/www/templates/user_permissions.php:32
+msgid "Edit tables"
+msgstr "Редактировать таблицы"
+
+#: /home/molodoy/Documents/www/templates/user_permissions.php:35
+msgid "Moderate themes"
+msgstr "Модерировать темы"
+
+#: /home/molodoy/Documents/www/templates/user_permissions.php:38
+msgid "Moderate artworks"
+msgstr "Модерировать творчество"
+
+#: /home/molodoy/Documents/www/templates/user_permissions.php:43
+msgid "no"
+msgstr "нет"
+
+#: /home/molodoy/Documents/www/templates/user_permissions.php:45
+#: /home/molodoy/Documents/www/templates/user_permissions.php:47
+msgid "yes"
+msgstr "да"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/about.php:17
+msgid ""
+"Tibia Micro Edition is the first online role playing game for mobile phones. The story of Tibia Micro Edition (Tibia ME) is inspired by the PC game Tibia, one of the oldest and most successful online role playing games in Europe.\n"
+"                Dark forces threaten the peaceful people of Aurea, a little island located close to the rim of the Tibian ocean. Duke Bandomir, the islands ruler, has called on all the heroes of Tibia to aid his people in their struggle.\n"
+"                In the colourful real-time fantasy world of Tibia ME, hundreds of players can set forth together in search of virtual adventure. Acting as warriors or wizards, they will be faced with the challenge of developing the skills of their\n"
+"                selected characters, exploring a large variety of areas, unravelling secrets and interacting with other players on a social and diplomatic level."
+msgstr ""
+"Tibia Micro Edition - первая ролевая онлайн игра для мобильных устройств. История Tibia Micro Edition (Tibia ME) основывается на игре Tibia для ПК, одной из старейших и наиболее успешных ролевых онлайн игр в Европе.\n"
+"Темные силы угрожают мирному народу Aurea - маленького острова, расположенного на краю океана Tibian. Герцог Bandomir, правитель острова, призвал всех героев Tibia помочь своему народу в этой борьбе. Сотни игроков могут собираться вместе в красочном фантастическом мире Tibia ME для поисков виртуальных приключений. Взяв на себя роль войнов или магов, они столкнутся с задачей развития навыков их персонажей, исследования огромного количества территорий, распутывания секретов и дипломатического взаимодействия с другими игроками."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/advertisement.php:3
+#: /home/molodoy/Documents/www/wap.tibia-me.net/advertisement.php:7
+msgid "For advertisers"
+msgstr "Рекламодателям"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/advertisement.php:11
+msgid "Have a mobile website and would like to promote it? We could help you out with that for a little fee. Contact us to learn more."
+msgstr "Если у Вас есть мобильный сайт и вы хотите разместить его ссылку у нас - мы сделаем это за небольшую плату. Свяжитесь с нами для подробной информации."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/donate.php:14
+msgid "Donation cancelled."
+msgstr "Пожертвование отменено."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/donate.php:16
+msgid "Thank you for your donation!"
+msgstr "Спасибо за Ваш взнос!"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/donate.php:18
+msgid "Tibia-ME.net relies on community support for hosting and development.<br>Donate and help us be the best TibiaME fansite."
+msgstr "Tibia-ME.net рассчитывает на поддержку пользователей.<br>Ваши взносы помогают нам быть лучшими."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/error_handler.php:7
+#, php-format
+msgid "You don't have permission to access <i>%s</i> on this server."
+msgstr "У Вас нет разрешения на доступ к <i>%s</i>."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/error_handler.php:11
+#, php-format
+msgid "File <i>%s</i> not found on this server."
+msgstr "Файл <i>%s</i> не найден."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/error_handler.php:16
+msgid "Error"
+msgstr "Ошибка"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/error_handler.php:19
+msgid "Internal Server Error"
+msgstr "Внутренняя ошибка сервера"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/error_handler.php:20
+msgid "This error may be caused by inccorrect server configuration or application error."
+msgstr "Эта ошибка может быть вызвана неправильной конфигурацией сервера или ошибкой приложения."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/index.php:38
+msgid "today"
+msgstr "сегодня"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/index.php:40
+#, php-format
+msgid "%d day left"
+msgid_plural "%d days left"
+msgstr[0] "через %d день"
+msgstr[1] "через %d дня"
+msgstr[2] "через %d дней"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/premium.php:11
+msgid "What is Premium?"
+msgstr "Что такое Премиум?"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/premium.php:15
+msgid "Full Exp for all defeated opponents beyond level 10!"
+msgstr "Полный опыт за убитых врагов после 10 уровня!"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/premium.php:16
+msgid "Lose less experience points when you die (5% instead of 10%)!"
+msgstr "Меньшая потеря опыта при смерти (5% вместо 10%)!"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/premium.php:17
+msgid "Board ships to explore premium only areas!"
+msgstr "Используйте корабли для исследования премиум зон!"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/premium.php:18
+msgid "Use all portals!"
+msgstr "Используйте все порталы!"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/premium.php:19
+msgid "Get listed in the Highscores!"
+msgstr "Возможность попасть в ТОП 100!"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/premium.php:20
+msgid "Found a guild and invite your friends to fight at your side!"
+msgstr "Создайте гильдию и пригласите друзей для сражения на Вашей стороне!"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/premium.php:21
+msgid "More entries in your friends or ignorelist!"
+msgstr "Возможность добавить больше игроков в список друзей!"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/premium.php:22
+msgid "Receive up to 20 letters in your inbox!"
+msgstr "Возможность хранить до 20 входящих писем!"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/premium.php:23
+msgid "Always get online, even when the game server is full!"
+msgstr "Возможность заходить в игру даже если сервер переполнен!"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/premium.php:24
+msgid "You can order Premium at www.tibiame.com."
+msgstr "Вы можете заказать Премиум на www.tibiame.com или связавшись с нами."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/forum/index.php:33
+msgid "Forums"
+msgstr "Разделы"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/forum/posting.php:25
+msgid "This thread is closed, you cannot delete posts."
+msgstr "Эта тема закрыта, Вы не можете удалять сообщения."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/forum/posting.php:32
+msgid "Sorry, this message cannot be deleted."
+msgstr "Извините, это сообщение не может быть удалено."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/forum/posting.php:40
+msgid "The thread has been deleted."
+msgstr "Тема удалена."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/forum/posting.php:42
+msgid "The message has been deleted."
+msgstr "Сообщение удалено."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/forum/posting.php:48
+msgid "This thread is closed, you cannot edit posts."
+msgstr "Эта тема закрыта, Вы не можете редактировать сообщения."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/forum/posting.php:70
+msgid "Post not found."
+msgstr "Сообщение не найдено."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/forum/posting.php:78
+#: /home/molodoy/Documents/www/wap.tibia-me.net/forum/viewtopic.php:4
+#: /home/molodoy/Documents/www/wap.tibia-me.net/forum/viewtopic.php:30
+msgid "Thread not found."
+msgstr "Тема не найдена."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/forum/posting.php:82
+#: /home/molodoy/Documents/www/wap.tibia-me.net/forum/viewtopic.php:26
+#: /home/molodoy/Documents/www/wap.tibia-me.net/forum/viewtopic.php:120
+msgid "This thread is closed, you cannot post here."
+msgstr "Эта тема закрыта, Вы не можете оставлять сообщения."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/forum/posting.php:92
+#: /home/molodoy/Documents/www/wap.tibia-me.net/forum/posting.php:259
+msgid "You don't have permission to edit this thread."
+msgstr "Вы не можете редактировать эту тему."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/forum/posting.php:102
+#: /home/molodoy/Documents/www/wap.tibia-me.net/forum/posting.php:149
+msgid "Please specify topic title and message."
+msgstr "Пожалуйста, укажите тему и сообщение."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/forum/posting.php:105
+msgid "This thread is closed, you cannot edit it."
+msgstr "Эта тема закрыта, Вы не можете ее редактировать."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/forum/posting.php:110
+#: /home/molodoy/Documents/www/wap.tibia-me.net/forum/posting.php:154
+msgid "Topic with this name already exists."
+msgstr "Тема с таким названием уже существует."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/forum/posting.php:123
+#: /home/molodoy/Documents/www/wap.tibia-me.net/forum/posting.php:160
+msgid "You cannot create more than 5 sticky topics in this forum."
+msgstr "Вы не можете создавать более 5 закрепленных тем в этом разделе."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/forum/posting.php:147
+#: /home/molodoy/Documents/www/wap.tibia-me.net/forum/posting.php:306
+msgid "You don't have permission to post new threads here."
+msgstr "Вы не можете создавать новые темы здесь."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/forum/posting.php:169
+msgid "Thread created."
+msgstr "Тема создана."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/forum/posting.php:176
+#: /home/molodoy/Documents/www/wap.tibia-me.net/forum/posting.php:375
+msgid "You don't have permission to delete this thread."
+msgstr "Вы не можете удалить эту тему."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/forum/posting.php:182
+msgid "Thread removed."
+msgstr "Тема удалена."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/forum/posting.php:214
+msgid "Topic has been moved."
+msgstr "Тема перемещена."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/forum/posting.php:221
+#: /home/molodoy/Documents/www/wap.tibia-me.net/forum/_topmenu.php:31
+msgid "Edit topic"
+msgstr "Редактировать тему"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/forum/posting.php:224
+msgid "Edit post"
+msgstr "Редактировать сообщение"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/forum/posting.php:228
+msgid "Create topic"
+msgstr "Создать тему"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/forum/posting.php:231
+#: /home/molodoy/Documents/www/wap.tibia-me.net/forum/posting.php:241
+msgid "Quote message"
+msgstr "Цитировать сообщение"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/forum/posting.php:234
+msgid "Delete post"
+msgstr "Удалить сообщение"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/forum/posting.php:238
+#: /home/molodoy/Documents/www/wap.tibia-me.net/forum/posting.php:290
+msgid "Delete topic"
+msgstr "Удалить тему"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/forum/posting.php:244
+#: /home/molodoy/Documents/www/wap.tibia-me.net/forum/_topmenu.php:29
+msgid "Move topic"
+msgstr "Переместить тему"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/forum/posting.php:262
+#: /home/molodoy/Documents/www/wap.tibia-me.net/forum/posting.php:311
+msgid "Topic title"
+msgstr "Тема"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/forum/posting.php:266
+#: /home/molodoy/Documents/www/wap.tibia-me.net/forum/posting.php:313
+msgid "Topic type"
+msgstr "Тип"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/forum/posting.php:268
+#: /home/molodoy/Documents/www/wap.tibia-me.net/forum/posting.php:270
+#: /home/molodoy/Documents/www/wap.tibia-me.net/forum/posting.php:314
+msgid "Normal"
+msgstr "Обычный"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/forum/posting.php:273
+#: /home/molodoy/Documents/www/wap.tibia-me.net/forum/posting.php:275
+#: /home/molodoy/Documents/www/wap.tibia-me.net/forum/posting.php:317
+msgid "Sticky"
+msgstr "Закрепленный"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/forum/posting.php:279
+#: /home/molodoy/Documents/www/wap.tibia-me.net/forum/posting.php:281
+#: /home/molodoy/Documents/www/wap.tibia-me.net/forum/posting.php:319
+msgid "Announcement"
+msgstr "Объявление"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/forum/posting.php:285
+#: /home/molodoy/Documents/www/wap.tibia-me.net/forum/posting.php:287
+msgid "Close topic"
+msgstr "Закрыть тему"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/forum/posting.php:323
+msgid "Create"
+msgstr "Создать"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/forum/posting.php:362
+msgid "Are you sure you want to delete this post?"
+msgstr "Вы уверены, что хотите удалить это сообщение?"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/forum/posting.php:377
+msgid "Are you sure you want to delete this thread?"
+msgstr "Вы уверены, что хотите удалить эту тему?"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/forum/posting.php:389
+msgid "You don't have permission to move this thread."
+msgstr "Вы не можете перемещать эту тему."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/forum/posting.php:393
+msgid "Move to"
+msgstr "Переместить в"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/forum/posting.php:401
+msgid "Move"
+msgstr "Переместить"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/forum/posting.php:408
+msgid "No post mode specified."
+msgstr "Не передан тип сообщения."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/forum/search.php:8
+#: /home/molodoy/Documents/www/wap.tibia-me.net/forum/search.php:16
+#: /home/molodoy/Documents/www/wap.tibia-me.net/forum/search.php:36
+#: /home/molodoy/Documents/www/wap.tibia-me.net/forum/_topmenu.php:9
+msgid "Search"
+msgstr "Поиск"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/forum/search.php:43
+msgid "Your search returned no results."
+msgstr "Ваш запрос не дал результатов."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/forum/search.php:45
+#, php-format
+msgid "Your search returned %d result."
+msgid_plural "Your search returned %d results."
+msgstr[0] "По Вашему запросу найден %d результат."
+msgstr[1] "По Вашему запросу найдено %d результата."
+msgstr[2] "По Вашему запросу найдено %d результатов."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/forum/viewforum.php:16
+#: /home/molodoy/Documents/www/wap.tibia-me.net/forum/viewforum.php:20
+msgid "Forum not found."
+msgstr "Форум не найден."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/forum/viewforum.php:24
+#, php-format
+msgid "Forum: %s"
+msgstr "Форум: %s"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/forum/viewtopic.php:16
+msgid "You will be notified on new replies in this thread."
+msgstr "Вы будете получать уведомления о новых сообщениях в этой теме."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/forum/viewtopic.php:20
+msgid "You will no longer be notified on new replies in this thread."
+msgstr "Вы больше не будете получать уведомления о новых сообщениях в этой теме."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/forum/viewtopic.php:35
+#, php-format
+msgid "Viewtopic: %s"
+msgstr "Просмотр темы: %s"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/forum/viewtopic.php:55
+#: /home/molodoy/Documents/www/wap.tibia-me.net/forum/viewtopic.php:78
+#, php-format
+msgid "<b>Posts</b>: %d"
+msgstr "<b>Посты</b>: %d"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/forum/viewtopic.php:60
+#: /home/molodoy/Documents/www/wap.tibia-me.net/forum/viewtopic.php:83
+#, php-format
+msgid "Edited by %1$s on %2$s;<br>edited %3$d times in total"
+msgstr "Изменил %1$s %2$s;<br>всего изменено %3$d раз(а)"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/forum/viewtopic.php:63
+#: /home/molodoy/Documents/www/wap.tibia-me.net/forum/viewtopic.php:86
+msgid "Quote"
+msgstr "Цитировать"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/forum/viewtopic.php:125
+msgid "Reply"
+msgstr "Ответить"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/forum/_bottommenu.php:13
+msgid "Mark all as read"
+msgstr "Отметить все как прочитанное"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/forum/_bottommenu.php:16
+#: /home/molodoy/Documents/www/wap.tibia-me.net/forum/_topmenu.php:22
+msgid "Post new topic"
+msgstr "Создать тему"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/forum/_bottommenu.php:18
+msgid "Mark this section as read"
+msgstr "Отметить раздел как прочитанный"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/forum/_topmenu.php:36
+msgid "Watch for replies"
+msgstr "Следить за темой"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/forum/_topmenu.php:38
+msgid "Stop watching"
+msgstr "Не следить за темой"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/admin/ranks.php:22
+#: /home/molodoy/Documents/www/wap.tibia-me.net/admin/ranks.php:54
+msgid "Control Panel"
+msgstr "Панель управления"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/admin/ranks.php:28
+msgid "Ranks"
+msgstr "Ранги"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/album/comments.php:13
+msgid "Invalid request."
+msgstr "Неверный запрос."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/album/comments.php:42
+msgid "Incorrect confirmation code."
+msgstr "Неверный код подтверждения."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/album/comments.php:60
+msgid "New comment"
+msgstr "Новый комментарий"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/album/comments.php:61
+#, php-format
+msgid ""
+"Hello %s,\n"
+"\n"
+"Someone has commented your photo in Tibia-ME.net Photo Album and you have requested that you be notified on this event. You can view the comment by clicking on the following link:\n"
+"\n"
+"http://wap.tibia-me.net/album/comments.php?photo=%d&page=%d\n"
+"\n"
+"Remember that you can always choose not to be notified of new comments by changing the appropriate setting in your profile.\n"
+"http://wap.tibia-me.net/user/settings.php\n"
+"\n"
+"Kind Regards,\n"
+"Tibia-ME.net Support,\n"
+"http://wap.tibia-me.net"
+msgstr ""
+"Здравствуйте, %s,\n"
+"\n"
+"Кто-то прокомментировал Вашу фотографию в альбоме на Tibia-ME.net Photo и Вы просили, чтобы мы уведомляли Вас об этом. Вы можете просмотреть комментарии перейдя по следующей ссылке:\n"
+"\n"
+"http://wap.tibia-me.net/album/comments.php?photo=%d&page=%d\n"
+"\n"
+"Вы можете отказаться от получения уведомлений изменив соответствующие настройки.\n"
+"http://wap.tibia-me.net/user/settings.php\n"
+"\n"
+"С уважением,\n"
+"Tibia-ME.net Support,\n"
+"http://wap.tibia-me.net"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/album/comments.php:73
+msgid "Your comment has been posted."
+msgstr "Ваш комментарий отправлен."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/album/comments.php:79
+msgid "Comment removed."
+msgstr "Комментарий удален."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/album/comments.php:138
+msgid "Post comment"
+msgstr "Прокомментировать"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/album/comments.php:151
+#: /home/molodoy/Documents/www/wap.tibia-me.net/album/index.php:25
+msgid "My photos"
+msgstr "Мои фотографии"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/album/photos.php:26
+msgid "Delete photo"
+msgstr "Удалить фотографию"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/album/photos.php:110
+msgid "Create album"
+msgstr "Создать альбом"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/album/photos.php:112
+msgid "Delete album"
+msgstr "Удалить альбом"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/album/photos.php:113
+msgid "Edit album"
+msgstr "Редактировать альбом"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/album/photos.php:123
+#: /home/molodoy/Documents/www/wap.tibia-me.net/album/photos.php:441
+msgid "You don't have permission to delete this album."
+msgstr "Вы не можете удалить этот альбом."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/album/photos.php:136
+msgid "Are you sure you want to delete this photo?"
+msgstr "Вы уверены, что хотите удалить эту фотографию?"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/album/photos.php:149
+msgid "You don't have permission to set this photo as avatar."
+msgstr "Вы не можете использовать эту фотографию как аватар."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/album/photos.php:151
+msgid "Avatar updated."
+msgstr "Аватар изменен."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/album/photos.php:160
+msgid "You cannot view this album."
+msgstr "Вы не можете просмотреть этот альбом."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/album/photos.php:169
+#: /home/molodoy/Documents/www/wap.tibia-me.net/album/photos.php:171
+#, php-format
+msgid "File %d"
+msgstr "Файл %d"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/album/photos.php:169
+msgid "Your photo has been uploaded."
+msgstr "Фотография загружена."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/album/photos.php:179
+msgid "This album has no photos."
+msgstr "В этом альбоме нет фотографий."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/album/photos.php:188
+#, php-format
+msgid "File size: %dkb"
+msgstr "Размер: %dкб"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/album/photos.php:197
+msgid "Rotate left"
+msgstr "Повернуть налево"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/album/photos.php:198
+msgid "Rotate right"
+msgstr "Повернуть направо"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/album/photos.php:199
+msgid "Set as avatar"
+msgstr "Сделать аватаром"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/album/photos.php:225
+msgid "You have no albums."
+msgstr "У Вас нет альбомов."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/album/photos.php:227
+msgid "This user has no albums."
+msgstr "У этого пользователя нет альбомов."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/album/photos.php:244
+#: /home/molodoy/Documents/www/wap.tibia-me.net/album/photos.php:284
+#: /home/molodoy/Documents/www/wap.tibia-me.net/album/photos.php:360
+msgid "Description"
+msgstr "Описание"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/album/photos.php:245
+#: /home/molodoy/Documents/www/wap.tibia-me.net/album/photos.php:286
+#: /home/molodoy/Documents/www/wap.tibia-me.net/album/photos.php:362
+msgid "Access"
+msgstr "Доступ"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/album/photos.php:247
+#: /home/molodoy/Documents/www/wap.tibia-me.net/album/photos.php:290
+#: /home/molodoy/Documents/www/wap.tibia-me.net/album/photos.php:375
+#: /home/molodoy/Documents/www/wap.tibia-me.net/album/photos.php:377
+msgid "by password"
+msgstr "по паролю"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/album/photos.php:249
+#: /home/molodoy/Documents/www/wap.tibia-me.net/album/photos.php:289
+#: /home/molodoy/Documents/www/wap.tibia-me.net/album/photos.php:370
+#: /home/molodoy/Documents/www/wap.tibia-me.net/album/photos.php:372
+msgid "friends only"
+msgstr "только друзья"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/album/photos.php:251
+#: /home/molodoy/Documents/www/wap.tibia-me.net/album/photos.php:288
+#: /home/molodoy/Documents/www/wap.tibia-me.net/album/photos.php:365
+#: /home/molodoy/Documents/www/wap.tibia-me.net/album/photos.php:367
+msgid "everyone"
+msgstr "все"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/album/photos.php:263
+#: /home/molodoy/Documents/www/wap.tibia-me.net/album/photos.php:340
+msgid "Please specify album title."
+msgstr "Пожалуйста, укажите название альбома."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/album/photos.php:265
+#: /home/molodoy/Documents/www/wap.tibia-me.net/album/photos.php:344
+msgid "Album with this title already exists."
+msgstr "Альбом с таким названием уже существует."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/album/photos.php:279
+msgid "Album created."
+msgstr "Альбом создан."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/album/photos.php:282
+#: /home/molodoy/Documents/www/wap.tibia-me.net/album/photos.php:358
+msgid "Title"
+msgstr "Название"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/album/photos.php:301
+msgid "You don't have permission to rotate this photo."
+msgstr "Вы не можете повернуть эту фотографию."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/album/photos.php:307
+msgid "Could not rotate your photo."
+msgstr "Не удалось повернуть фотографию."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/album/photos.php:321
+msgid "Are you sure you want to save rotated photo?"
+msgstr "Вы уверены, что хотите сохранить повернутое изображение?"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/album/photos.php:336
+msgid "You don't have permission to edit this album."
+msgstr "Вы не можете редактировать этот альбом."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/album/photos.php:401
+msgid "Enter password to access this album."
+msgstr "Введите пароль для доступа к этому альбому."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/album/photos.php:413
+msgid "You don't have permission to move this photo."
+msgstr "Вы не можете переместить эту фотографию."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/album/photos.php:418
+msgid "Photo has been moved."
+msgstr "Фотография перемещена."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/album/photos.php:459
+#: /home/molodoy/Documents/www/wap.tibia-me.net/album/photos.php:461
+msgid "Album has been deleted."
+msgstr "Альбом удален."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/album/photos.php:464
+msgid "Are you sure you want to delete this album?"
+msgstr "Вы уверены, что хотите удалить этот альбом?"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/album/photos.php:469
+#, php-format
+msgid "This album contains %d photo. What would you like to do with it?"
+msgid_plural "This album contains %d photos. What would you like to do with them?"
+msgstr[0] "В этом альбоме %d фотография. Что нужно сделать с ней?"
+msgstr[1] "В этом альбоме %d фотографии. Что нужно сделать с ними?"
+msgstr[2] "В этом альбоме %d фотографий. Что нужно сделать с ними?"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/artworks/comments.php:10
+msgid "Wrong confirmation code."
+msgstr "Неверный код подтверждения."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/artworks/comments.php:14
+msgid "This comment had been already posted."
+msgstr "Это сообщение уже было отправлено."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/artworks/index.php:6
+#: /home/molodoy/Documents/www/wap.tibia-me.net/artworks/index.php:23
+msgid "You don't have permission to delete this artwork."
+msgstr "Вы не можете удалить эту работу."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/artworks/index.php:13
+msgid "Artwork has been deleted."
+msgstr "Изображение удалено."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/myadmin/pmd_relation_new.php:68
+#, fuzzy
+msgid "General relation features"
+msgstr "Неверное семейное положение."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/myadmin/pmd_relation_new.php:68
+#, fuzzy
+msgid "Disabled"
+msgstr "-1"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/scores/achievements.php:43
+#: /home/molodoy/Documents/www/wap.tibia-me.net/scores/highscores.php:77
+msgid "warriors"
+msgstr "войны"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/scores/achievements.php:44
+#: /home/molodoy/Documents/www/wap.tibia-me.net/scores/highscores.php:79
+msgid "wizards"
+msgstr "маги"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/scores/achievements.php:53
+#: /home/molodoy/Documents/www/wap.tibia-me.net/scores/guilds.php:138
+#: /home/molodoy/Documents/www/wap.tibia-me.net/scores/highscores.php:93
+msgid "All worlds"
+msgstr "Все миры"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/scores/achievements.php:53
+#: /home/molodoy/Documents/www/wap.tibia-me.net/scores/guilds.php:140
+#: /home/molodoy/Documents/www/wap.tibia-me.net/scores/highscores.php:94
+#: /home/molodoy/Documents/www/wap.tibia-me.net/scores/pvp.php:30
+#, php-format
+msgid "World %d"
+msgstr "%d мир"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/scores/achievements.php:58
+msgid "Points"
+msgstr "Очки"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/scores/guild.php:14
+#: /home/molodoy/Documents/www/wap.tibia-me.net/scores/guilds.php:128
+msgid "No data."
+msgstr "Нет данных."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/scores/guild.php:29
+#, php-format
+msgid "Guild: %s"
+msgstr "Гильдия: %s"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/scores/guild.php:30
+#, php-format
+msgid "World: %d"
+msgstr "Мир: %d"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/scores/guild.php:31
+#, php-format
+msgid "Rank: %d"
+msgstr "Ранг: %d"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/scores/guild.php:32
+#, php-format
+msgid "EP: %d"
+msgstr "Опыт: %d"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/scores/guild.php:35
+msgid "Some of guild members"
+msgstr "Некоторые из членов гильдии"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/scores/guild.php:52
+msgid "Date"
+msgstr "Дата"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/scores/guild.php:54
+#: /home/molodoy/Documents/www/wap.tibia-me.net/scores/guilds.php:147
+#: /home/molodoy/Documents/www/wap.tibia-me.net/scores/highscores.php:104
+msgid "EP"
+msgstr "Опыт"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/scores/guilds.php:23
+msgid "by rank"
+msgstr "по рангу"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/scores/guilds.php:25
+#: /home/molodoy/Documents/www/wap.tibia-me.net/scores/guilds.php:28
+msgid "by EP gain"
+msgstr "по набранному опыту"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/scores/guilds.php:144
+msgid "Guild"
+msgstr "Гильдия"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/scores/highscores.php:16
+msgid "Best hunter"
+msgstr "Лучший охотник"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/scores/highscores.php:21
+msgid "Worst hunter"
+msgstr "Худший охотник"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/scores/highscores.php:23
+msgid "more..."
+msgstr "еще..."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/scores/pvp.php:34
+msgid "Quota"
+msgstr "Квота"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/scores/topgain.php:37
+msgid "Period"
+msgstr "Период"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/scores/topgain.php:39
+msgid "overall"
+msgstr "весь"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/scores/topgain.php:43
+msgid "yesterday"
+msgstr "вчера"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/scores/topgain.php:174
+msgid "Best hunters"
+msgstr "Лучшие охотники"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/scores/topgain.php:222
+msgid "Worst hunters"
+msgstr "Худшие охотники"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/scores/viewscores.php:71
+#: /home/molodoy/Documents/www/wap.tibia-me.net/tables/edit.php:80
+#: /home/molodoy/Documents/www/wap.tibia-me.net/tables/edit.php:237
+#: /home/molodoy/Documents/www/wap.tibia-me.net/tables/edit.php:386
+#: /home/molodoy/Documents/www/wap.tibia-me.net/tables/spells.php:62
+#: /home/molodoy/Documents/www/wap.tibia-me.net/tables/spells.php:114
+msgid "Level"
+msgstr "Уровень"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/scores/viewscores.php:72
+msgid "Next level"
+msgstr "След. уровень"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/scores/viewscores.php:99
+#: /home/molodoy/Documents/www/wap.tibia-me.net/scores/worlds.php:83
+msgid "Max gain"
+msgstr "Макс. набор опыта"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/scores/viewscores.php:101
+#: /home/molodoy/Documents/www/wap.tibia-me.net/scores/worlds.php:85
+msgid "Min gain"
+msgstr "Мин. набор опыта"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/screenshots/comments.php:11
+#: /home/molodoy/Documents/www/wap.tibia-me.net/screenshots/index.php:25
+#: /home/molodoy/Documents/www/wap.tibia-me.net/screenshots/index.php:27
+msgid "Screenshot not found."
+msgstr "Скриншот не найден."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/screenshots/comments.php:61
+msgid "Post"
+msgstr "Отправить"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/screenshots/index.php:32
+#: /home/molodoy/Documents/www/wap.tibia-me.net/screenshots/index.php:34
+msgid "You don't have permission to delete this screenshot."
+msgstr "Вы не можете удалить этот скриншот."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/screenshots/index.php:41
+#: /home/molodoy/Documents/www/wap.tibia-me.net/screenshots/index.php:43
+msgid "The screenshot has been deleted."
+msgstr "Скриншот удален."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/screenshots/index.php:55
+msgid "Download software"
+msgstr "Скачать ПО"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/screenshots/index.php:61
+msgid "You don't have any screenshots yet."
+msgstr "У Вас пока нет скриншотов."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/screenshots/index.php:63
+msgid "This user doesn't have any screenshots yet."
+msgstr "У этого пользователя пока нет скриншотов."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/screenshots/index.php:65
+msgid "There are no screenshots yet."
+msgstr "Пока нет скриншотов."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/screenshots/index.php:82
+#, php-format
+msgid "displayed %dkb"
+msgstr "показано %dкб"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/screenshots/index.php:83
+#, php-format
+msgid "Compression: %d%%"
+msgstr "Сжатие: %d%%"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/screenshots/index.php:86
+msgid "Compression: none"
+msgstr "Сжатие: нет"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/screenshots/upload.php:5
+msgid "Please log in to upload screenshots."
+msgstr "Авторизуйтесь для загрузки скриншотов."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/screenshots/upload.php:21
+msgid "Your screenshot has been successfully uploaded."
+msgstr "Ваш скриншот загружен."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/tables/achievements.php:24
+#: /home/molodoy/Documents/www/wap.tibia-me.net/tables/edit.php:41
+#: /home/molodoy/Documents/www/wap.tibia-me.net/tables/items.php:25
+#: /home/molodoy/Documents/www/wap.tibia-me.net/tables/monsters.php:17
+#: /home/molodoy/Documents/www/wap.tibia-me.net/tables/skills.php:24
+#: /home/molodoy/Documents/www/wap.tibia-me.net/tables/spells.php:24
+msgid "Add"
+msgstr "Добавить"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/tables/edit.php:74
+#: /home/molodoy/Documents/www/wap.tibia-me.net/tables/edit.php:206
+#: /home/molodoy/Documents/www/wap.tibia-me.net/tables/edit.php:271
+#: /home/molodoy/Documents/www/wap.tibia-me.net/tables/edit.php:340
+msgid "Icon"
+msgstr "Иконка"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/tables/edit.php:86
+msgid "Speed"
+msgstr "Скорость"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/tables/edit.php:99
+#: /home/molodoy/Documents/www/wap.tibia-me.net/tables/monsters.php:53
+msgid "Spell"
+msgstr "Заклинание"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/tables/edit.php:113
+#: /home/molodoy/Documents/www/wap.tibia-me.net/tables/monsters.php:57
+msgid "Skill"
+msgstr "Способность"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/tables/edit.php:127
+#: /home/molodoy/Documents/www/wap.tibia-me.net/tables/monsters.php:40
+msgid "Attack"
+msgstr "Атака"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/tables/edit.php:137
+#: /home/molodoy/Documents/www/wap.tibia-me.net/tables/edit.php:159
+#: /home/molodoy/Documents/www/wap.tibia-me.net/tables/edit.php:244
+#: /home/molodoy/Documents/www/wap.tibia-me.net/tables/edit.php:397
+#: /home/molodoy/Documents/www/wap.tibia-me.net/tables/edit.php:399
+msgid "energy"
+msgstr "энергия"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/tables/edit.php:139
+#: /home/molodoy/Documents/www/wap.tibia-me.net/tables/edit.php:161
+#: /home/molodoy/Documents/www/wap.tibia-me.net/tables/edit.php:246
+#: /home/molodoy/Documents/www/wap.tibia-me.net/tables/edit.php:403
+#: /home/molodoy/Documents/www/wap.tibia-me.net/tables/edit.php:405
+msgid "fire"
+msgstr "огонь"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/tables/edit.php:141
+#: /home/molodoy/Documents/www/wap.tibia-me.net/tables/edit.php:163
+#: /home/molodoy/Documents/www/wap.tibia-me.net/tables/edit.php:248
+#: /home/molodoy/Documents/www/wap.tibia-me.net/tables/edit.php:409
+#: /home/molodoy/Documents/www/wap.tibia-me.net/tables/edit.php:411
+msgid "hit"
+msgstr "удар"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/tables/edit.php:143
+#: /home/molodoy/Documents/www/wap.tibia-me.net/tables/edit.php:165
+#: /home/molodoy/Documents/www/wap.tibia-me.net/tables/edit.php:250
+#: /home/molodoy/Documents/www/wap.tibia-me.net/tables/edit.php:415
+#: /home/molodoy/Documents/www/wap.tibia-me.net/tables/edit.php:417
+msgid "holy"
+msgstr "святыня"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/tables/edit.php:145
+#: /home/molodoy/Documents/www/wap.tibia-me.net/tables/edit.php:167
+#: /home/molodoy/Documents/www/wap.tibia-me.net/tables/edit.php:252
+#: /home/molodoy/Documents/www/wap.tibia-me.net/tables/edit.php:421
+#: /home/molodoy/Documents/www/wap.tibia-me.net/tables/edit.php:423
+msgid "ice"
+msgstr "холод"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/tables/edit.php:149
+#: /home/molodoy/Documents/www/wap.tibia-me.net/tables/monsters.php:46
+msgid "Weakness"
+msgstr "Слабость"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/tables/edit.php:171
+#: /home/molodoy/Documents/www/wap.tibia-me.net/tables/monsters.php:60
+msgid "Drop"
+msgstr "Падает"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/tables/edit.php:212
+#: /home/molodoy/Documents/www/wap.tibia-me.net/tables/edit.php:346
+#: /home/molodoy/Documents/www/wap.tibia-me.net/tables/spells.php:37
+#: /home/molodoy/Documents/www/wap.tibia-me.net/tables/spells.php:89
+msgid "Type"
+msgstr "Тип"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/tables/edit.php:214
+msgid "weapon"
+msgstr "оружие"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/tables/edit.php:216
+#: /home/molodoy/Documents/www/wap.tibia-me.net/tables/edit.php:218
+msgid "armour"
+msgstr "броня"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/tables/edit.php:221
+#: /home/molodoy/Documents/www/wap.tibia-me.net/tables/edit.php:223
+msgid "other"
+msgstr "прочее"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/tables/edit.php:240
+#: /home/molodoy/Documents/www/wap.tibia-me.net/tables/edit.php:389
+#: /home/molodoy/Documents/www/wap.tibia-me.net/tables/spells.php:59
+#: /home/molodoy/Documents/www/wap.tibia-me.net/tables/spells.php:111
+msgid "Mana"
+msgstr "Мана"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/tables/edit.php:293
+#: /home/molodoy/Documents/www/wap.tibia-me.net/tables/skills.php:37
+#: /home/molodoy/Documents/www/wap.tibia-me.net/tables/skills.php:82
+msgid "School"
+msgstr "Класс"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/tables/edit.php:297
+#: /home/molodoy/Documents/www/wap.tibia-me.net/tables/edit.php:299
+#: /home/molodoy/Documents/www/wap.tibia-me.net/tables/edit.php:360
+#: /home/molodoy/Documents/www/wap.tibia-me.net/tables/edit.php:362
+#: /home/molodoy/Documents/www/wap.tibia-me.net/tables/skills.php:39
+#: /home/molodoy/Documents/www/wap.tibia-me.net/tables/skills.php:84
+#: /home/molodoy/Documents/www/wap.tibia-me.net/tables/spells.php:39
+#: /home/molodoy/Documents/www/wap.tibia-me.net/tables/spells.php:91
+msgid "attack"
+msgstr "атака"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/tables/edit.php:302
+#: /home/molodoy/Documents/www/wap.tibia-me.net/tables/edit.php:304
+msgid "defence"
+msgstr "защита"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/tables/edit.php:310
+#: /home/molodoy/Documents/www/wap.tibia-me.net/tables/skills.php:53
+#: /home/molodoy/Documents/www/wap.tibia-me.net/tables/skills.php:98
+msgid "Requirements"
+msgstr "Требования"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/tables/edit.php:350
+#: /home/molodoy/Documents/www/wap.tibia-me.net/tables/edit.php:352
+#: /home/molodoy/Documents/www/wap.tibia-me.net/tables/spells.php:43
+#: /home/molodoy/Documents/www/wap.tibia-me.net/tables/spells.php:95
+msgid "buff"
+msgstr "баф"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/tables/edit.php:355
+#: /home/molodoy/Documents/www/wap.tibia-me.net/tables/edit.php:357
+#: /home/molodoy/Documents/www/wap.tibia-me.net/tables/spells.php:45
+#: /home/molodoy/Documents/www/wap.tibia-me.net/tables/spells.php:97
+msgid "debuff"
+msgstr "дебаф"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/tables/edit.php:365
+#: /home/molodoy/Documents/www/wap.tibia-me.net/tables/edit.php:367
+#: /home/molodoy/Documents/www/wap.tibia-me.net/tables/spells.php:41
+#: /home/molodoy/Documents/www/wap.tibia-me.net/tables/spells.php:93
+msgid "heal"
+msgstr "лечение"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/tables/edit.php:392
+msgid "Element"
+msgstr "Элемент"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/tables/skills.php:41
+#: /home/molodoy/Documents/www/wap.tibia-me.net/tables/skills.php:86
+msgid "defense"
+msgstr "защита"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/tables/spells.php:55
+#: /home/molodoy/Documents/www/wap.tibia-me.net/tables/spells.php:107
+msgid "both"
+msgstr "оба"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/themes/comments.php:42
+msgid "Are you sure you want to delete this comment?"
+msgstr "Вы уверены, что хотите удалить этот комментарий?"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/themes/edit.php:30
+msgid "Theme has been deleted."
+msgstr "Тема удалена."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/themes/edit.php:45
+#: /home/molodoy/Documents/www/wap.tibia-me.net/themes/upload.php:14
+msgid "Unsupported image type."
+msgstr "Неподдерживаемый тип изображения."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/themes/edit.php:84
+#: /home/molodoy/Documents/www/wap.tibia-me.net/themes/index.php:58
+#, php-format
+msgid "Downloads: %d"
+msgstr "Скачиваний: %d"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/themes/edit.php:87
+#: /home/molodoy/Documents/www/wap.tibia-me.net/themes/index.php:47
+msgid "Status"
+msgstr "Статус"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/themes/edit.php:97
+#: /home/molodoy/Documents/www/wap.tibia-me.net/themes/edit.php:116
+#: /home/molodoy/Documents/www/wap.tibia-me.net/themes/index.php:49
+msgid "On moderation"
+msgstr "На модерации"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/themes/edit.php:99
+#: /home/molodoy/Documents/www/wap.tibia-me.net/themes/edit.php:118
+#: /home/molodoy/Documents/www/wap.tibia-me.net/themes/index.php:51
+msgid "Checked"
+msgstr "Проверен"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/themes/edit.php:101
+#: /home/molodoy/Documents/www/wap.tibia-me.net/themes/edit.php:120
+#: /home/molodoy/Documents/www/wap.tibia-me.net/themes/index.php:53
+msgid "Tested"
+msgstr "Протестирован"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/themes/edit.php:125
+msgid "Moderator"
+msgstr "Модератор"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/themes/edit.php:127
+msgid "Replace screenshot"
+msgstr "Заменить скриншот"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/themes/index.php:46
+#, php-format
+msgid "Author: %s"
+msgstr "Автор: %s"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/themes/index.php:57
+#, php-format
+msgid "Moderator: %s"
+msgstr "Модератор: %s"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/themes/upload.php:16
+msgid "Invalid .sis file"
+msgstr "Неверный .sis файл."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/themes/upload.php:19
+msgid "Empty .sis file."
+msgstr "Пустой .sis файл."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/themes/upload.php:26
+msgid "This theme had been already uploaded."
+msgstr "Эта тема уже была загружена ранее."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/themes/upload.php:41
+msgid "Your theme has been successfully uploaded."
+msgstr "Ваша тема загружена."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/themes/upload.php:43
+msgid "Upload theme"
+msgstr "Загрузить тему"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/themes/upload.php:53
+msgid "You are only allowed to replace .mbm files in your theme. Themes with .r01, .app or other files will be removed."
+msgstr "В темах разрешено изменять только .mbm фалы. Темы с файлами .r01, .app и др. будут удалены."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/themes/upload.php:63
+msgid "Screenshot"
+msgstr "Скриншот"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/lostpassword.php:5
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/login.php:4
+msgid "You are already authorized."
+msgstr "Вы уже авторизованы."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/lostpassword.php:13
+msgid "This account cannot be recovered as it has no email set."
+msgstr "Пароль от этого аккаунта не может быть восстановлен, так как для него не указан email."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/lostpassword.php:24
+msgid "Password recovery confirmation"
+msgstr "Подтверждение восстановления пароля"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/lostpassword.php:25
+#, php-format
+msgid ""
+"Hello %s,\n"
+"\n"
+"You have requested a new password for your account on Tibia-ME.net.\n"
+"\n"
+"Click the following link to continue new password activation:\n"
+"http://wap.tibia-me.net/user/lostpassword.php?user=%d&v=%s\n"
+"\n"
+"If you did not request a new password, just ignore this message.\n"
+"\n"
+"Kind Regards,\n"
+"Tibia-ME.net Support\n"
+"http://wap.tibia-me.net"
+msgstr ""
+"Здравствуйте, %s,\n"
+"\n"
+"Вы начали восстановление пароля на Tibia-ME.net.\n"
+"\n"
+"Перейдите по следующей ссылке, чтобы продолжить активацию нового пароля:\n"
+"http://wap.tibia-me.net/user/lostpassword.php?user=%d&v=%s\n"
+"\n"
+"Если Вы не запрашивали новый пароль - просто проигнорируйте это письмо.\n"
+"\n"
+"С Уважением,\n"
+"Tibia-ME.net Support\n"
+"http://wap.tibia-me.net"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/lostpassword.php:33
+msgid "Confirmation code has been sent to your email."
+msgstr "Код подтверждения отправлен на Ваш email."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/lostpassword.php:40
+msgid "Invalid confirmation key."
+msgstr "Неверный код подтверждения."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/lostpassword.php:43
+msgid "Your new password should contain at least 5 characters."
+msgstr "Ваш новый пароль должен содержать хотя бы 5 символов."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/lostpassword.php:46
+msgid "Your password has been changed."
+msgstr "Ваш пароль изменен."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/lostpassword.php:48
+msgid "User not found or email is incorrect."
+msgstr "Пользователь не найден или неверный email."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/lostpassword.php:52
+msgid "Password recovery"
+msgstr "Восстановление пароля"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/lostpassword.php:63
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/login.php:37
+msgid "select world"
+msgstr "выберите мир"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/lostpassword.php:70
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/lostpassword.php:82
+msgid "Submit"
+msgstr "Подтвердить"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/lostpassword.php:79
+msgid "New password"
+msgstr "Новый пароль"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/lostpassword.php:81
+msgid "at least 5 characters"
+msgstr "минимум 5 символов"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/agreement.php:7
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/agreement.php:9
+msgid "Agreement accepted."
+msgstr "Пользовательское соглашение принято."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/agreement.php:24
+msgid "User Agreement"
+msgstr "Пользовательское соглашение"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/agreement.php:34
+msgid "General"
+msgstr "Общее"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/agreement.php:35
+msgid "All TibiaME rules are valid on this fansite. Please check FAQ section on wap.tibiame.com."
+msgstr "Все правила TibiaME действуют и на этом сайте."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/agreement.php:36
+msgid "Accounts"
+msgstr "Аккаунт"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/agreement.php:37
+msgid "You are only allowed to use your real character nickname and gameworld."
+msgstr "Разрешено использовать только Ваши реальные игровые ник и мир."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/agreement.php:38
+msgid "Once you create an account, you will not be able to rename or remove it."
+msgstr "После создания аккаунта Вы не сможете переименовать или удалить его."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/agreement.php:39
+msgid "CipSoft staff and resellers should let us know about their accounts names to get a special status and nickname prefix, otherwise your account might be considered as fake and blocked."
+msgstr "Членам CipSoft и реселлерам следует сообщать нам об их аккаунтах, иначе они могут быть расценены как поддельные и будут заблокированы."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/agreement.php:40
+msgid "You are not allowed to share your account data (password) with anyone."
+msgstr "Запрещено сообщать свой пароль кому-либо."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/agreement.php:42
+msgid "Screenshots are not allowed in photo album. Please upload them to Screenshots section."
+msgstr "Скриншоты в фотоальбоме запрещены. Пожалуйста, загружайте их в соответствующий раздел."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/agreement.php:43
+msgid "Tibia-ME.net staff may remove any photo if they find it offensive."
+msgstr "Администрация вправе удалять любые фотографии."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/agreement.php:45
+msgid "Listed characters"
+msgstr "Список персонажей"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/agreement.php:46
+msgid "Top 100 wizards and top 100 warriors from each game world are listed."
+msgstr "ТОП 100 магов и ТОП 100 войнов из каждого мира в списке."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/agreement.php:47
+msgid "Characters with PvP rank 100 or higher are listed."
+msgstr "Персонажы с PvP рейтингом от 1 до 100 в списке."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/agreement.php:48
+msgid "Top 100 wizards and top 100 warriors by achievement points are listed (from each game world)."
+msgstr "ТОП 100 войнов и ТОП 100 магов по очкам достижений в списке (из каждого мира)."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/agreement.php:49
+msgid "Other characters are not listed and we cannot add them at this time."
+msgstr "Остальные персонажи могут быть не в списке и на данный момент мы не можем их добавить."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/agreement.php:50
+msgid "Data reliability"
+msgstr "Достоверность данных"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/agreement.php:51
+msgid "Highscores are updated daily in 10 minutes after game server save."
+msgstr "Рекорды обновляются ежедневно в течении 10 минут после сохранения игрового сервера."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/agreement.php:52
+msgid "Highscores data are provided by tibiame.com and Tibia-ME.net is not responsible for its reliability."
+msgstr "Данные предоставляются tibiame.com и Tibia-ME.net не несет ответственности за их достоверность."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/agreement.php:53
+msgid "Worlds' statistics as well as Top Hunters data are only based on characters that are listed on this website (see 4.1.)."
+msgstr "Статистика миров и ТОП охотников основываются только на персонажах, которые есть в списке Рекордов (пункт 4.1)."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/agreement.php:55
+msgid "Only TibiaME screenshots are allowed in Screenshots section."
+msgstr "Разрешены только скриншоты TibiaME."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/agreement.php:56
+msgid "Artworks are not allowed."
+msgstr "Отредактированные скриншоты запрещены."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/agreement.php:57
+msgid "Screenshots should not contain any non-game areas, e.g. computer desktop and emulator window."
+msgstr "Скриншоты должны отображать только игровое окно (не должны захватывать рабочий стол, окно эмулятора и т.п.)."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/agreement.php:59
+msgid "Artworks should be related to TibiaME."
+msgstr "Творчество должно быть связано с TibiaME."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/agreement.php:60
+msgid "You are only allowed to upload your own artworks."
+msgstr "Разрешено загружать только Ваши собственные работы."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/agreement.php:61
+msgid "Screenshots without visible changes should be uploaded to Screenshots section."
+msgstr "Скриншоты без видимых изменений должны быть загружены в раздел \"Скриншоты\"."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/agreement.php:63
+msgid "Use search engine before asking a question or posting new thread - you probably will find the answer."
+msgstr "Воспользуйтесь поиском перед тем, как задать вопрос - возможно на него уже кто-нибудь ответил."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/agreement.php:64
+msgid "Privacy"
+msgstr "Приватность"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/agreement.php:65
+msgid "Tibia-ME.net never shares your hidden data (e.g. email, birth date) with anyone."
+msgstr "Tibia-ME.net никогда не сообщает Ваши скрытые данные (email, дата рождения и т.п.) кому-либо."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/agreement.php:66
+msgid "Tibia-ME.net does not store your IP address or browser info. Google might collect some information about Tibia-ME.net users (e.g. IP address, browser info, provider name). Facebook might collect some data if you choose to link your Facebook account with your Tibia-ME.net profile."
+msgstr "Tibia-ME.net не сохраняет Ваш IP адрес или данные о браузере. Google может собирать некоторые данные о пользователях для общей статистики. Facebook может собирать некоторые данные, если Вы привяжете Ваш аккаунт Facebook к аккаунту Tibia-ME.net."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/agreement.php:67
+msgid "Your passwords are encrypted and cannot be viewed by anyone, including Tibia-ME.net sfaff."
+msgstr "Ваш пароль зашифрован и никто, включая администрацию Tibia-ME.net, не может просмотреть его."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/agreement.php:68
+msgid "Tibia-ME.net Admin may use your data to contact you (e.g. email, Yahoo ID, Skype ID, including hidden data)."
+msgstr "Администрация Tibia-ME.net может использовать Ваши данные (email, Yahoo ID, Skype ID и т.д., включая скрытые данные) для связи с Вами."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/agreement.php:69
+msgid "Copyrights"
+msgstr "Копирайты"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/agreement.php:70
+msgid "TibiaME is a trademark of CipSoft GmbH, tibiame.com is the only official TibiaME website."
+msgstr "TibiaME является торговой маркой OOO \"CipSoft\", tibiame.com - единственный официальный сайт TibiaME."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/agreement.php:71
+msgid "Tibia-ME.net logos, source code and its name are property of Tibia-ME.net and you are not allowed to use them without permission."
+msgstr "Логотипы, исходный код и имя Tibia-ME.net принадлежат Tibia-ME.net и Вы не можете использовать их без нашего согласия."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/agreement.php:72
+msgid "Any icons provided by CipSoft are copyrighted by CipSoft. You may use any TibiaME icons from this website."
+msgstr "Иконки, предоставленные Cipsoft, являются собственностью CipSoft. Вы можете использовать любые игровые иконки с этого сайта."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/agreement.php:73
+msgid "Any icons and logos provided by CipSoft and edited by Tibia-ME.net should be only used with our permission."
+msgstr "Иконки, предоставленные CipSoft и измененные Tibia-ME.net, могут быть использованы только с нашего разрешения."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/agreement.php:74
+msgid "System requirements"
+msgstr "Системные требования"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/agreement.php:75
+msgid "This fansite was developed for mobile browsers and should be correctly displayed on most of modern mobile devices."
+msgstr "Этот сайт разработан для мобильных браузеров и должен корректно отображаться на большинстве современных мобильных устройств."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/agreement.php:76
+msgid "Cookies should be enabled in your browser."
+msgstr "Cookies должны быть включены в Вашем браузере."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/agreement.php:77
+msgid "Opera Mini&trade; is recommended."
+msgstr "Рекомендуемый браузер - Opera Mini&trade;."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/banishments.php:13
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/banishments.php:15
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/banishments.php:25
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/banishments.php:27
+msgid "Please specify correct expiration time."
+msgstr "Пожалуйста, укажите верное время истечения."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/banishments.php:38
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/banishments.php:48
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/banishments.php:53
+#, php-format
+msgid "%s has been banished."
+msgstr "%s забанен."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/banishments.php:69
+msgid "This user has an active banishment."
+msgstr "У этого пользователя уже есть активное наказание."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/banishments.php:80
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/banishments.php:131
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/banishments.php:177
+msgid "Reason"
+msgstr "Причина"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/banishments.php:86
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/friendlist.php:174
+msgid "optional"
+msgstr "не обязательно"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/banishments.php:99
+msgid "Temporal"
+msgstr "Временный"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/banishments.php:101
+msgid "minutes"
+msgstr "минут"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/banishments.php:102
+msgid "hours"
+msgstr "часов"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/banishments.php:103
+msgid "days"
+msgstr "дней"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/banishments.php:105
+msgid "Permanent"
+msgstr "До отмены"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/banishments.php:108
+msgid "Banish"
+msgstr "Забанить"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/banishments.php:117
+msgid "Banishment not found."
+msgstr "Наказание не найдено."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/banishments.php:128
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/banishments.php:206
+msgid "Expired"
+msgstr "Истек"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/banishments.php:129
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/banishments.php:208
+msgid "Active"
+msgstr "Активен"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/banishments.php:130
+#, php-format
+msgid "<b>Banned by</b>:<br>%s"
+msgstr "<b>Забанил</b>:<br>%s"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/banishments.php:138
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/banishments.php:178
+msgid "Expires"
+msgstr "Истекает"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/banishments.php:140
+#, php-format
+msgid "<b>Unbanned by</b>:<br>%s"
+msgstr "<b>Разбанил</b>:<br>%s"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/banishments.php:143
+msgid "Are you sure you want to deactivate this banishment?"
+msgstr "Вы уверены, что хотите отменить этот бан?"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/banishments.php:146
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/banishments.php:155
+msgid "Unban"
+msgstr "Разбанить"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/banishments.php:163
+msgid "There are no banished users."
+msgstr "Нет забаненных пользователей."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/banishments.php:187
+msgid "You have no banishments."
+msgstr "У Вас нет наказаний."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/banishments.php:189
+#, php-format
+msgid "%s has no banishments."
+msgstr "У пользователя %s нет наказаний."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/banishments.php:223
+msgid "Back"
+msgstr "Назад"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/friendlist.php:25
+msgid "Accept friend request"
+msgstr "Принять приглашение"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/friendlist.php:28
+msgid "Decline friend request"
+msgstr "Отклонить приглашение"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/friendlist.php:31
+msgid "Mutual friends"
+msgstr "Общие друзья"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/friendlist.php:34
+msgid "Friends online"
+msgstr "Друзья онлайн"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/friendlist.php:99
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/friendlist.php:101
+#, php-format
+msgid "Friends: %d"
+msgstr "Друзья: %d"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/friendlist.php:105
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/friendlist.php:107
+#, php-format
+msgid "Mutual: %d"
+msgstr "Общие: %d"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/friendlist.php:112
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/friendlist.php:114
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/friendlist.php:118
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/memberlist.php:37
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/memberlist.php:40
+#, php-format
+msgid "Online: %d"
+msgstr "Онлайн: %d"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/friendlist.php:153
+msgid "You cannot add yourself to your friendlist."
+msgstr "Вы не можете добавить себя в друзья."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/friendlist.php:158
+msgid "You are already friends with this user."
+msgstr "Этот пользователь уже в списке друзей."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/friendlist.php:160
+msgid "An invitation had been already sent to this user."
+msgstr "Приглашение уже было отправлено этому пользователю."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/friendlist.php:165
+msgid "Friend request sent."
+msgstr "Запрос отправлен."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/friendlist.php:171
+#, php-format
+msgid "Are you sure you want to add %s to your friendlist? Your friend will have to accept the request."
+msgstr "Вы уверены, что хотите добавить пользователя %s в список друзей? Ваш друг должен будет принять приглашение."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/friendlist.php:176
+msgid "Send request"
+msgstr "Отправить запрос"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/friendlist.php:189
+msgid "This user has been removed from your friendlist."
+msgstr "Пользователь удален из списка друзей."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/friendlist.php:195
+#, php-format
+msgid "Are you sure you want to remove %s from your friendlist?"
+msgstr "Вы уверены, что хотите удалить пользователя %s из списка друзей?"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/friendlist.php:196
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/letters.php:388
+msgid "Remove"
+msgstr "Удалить"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/friendlist.php:206
+msgid "Friend request has been accepted."
+msgstr "Приглашение принято."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/friendlist.php:211
+msgid "Friend request has been declined."
+msgstr "Приглашение отклонено."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/friendlist.php:237
+msgid "No friends online."
+msgstr "Нет друзей онлайн."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/friendlist.php:258
+msgid "You have no friends yet."
+msgstr "У Вас пока нет друзей."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/friendlist.php:260
+msgid "This user has no friends yet."
+msgstr "У этого пользователя пока нет друзей."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/letters.php:14
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/letters.php:59
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/letters.php:442
+msgid "Inbox"
+msgstr "Входящие"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/letters.php:18
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/letters.php:32
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/letters.php:444
+msgid "Sentbox"
+msgstr "Отправленные"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/letters.php:22
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/letters.php:35
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/letters.php:445
+msgid "Savebox"
+msgstr "Сохраненные"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/letters.php:29
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/letters.php:443
+msgid "Outbox"
+msgstr "Исходящие"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/letters.php:38
+msgid "Composing message"
+msgstr "Написать сообщение"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/letters.php:44
+msgid "Viewing letter"
+msgstr "Просмотр сообщения"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/letters.php:101
+msgid "This folder is empty."
+msgstr "Эта папка пуста."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/letters.php:118
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/letters.php:157
+msgid "From"
+msgstr "От"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/letters.php:120
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/letters.php:158
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/letters.php:406
+msgid "To"
+msgstr "Кому"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/letters.php:126
+msgid "With marked"
+msgstr "С отмеченными"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/letters.php:138
+msgid "Empty folder"
+msgstr "Очистить папку"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/letters.php:152
+msgid "You don't have permission to read this letter."
+msgstr "Вы не можете просмотреть это письмо."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/letters.php:155
+msgid "This message had been deleted."
+msgstr "Это сообщение было удалено."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/letters.php:159
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/letters.php:241
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/letters.php:267
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/letters.php:407
+msgid "Subject"
+msgstr "Тема"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/letters.php:199
+msgid "Incorrect recipient."
+msgstr "Неверный получатель."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/letters.php:201
+msgid "You cannot send letters to yourself."
+msgstr "Вы не можете отправлять письма себе."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/letters.php:208
+msgid "This message had been already sent."
+msgstr "Это сообщение уже было отправлено."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/letters.php:218
+msgid "New Private Message has arrived"
+msgstr "Новое Личное Сообщение"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/letters.php:219
+#, php-format
+msgid ""
+"Hello %s,\n"
+"\n"
+"You have received a new private message to your account on Tibia-ME.net and you have requested that you be notified on this event. You can view your new message by clicking on the following link:\n"
+"http://wap.tibia-me.net/user/letters.php\n"
+"\n"
+"Remember that you can always choose not to be notified of new messages by changing the appropriate setting in your profile.\n"
+"http://wap.tibia-me.net/user/settings.php\n"
+"\n"
+"Kind Regards,\n"
+"Tibia-ME.net Support\n"
+"http://wap.tibia-me.net"
+msgstr ""
+"Здравствуйте, %s,\n"
+"\n"
+"Кто-то отправил Вам письмо на Tibia-ME.net и Вы просили уведомлять Вас об этом. Вы можете просмотреть письма, перейдя по следующей ссылке:\n"
+"\n"
+"http://wap.tibia-me.net/user/letters.php\n"
+"\n"
+"Вы можете отказаться от получения уведомлений, изменив соотвествующие настройки.\n"
+"http://wap.tibia-me.net/user/settings.php\n"
+"\n"
+"С Уважением,\n"
+"\n"
+"Tibia-ME.net Support\n"
+"\n"
+"http://wap.tibia-me.net"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/letters.php:229
+msgid "Your message has been sent."
+msgstr "Сообщение отправлено."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/letters.php:283
+msgid "The letter has been deleted."
+msgstr "Письмо отправлено."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/letters.php:292
+msgid "Letter has been deleted."
+msgstr "Письмо удалено."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/letters.php:296
+msgid "Are you sure you want to delete this letter?"
+msgstr "Вы уверены, что хотите удалить это письмо?"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/letters.php:299
+msgid "This letter will not be delivered to its recipient if you remove it now."
+msgstr "Это сообщение не будет доставлено получателю, если Вы удалите его сейчас."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/letters.php:326
+msgid "The letter has been saved."
+msgstr "Письмо сохранено."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/letters.php:335
+msgid "Letters have been saved."
+msgstr "Письма сохранены."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/letters.php:339
+msgid "Are you sure you want to save this letter?"
+msgstr "Вы уверены, что хотите сохранить это письмо?"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/letters.php:342
+msgid "Are you sure you want to save these letters?"
+msgstr "Вы уверены, что хотите сохранить эти письма?"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/letters.php:365
+msgid "Letter has been removed from Savebox."
+msgstr "Письмо удалено из Сохраненных."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/letters.php:374
+msgid "Letters have been removed from Savebox."
+msgstr "Сообщения удалены из Сохраненных."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/letters.php:378
+msgid "Are you sure you want to remove this message from Savebox?"
+msgstr "Вы уверены, что хотите удалить это сообщение из Сохраненных?"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/letters.php:381
+msgid "Are you sure you want to remove these messages from Savebox?"
+msgstr "Вы уверены, что хотите удалить эти сообщения из Сохраненных?"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/letters.php:399
+msgid "This message has been already delivered, you cannot edit it now."
+msgstr "Это сообщение уже доставлено, Вы не можете редактировать его."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/letters.php:403
+msgid "Letter has been edited."
+msgstr "Письмо изменено."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/letters.php:430
+msgid "Are you sure you want to delete all messages from this folder?"
+msgstr "Вы уверены, что хотите удалить все сообщения из этой папки?"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/letters.php:441
+msgid "Compose letter"
+msgstr "Написать письмо"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/memberlist.php:13
+msgid "Users online"
+msgstr "Пользователи онлайн"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/memberlist.php:36
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/memberlist.php:39
+#, php-format
+msgid "Users: %d"
+msgstr "Пользователи: %d"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/notifications.php:7
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/notifications.php:12
+msgid "Notifications"
+msgstr "Уведомления"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/notifications.php:18
+msgid "No notifications."
+msgstr "Нет уведомлений."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/notifications.php:31
+#, php-format
+msgid "%s posted at <a href=\"%s\">forum</a>."
+msgstr "%s оставил(а) сообщение на <a href=\"%s\">форуме</a>."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/notifications.php:33
+#, php-format
+msgid "%s and %s posted at <a href=\"%s\">forum</a>."
+msgstr "%s и %s оставили сообщения на <a href=\"%s\">форуме</a>."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/notifications.php:35
+#, php-format
+msgid "%s and %d other user posted at <a href=\"%s\">forum</a>."
+msgid_plural "%s and %d other users posted at <a href=\"%s\">forum</a>."
+msgstr[0] "%s и %d другой пользователь оставили сообщения на <a href=\"%s\">форуме</a>."
+msgstr[1] "%s и %d других пользователя оставили сообщения на <a href=\"%s\">форуме</a>."
+msgstr[2] "%s и %d других пользователей оставили сообщения на <a href=\"%s\">форуме</a>."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/notifications.php:40
+#, php-format
+msgid "%s commented on <a href=\"%s\">photo</a>."
+msgstr "%s прокомментировал(а) <a href=\"%s\">фотографию</a>."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/notifications.php:42
+#, php-format
+msgid "%s and %s commented on <a href=\"%s\">photo</a>."
+msgstr "%s и %s прокомментировали <a href=\"%s\">фотографию</a>."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/notifications.php:44
+#, php-format
+msgid "%s and %d other user commented on <a href=\"%s\">photo</a>."
+msgid_plural "%s and %d other users commented on <a href=\"%s\">photo</a>."
+msgstr[0] "%s и %d другой пользователь прокомментировали <a href=\"%s\">фотографию</a>."
+msgstr[1] "%s и %d других пользователя прокомментировали <a href=\"%s\">фотографию</a>."
+msgstr[2] "%s и %d других пользователей прокомментировали <a href=\"%s\">фотографию</a>."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/notifications.php:49
+#, php-format
+msgid "%s commented on <a href=\"%s\">screenshot</a>."
+msgstr "%s прокомментировал(а) <a href=\"%s\">скриншот</a>."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/notifications.php:51
+#, php-format
+msgid "%s and %s commented on <a href=\"%s\">screenshot</a>."
+msgstr "%s и %s прокомментировали <a href=\"%s\">скриншот</a>."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/notifications.php:53
+#, php-format
+msgid "%s and %d other user commented on <a href=\"%s\">screenshot</a>."
+msgid_plural "%s and %d other users commented on <a href=\"%s\">screenshot</a>."
+msgstr[0] "%s и %d другой пользователь прокомментировали <a href=\"%s\">скриншот</a>."
+msgstr[1] "%s и %d других пользователя прокомментировали <a href=\"%s\">скриншот</a>."
+msgstr[2] "%s и %d других пользователей прокомментировали <a href=\"%s\">скриншот</a>."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/notifications.php:58
+#, php-format
+msgid "%s commented on <a href=\"%s\">theme</a>."
+msgstr "%s прокомментировал(а) <a href=\"%s\">тему</a>."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/notifications.php:60
+#, php-format
+msgid "%s and %s commented on <a href=\"%s\">theme</a>."
+msgstr "%s и %s прокомментировали <a href=\"%s\">тему</a>."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/notifications.php:62
+#, php-format
+msgid "%s and %d other user commented on <a href=\"%s\">theme</a>."
+msgid_plural "%s and %d other users commented on <a href=\"%s\">theme</a>."
+msgstr[0] "%s и %d другой пользователь прокомментировали <a href=\"%s\">тему</a>."
+msgstr[1] "%s и %d других пользователя прокомментировали <a href=\"%s\">тему</a>."
+msgstr[2] "%s и %d других пользователей прокомментировали <a href=\"%s\">тему</a>."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/notifications.php:67
+#, php-format
+msgid "%s likes your <a href=\"%s\">screenshot</a>."
+msgstr "%s оценил(а) Ваш <a href=\"%s\">скриншот</a>."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/notifications.php:69
+#, php-format
+msgid "%s and %s like your <a href=\"%s\">screenshot</a>."
+msgstr "%s и %s оценили Ваш <a href=\"%s\">скриншот</a>."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/notifications.php:71
+#, php-format
+msgid "%s and %d other user like your <a href=\"%s\">screenshot</a>."
+msgid_plural "%s and %d other users like your <a href=\"%s\">screenshot</a>."
+msgstr[0] "%s и %d другой пользователь оценили Ваш <a href=\"%s\">скриншот</a>."
+msgstr[1] "%s и %d других пользователя оценили Ваш <a href=\"%s\">скриншот</a>."
+msgstr[2] "%s и %d других пользователей оценили Ваш <a href=\"%s\">скриншот</a>."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/notifications.php:76
+#, php-format
+msgid "%s likes your <a href=\"%s\">photo</a>."
+msgstr "%s оценил(а) Вашу <a href=\"%s\">фотографию</a>."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/notifications.php:78
+#, php-format
+msgid "%s and %s like your <a href=\"%s\">photo</a>."
+msgstr "%s и %s оценили Вашу <a href=\"%s\">фотографию</a>."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/notifications.php:80
+#, php-format
+msgid "%s and %d other user like your <a href=\"%s\">photo</a>."
+msgid_plural "%s and %d other users like your <a href=\"%s\">photo</a>."
+msgstr[0] "%s и %d другой пользователь оценили Вашу <a href=\"%s\">фотографию</a>."
+msgstr[1] "%s и %d других пользователя оценили Вашу <a href=\"%s\">фотографию</a>."
+msgstr[2] "%s и %d других пользователей оценили Вашу <a href=\"%s\">фотографию</a>."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/notifications.php:85
+#, php-format
+msgid "%s likes your <a href=\"%s\">theme</a>."
+msgstr "%s оценил(а) Вашу <a href=\"%s\">тему</a>."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/notifications.php:87
+#, php-format
+msgid "%s and %s like your <a href=\"%s\">theme</a>."
+msgstr "%s и %s оценили Вашу <a href=\"%s\">тему</a>."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/notifications.php:89
+#, php-format
+msgid "%s and %d other user like your <a href=\"%s\">theme</a>."
+msgid_plural "%s and %d other users like your <a href=\"%s\">theme</a>."
+msgstr[0] "%s и %d другой пользователь оценили Вашу <a href=\"%s\">тему</a>."
+msgstr[1] "%s и %d других пользователя оценили Вашу <a href=\"%s\">тему</a>."
+msgstr[2] "%s и %d других пользователей оценили Вашу <a href=\"%s\">тему</a>."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/notifications.php:94
+#, php-format
+msgid "%s accepted your friend request."
+msgstr "%s принял Ваше предложение о дружбе."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/notifications.php:96
+#, php-format
+msgid "%s and %s accepted your friend requests."
+msgstr "%s и %s приняли Ваши предложения о дружбе."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/notifications.php:98
+#, php-format
+msgid "%s and %d other user accepted your friend requests."
+msgid_plural "%s and %d other users accepted your friend requests."
+msgstr[0] "%s и %d другой пользователь приняли Ваши предложения о дружбе."
+msgstr[1] "%s и %d других пользователя приняли Ваши предложения о дружбе."
+msgstr[2] "%s и %d других пользователей приняли Ваши предложения о дружбе."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/notifications.php:106
+#, php-format
+msgid "%s commented on <a href=\"%s\">artwork</a>."
+msgstr "%s прокомментировал(а) <a href=\"%s\">артворк</a>."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/notifications.php:108
+#, php-format
+msgid "%s and %s commented on <a href=\"%s\">artwork</a>."
+msgstr "%s и %s прокомментировали <a href=\"%s\">артворк</a>."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/notifications.php:110
+#, php-format
+msgid "%s and %d other user commented on <a href=\"%s\">artwork</a>."
+msgid_plural "%s and %d other users commented on <a href=\"%s\">artwork</a>."
+msgstr[0] "%s и %d другой пользователь прокомментировали <a href=\"%s\">артворк</a>."
+msgstr[1] "%s и %d других пользователя прокомментировали <a href=\"%s\">артворк</a>."
+msgstr[2] "%s и %d других пользователей прокомментировали <a href=\"%s\">артворк</a>."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/notifications.php:115
+#, php-format
+msgid "%s likes your <a href=\"%s\">artwork</a>."
+msgstr "%s оценил(а) Ваш <a href=\"%s\">артворк</a>."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/notifications.php:117
+#, php-format
+msgid "%s and %s like your <a href=\"%s\">artwork</a>."
+msgstr "%s и %s оценили Ваш <a href=\"%s\">артворк</a>."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/notifications.php:119
+#, php-format
+msgid "%s and %d other user like your <a href=\"%s\">artwork</a>."
+msgid_plural "%s and %d other users like your <a href=\"%s\">artwork</a>."
+msgstr[0] "%s и %d другой пользователь оценили Ваш <a href=\"%s\">артворк</a>."
+msgstr[1] "%s и %d других пользователя оценили Ваш <a href=\"%s\">артворк</a>."
+msgstr[2] "%s и %d других пользователей оценили Ваш <a href=\"%s\">артворк</a>."
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/profile.php:42
+#, php-format
+msgid "Are you sure you want to delete all posts and topics by this user (%s)?"
+msgstr "Вы уверены, что хотите удалить все посты и темы этого пользователя (%s)?"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/register.php:42
+msgid "this field is not required and you may fill it later"
+msgstr "это поле не требуется и Вы можете заполнить его позже"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/settings.php:43
+msgid "Timezone"
+msgstr "Временная зона"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/settings.php:74
+msgid "Notify on letters"
+msgstr "Уведомлять о письмах"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/settings.php:79
+msgid "Language"
+msgstr "Язык"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/settings.php:98
+msgid "Allow comments"
+msgstr "Разрешить комментарии"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/settings.php:103
+msgid "Notify on comments"
+msgstr "Уведомлять о комментариях"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/settings.php:115
+msgid "Posts per page"
+msgstr "Постов на странице"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/settings.php:117
+msgid "Topics per page"
+msgstr "Тем на странице"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/settings.php:122
+msgid "Performance"
+msgstr "Вид"
+
+#: /home/molodoy/Documents/www/wap.tibia-me.net/user/settings.php:127
+msgid "Style"
+msgstr "Стиль"
+
+#: /home/molodoy/Documents/www/ranks.dict:2
+msgid "User"
+msgstr "Пользователь"
+
+#: /home/molodoy/Documents/www/ranks.dict:3
+msgid "Assistant"
+msgstr "Помощник"
+
+#: /home/molodoy/Documents/www/ranks.dict:4
+msgid "Creator"
+msgstr "Создатель"
+
+#~ msgid "Invalid nickname."
+#~ msgstr "Неверный ник."
+#~ msgid "No game world specified."
+#~ msgstr "Не указан мир."
+#~ msgid "Invalid world"
+#~ msgstr "Неверный мир."
+#~ msgid "No nickname specified."
+#~ msgstr "Не указан ник."
+#~ msgid "Feedback"
+#~ msgstr "Обратная связь"
+#~ msgid "Your email"
+#~ msgstr "Ваш email"
+#~ msgid "Your message has been sent to Tibia-ME.net Customer Support."
+#~ msgstr "Ваше сообщение отправлено в Службу Поддержки Tibia-ME.net."
+#~ msgid "Please fill required fields."
+#~ msgstr "Пожалуйста, заполните необходимые поля."
+#~ msgid "Prefix"
+#~ msgstr "Префикс"
+#~ msgid "Update schedule"
+#~ msgstr "График обновлений"
+#~ msgid "Create style"
+#~ msgstr "Создать стиль"
+#~ msgid "Unsupport image type."
+#~ msgstr "Неподдерживаемый тип изображения."
+#~ msgid "This photo already exists in album."
+#~ msgstr "Эта фотография уже есть в альбоме."
+#~ msgid "Advertisement"
+#~ msgstr "Реклама"
+#~ msgid "Yahoo is too long."
+#~ msgstr "Слишком длинный Yahoo ID."
+#~ msgid "Skype is too short."
+#~ msgstr "Слишком короткий Skype ID."
+#~ msgid "Skype is too long."
+#~ msgstr "Слишком длинный Skype ID."
+#~ msgid "You don't have permissions to edit this profile."
+#~ msgstr "Вы не можете изменять этот профиль."
+#~ msgid "Quests"
+#~ msgstr "Квесты"
+#~ msgid "Add quest"
+#~ msgstr "Добавить квест"
+#~ msgid "Season"
+#~ msgstr "Сезон"
+#~ msgid "Guest"
+#~ msgstr "Гость"
+
+#, fuzzy
+#~ msgid "Forum post"
+#~ msgstr "Прокомментировать"
+#~ msgid "Banned by"
+#~ msgstr "Забанил"
+
+#, fuzzy
+#~ msgid "Unbanned by"
+#~ msgstr "по нику"
+
+#, fuzzy
+#~ msgid "Photo comments"
+#~ msgstr "комментарии отключены"
+
+#, fuzzy
+#~ msgid "comments disallowed"
+#~ msgstr "комментарии отключены"
+
+#, fuzzy
+#~ msgid "You search returned no results."
+#~ msgstr "Ваш запрос не дал результатов."
+
+#, fuzzy
+#~ msgid "Forum not found"
+#~ msgstr "Постов на форуме"
+#~ msgid "Sort by"
+#~ msgstr "С"
+
+#, fuzzy
+#~ msgid "not_specified"
+#~ msgstr "Не выбран файл."
+#~ msgid "Locked"
+#~ msgstr "Закрыто"
+
+#, fuzzy
+#~ msgid "for everyone"
+#~ msgstr "Рекламодателям"
+#~ msgid "Rotate"
+#~ msgstr "Повернуть"
+
+#, fuzzy
+#~ msgid "Theme comments"
+#~ msgstr "Темы"
+
