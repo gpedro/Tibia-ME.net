@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Tibia-ME.net\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-01-11 02:45+0300\n"
-"PO-Revision-Date: 2012-01-11 02:46+0300\n"
+"POT-Creation-Date: 2012-01-11 12:53+0300\n"
+"PO-Revision-Date: 2012-01-11 12:53+0300\n"
 "Last-Translator: Molodoy <molodoy@tibia-me.net>\n"
 "Language-Team: Molodoy <molodoy@tibia-me.net>\n"
 "MIME-Version: 1.0\n"
@@ -1825,16 +1825,6 @@ msgstr "Вы не можете удалить эту работу."
 msgid "Artwork has been deleted."
 msgstr "Изображение удалено."
 
-#: /home/molodoy/Documents/www/wap.tibia-me.net/myadmin/pmd_relation_new.php:68
-#, fuzzy
-msgid "General relation features"
-msgstr "Неверное семейное положение."
-
-#: /home/molodoy/Documents/www/wap.tibia-me.net/myadmin/pmd_relation_new.php:68
-#, fuzzy
-msgid "Disabled"
-msgstr "-1"
-
 #: /home/molodoy/Documents/www/wap.tibia-me.net/scores/achievements.php:43
 #: /home/molodoy/Documents/www/wap.tibia-me.net/scores/highscores.php:77
 msgid "warriors"
@@ -3188,6 +3178,13 @@ msgstr "Помощник"
 msgid "Creator"
 msgstr "Создатель"
 
+#, fuzzy
+#~ msgid "General relation features"
+#~ msgstr "Неверное семейное положение."
+
+#, fuzzy
+#~ msgid "Disabled"
+#~ msgstr "-1"
 #~ msgid "Invalid nickname."
 #~ msgstr "Неверный ник."
 #~ msgid "No game world specified."
