@@ -1,9 +1,26 @@
 1. Use formal language only.
+
 2. No slang.
-3. Do not shorten where it's not necessary.
-4. %s, %d, %1$s, etc. are variables, do not add or remove them.
+
+3. Do not shorten words where it's not necessary.
+
+4. %s, %d, %1$s, etc. are variables (that will be replaced with some number or word, e.g. "%s books" can be displayed as "5 books", "12 books", "white books", etc.), do not add or remove them
+(parsed with PHP sprintf() http://www.php.net/sprintf).
+
+4.1 If there's only one variable in a string - you can move it anywhere along the text. (i.e. both "books: %d" and "%d books" will display correctly)
+4.2 If there are more than one variable in a string - you can still move them BUT PLEASE KEEP THEIR ORDER (ex. if you replace "%d oranges, %s apples" with "%s apples, %d oranges" - it will not work as %s should stay after %d)
+4.3 Generally you don't need to move any words so there shouldn't be any problem with this, unless some language construction requires it
+
+5. Please don't forget CAPITAL LETTERS, dots, commas, etc. If original string ends with dot, translated string most likely should end with dot as well.
+
 
 Send your translations to support@tibia-me.net.
 
+
 SOFTWARE
 Poedit: http://www.poedit.net/download.php
+
+How to use Poedit:
+
+"Open" and "Save" buttons is all you need! If Poedit asks you to specify your name and email you may do so, but don't change any other settings please.
+You don't have to Save after each translated string, you can do it before closing Poedit. However it is good experience to Save often to prevent data loss in case of application crash or power cut.
