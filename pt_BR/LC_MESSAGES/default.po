@@ -2,14 +2,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Tibia-ME.net\n"
 "POT-Creation-Date: 2014-12-19 02:48+0300\n"
-"PO-Revision-Date: 2014-12-19 02:48+0300\n"
-"Last-Translator: Molodoy <molodoy3561@gmail.com>\n"
+"PO-Revision-Date: 2014-12-19 15:46-0400\n"
+"Last-Translator: Gabriel Pedro <gpedro831@gmail.com>\n"
 "Language-Team: \n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.7.1\n"
+"X-Generator: Poedit 1.5.4\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Poedit-SourceCharset: UTF-8\n"
@@ -23,7 +23,7 @@ msgstr ""
 #: D:\Valery\Documents\www/templates/screenshots_index.tpl.php:49
 #: D:\Valery\Documents\www/tibia-me.net/screenshots/index.php:86
 msgid "Comments"
-msgstr ""
+msgstr "Comentários"
 
 #: D:\Valery\Documents\www/UI_shared/comments.php:19
 #: D:\Valery\Documents\www/templates/user_toolbar.tpl.php:17
@@ -271,7 +271,7 @@ msgstr ""
 #: D:\Valery\Documents\www/tibia-me.net/user/banishments.php:7
 #, php-format
 msgid "%s has been banished."
-msgstr ""
+msgstr "%s foi banido."
 
 #: D:\Valery\Documents\www/classes/comments.class.php:174
 #: D:\Valery\Documents\www/templates/invalid_request.tpl.php:2
@@ -289,19 +289,19 @@ msgstr ""
 #: D:\Valery\Documents\www/tibia-me.net/themes/download.php:4
 #: D:\Valery\Documents\www/tibia-me.net/themes/edit.php:5
 msgid "Invalid request."
-msgstr ""
+msgstr "Solicitação inválida."
 
 #: D:\Valery\Documents\www/classes/comments.class.php:185
 msgid "Comment deleted."
-msgstr ""
+msgstr "Comentário deletado."
 
 #: D:\Valery\Documents\www/classes/comments.class.php:424
 msgid "You don't have permission to delete this comment."
-msgstr ""
+msgstr "Você não tem permissão para deletar este comentário."
 
 #: D:\Valery\Documents\www/classes/comments.class.php:440
 msgid "Invalid confirmation code."
-msgstr ""
+msgstr "Código de confirmação inválido."
 
 #: D:\Valery\Documents\www/classes/comments.class.php:454
 msgid "This comment had been already posted."
@@ -309,7 +309,7 @@ msgstr ""
 
 #: D:\Valery\Documents\www/classes/comments.class.php:475
 msgid "Your comment has been posted."
-msgstr ""
+msgstr "Seu comentário foi publicado."
 
 #: D:\Valery\Documents\www/classes/comments.class.php:504
 msgid "You will be notified on new comments."
@@ -321,14 +321,14 @@ msgstr ""
 
 #: D:\Valery\Documents\www/classes/comments.class.php:542
 msgid "Comment reported."
-msgstr ""
+msgstr "Comentário reportado."
 
 #: D:\Valery\Documents\www/classes/cp.class.php:13
 #: D:\Valery\Documents\www/tibia-me.net/cp/album.php:4
 #: D:\Valery\Documents\www/tibia-me.net/cp/ranks.php:4
 #: D:\Valery\Documents\www/tibia-me.net/user/permissions.php:5
 msgid "Access denied."
-msgstr ""
+msgstr "Acesso negado."
 
 #: D:\Valery\Documents\www/classes/cp.class.php:20
 msgid "Maintenance work notification has been disabled."
@@ -356,13 +356,13 @@ msgstr ""
 #: D:\Valery\Documents\www/templates/screenshots_index.tpl.php:46
 #: D:\Valery\Documents\www/templates/themes_edit.tpl.php:22
 msgid "Author"
-msgstr ""
+msgstr "Autir"
 
 #: D:\Valery\Documents\www/classes/forum.class.php:140
 #: D:\Valery\Documents\www/templates/forum_viewforum.tpl.php:10
 #, php-format
 msgid "Views: %d"
-msgstr ""
+msgstr "Visualizações: %d"
 
 #: D:\Valery\Documents\www/classes/forum.class.php:347
 msgid "This message had been already posted."
@@ -382,25 +382,25 @@ msgstr ""
 
 #: D:\Valery\Documents\www/classes/forum.class.php:796
 msgid "Please specify topic title."
-msgstr ""
+msgstr "Por favor, especifique o título do tópico."
 
 #: D:\Valery\Documents\www/classes/forum.class.php:802
 msgid "Please specify topic message."
-msgstr ""
+msgstr "Por favor, especifique a mensagem do tópico."
 
 #: D:\Valery\Documents\www/classes/forum.class.php:808
 #: D:\Valery\Documents\www/tibia-me.net/forum/posting.php:114
 msgid "You cannot create more than 5 sticky topics in this forum."
-msgstr ""
+msgstr "Você não pode criar mais de 5 tópicos fixos neste fórum."
 
 #: D:\Valery\Documents\www/classes/forum.class.php:830
 #: D:\Valery\Documents\www/tibia-me.net/forum/posting.php:100
 msgid "Topic with this name already exists."
-msgstr ""
+msgstr "Tópico com este nome já existe"
 
 #: D:\Valery\Documents\www/classes/forum.class.php:855
 msgid "Thread created."
-msgstr ""
+msgstr "Tópico criado."
 
 #: D:\Valery\Documents\www/classes/friendlist.class.php:61
 #: D:\Valery\Documents\www/templates/album_index.tpl.php:29
@@ -410,7 +410,7 @@ msgstr ""
 #: D:\Valery\Documents\www/templates/friendlist_online.tpl.php:14
 #: D:\Valery\Documents\www/templates/profile.tpl.php:567
 msgid "Send letter"
-msgstr ""
+msgstr "Enviar carta"
 
 #: D:\Valery\Documents\www/classes/friendlist.class.php:63
 #: D:\Valery\Documents\www/classes/friendlist.class.php:65
@@ -421,7 +421,7 @@ msgstr ""
 #: D:\Valery\Documents\www/templates/profile.tpl.php:565
 #: D:\Valery\Documents\www/tibia-me.net/user/friendlist.php:27
 msgid "Remove friend"
-msgstr ""
+msgstr "Remover amigo"
 
 #: D:\Valery\Documents\www/classes/friendlist.class.php:67
 #: D:\Valery\Documents\www/templates/friendlist.tpl.php:17
@@ -429,12 +429,12 @@ msgstr ""
 #: D:\Valery\Documents\www/templates/profile.tpl.php:563
 #: D:\Valery\Documents\www/tibia-me.net/user/friendlist.php:22
 msgid "Add friend"
-msgstr ""
+msgstr "Adicionar amigo"
 
 #: D:\Valery\Documents\www/classes/friendlist.class.php:70
 #, php-format
 msgid "%s wants to be your friend."
-msgstr ""
+msgstr "%s quer ser seu amigo."
 
 #: D:\Valery\Documents\www/classes/friendlist.class.php:72
 #: D:\Valery\Documents\www/templates/banishments_banform.tpl.php:20
@@ -452,21 +452,21 @@ msgstr ""
 #: D:\Valery\Documents\www/templates/letters_edit.tpl.php:19
 #: D:\Valery\Documents\www/templates/letters_edit.tpl.php:28
 msgid "Message"
-msgstr ""
+msgstr "Mensagem"
 
 #: D:\Valery\Documents\www/classes/friendlist.class.php:78
 #: D:\Valery\Documents\www/templates/agreement.tpl.php:61
 #: D:\Valery\Documents\www/templates/friendlist_accept.tpl.php:8
 #: D:\Valery\Documents\www/templates/friendlist_requests_in.tpl.php:18
 msgid "Accept"
-msgstr ""
+msgstr "Aceitar"
 
 #: D:\Valery\Documents\www/classes/friendlist.class.php:84
 #: D:\Valery\Documents\www/templates/agreement.tpl.php:66
 #: D:\Valery\Documents\www/templates/friendlist_decline.tpl.php:8
 #: D:\Valery\Documents\www/templates/friendlist_requests_in.tpl.php:19
 msgid "Decline"
-msgstr ""
+msgstr "Recusar"
 
 #: D:\Valery\Documents\www/classes/friendlist.class.php:198
 msgid "You cannot add yourself to your friendlist."
@@ -489,39 +489,39 @@ msgstr ""
 #: D:\Valery\Documents\www/classes/friendlist.class.php:285
 #: D:\Valery\Documents\www/classes/friendlist.class.php:306
 msgid "Request not found."
-msgstr ""
+msgstr "Solicitação não encontrada."
 
 #: D:\Valery\Documents\www/classes/friendlist.class.php:275
 msgid "Request declined."
-msgstr ""
+msgstr "Solicitação recusada."
 
 #: D:\Valery\Documents\www/classes/friendlist.class.php:296
 msgid "Request accepted."
-msgstr ""
+msgstr "Solicitação aceita."
 
 #: D:\Valery\Documents\www/classes/friendlist.class.php:316
 msgid "Request cancelled."
-msgstr ""
+msgstr "Solicitação cancelada."
 
 #: D:\Valery\Documents\www/classes/friendlist.class.php:395
 msgid "This user is not in your friendlist."
-msgstr ""
+msgstr "Este usuário não está na sua lista de amigos."
 
 #: D:\Valery\Documents\www/classes/friendlist.class.php:406
 msgid "User has been removed from your friendlist."
-msgstr ""
+msgstr "Usuário foi removido da sua lista de amigos."
 
 #: D:\Valery\Documents\www/classes/letters.class.php:239
 msgid "Letter not found."
-msgstr ""
+msgstr "Carta não encontrada."
 
 #: D:\Valery\Documents\www/classes/letters.class.php:278
 msgid "You don't have permission to edit this letter."
-msgstr ""
+msgstr "Você não tem permissão para editar esta carta"
 
 #: D:\Valery\Documents\www/classes/letters.class.php:281
 msgid "This letter had been delivered. You cannot edit it."
-msgstr ""
+msgstr "Esta carta já foi entregue. Você não pode editá-la."
 
 #: D:\Valery\Documents\www/classes/letters.class.php:311
 #: D:\Valery\Documents\www/templates/letters_folder.tpl.php:5
@@ -529,28 +529,28 @@ msgstr ""
 #: D:\Valery\Documents\www/tibia-me.net/user/letters.php:32
 #: D:\Valery\Documents\www/tibia-me.net/user/letters.php:36
 msgid "Inbox"
-msgstr ""
+msgstr "Entrada"
 
 #: D:\Valery\Documents\www/classes/letters.class.php:312
 #: D:\Valery\Documents\www/templates/letters_folder.tpl.php:8
 #: D:\Valery\Documents\www/templates/letters_view.tpl.php:8
 #: D:\Valery\Documents\www/tibia-me.net/user/letters.php:20
 msgid "Outbox"
-msgstr ""
+msgstr "Saída"
 
 #: D:\Valery\Documents\www/classes/letters.class.php:313
 #: D:\Valery\Documents\www/templates/letters_folder.tpl.php:11
 #: D:\Valery\Documents\www/templates/letters_view.tpl.php:11
 #: D:\Valery\Documents\www/tibia-me.net/user/letters.php:24
 msgid "Sentbox"
-msgstr ""
+msgstr "Enviados"
 
 #: D:\Valery\Documents\www/classes/letters.class.php:314
 #: D:\Valery\Documents\www/templates/letters_folder.tpl.php:14
 #: D:\Valery\Documents\www/templates/letters_view.tpl.php:14
 #: D:\Valery\Documents\www/tibia-me.net/user/letters.php:28
 msgid "Savebox"
-msgstr ""
+msgstr "Rascunhos"
 
 #: D:\Valery\Documents\www/classes/letters.class.php:358
 msgid "This letter has been removed from Savebox."
@@ -559,7 +559,7 @@ msgstr ""
 #: D:\Valery\Documents\www/classes/letters.class.php:360
 #: D:\Valery\Documents\www/classes/letters.class.php:380
 msgid "Could not delete this letter."
-msgstr ""
+msgstr "Você não pode editar esta carta"
 
 #: D:\Valery\Documents\www/classes/letters.class.php:370
 msgid "This letter has been deleted from your Inbox."
@@ -625,9 +625,9 @@ msgstr ""
 msgid ""
 "Hello %s,\n"
 "\n"
-"You have received a new private message to your account on Tibia-ME.net and you "
-"have requested that you be notified on this event. You can view your new message "
-"by clicking on the following link:\n"
+"You have received a new private message to your account on Tibia-ME.net and "
+"you have requested that you be notified on this event. You can view your new "
+"message by clicking on the following link:\n"
 "http://wap.tibia-me.net/user/letters.php\n"
 "\n"
 "Remember that you can always choose not to be notified of new messages by "
@@ -860,122 +860,132 @@ msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:7
 msgid ""
-"Makes your skin as hard as stone! Damage taken by the next 5 attacks is reduced "
-"by 3&#37;. 20 seconds cooldown."
+"Makes your skin as hard as stone! Damage taken by the next 5 attacks is "
+"reduced by 3&#37;. 20 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:8
 msgid ""
-"Makes your skin as hard as stone! Damage taken by the next 5 attacks is reduced "
-"by 6&#37;. 20 seconds cooldown."
+"Makes your skin as hard as stone! Damage taken by the next 5 attacks is "
+"reduced by 6&#37;. 20 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:9
 msgid ""
-"Makes your skin as hard as stone! Damage taken by the next 5 attacks is reduced "
-"by 9&#37;. 20 seconds cooldown."
+"Makes your skin as hard as stone! Damage taken by the next 5 attacks is "
+"reduced by 9&#37;. 20 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:10
 msgid ""
-"Makes your skin as hard as stone! Damage taken by the next 5 attacks is reduced "
-"by 12&#37;. 20 seconds cooldown."
+"Makes your skin as hard as stone! Damage taken by the next 5 attacks is "
+"reduced by 12&#37;. 20 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:11
 msgid ""
-"Makes your skin as hard as stone! Damage taken by the next 5 attacks is reduced "
-"by 15&#37;. 20 seconds cooldown."
+"Makes your skin as hard as stone! Damage taken by the next 5 attacks is "
+"reduced by 15&#37;. 20 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:12
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:7
 msgid ""
-"Shows the element which the monster is most vulnerable at. 50 seconds cooldown."
+"Shows the element which the monster is most vulnerable at. 50 seconds "
+"cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:13
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:8
 msgid ""
-"Shows the element which the monster is most vulnerable at. 45 seconds cooldown."
+"Shows the element which the monster is most vulnerable at. 45 seconds "
+"cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:14
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:9
 msgid ""
-"Shows the element which the monster is most vulnerable at. 40 seconds cooldown."
+"Shows the element which the monster is most vulnerable at. 40 seconds "
+"cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:15
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:10
 msgid ""
-"Shows the element which the monster is most vulnerable at. 35 seconds cooldown."
+"Shows the element which the monster is most vulnerable at. 35 seconds "
+"cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:16
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:11
 msgid ""
-"Shows the element which the monster is most vulnerable at. 30 seconds cooldown."
+"Shows the element which the monster is most vulnerable at. 30 seconds "
+"cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:17
 msgid ""
-"Dodges the next 5 attacks, reducing damage taken by 18&#37;. 20 seconds cooldown."
+"Dodges the next 5 attacks, reducing damage taken by 18&#37;. 20 seconds "
+"cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:18
 msgid ""
-"Dodges the next 5 attacks, reducing damage taken by 21&#37;. 20 seconds cooldown."
+"Dodges the next 5 attacks, reducing damage taken by 21&#37;. 20 seconds "
+"cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:19
 msgid ""
-"Dodges the next 5 attacks, reducing damage taken by 24&#37;. 20 seconds cooldown."
+"Dodges the next 5 attacks, reducing damage taken by 24&#37;. 20 seconds "
+"cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:20
 msgid ""
-"Dodges the next 5 attacks, reducing damage taken by 27&#37;. 20 seconds cooldown."
+"Dodges the next 5 attacks, reducing damage taken by 27&#37;. 20 seconds "
+"cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:21
 msgid ""
-"Dodges the next 5 attacks, reducing damage taken by 30&#37;. 20 seconds cooldown."
+"Dodges the next 5 attacks, reducing damage taken by 30&#37;. 20 seconds "
+"cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:22
 msgid ""
-"The years of training have sharpened your weapon skills. Performs a guaranteed "
-"hit and increases damage dealt by 4&#37; for the next 3 attacks. 24 seconds "
-"cooldown."
+"The years of training have sharpened your weapon skills. Performs a "
+"guaranteed hit and increases damage dealt by 4&#37; for the next 3 attacks. "
+"24 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:23
 msgid ""
-"The years of training have sharpened your weapon skills. Performs a guaranteed "
-"hit and increases damage dealt by 8&#37; for the next 3 attacks. 24 seconds "
-"cooldown."
+"The years of training have sharpened your weapon skills. Performs a "
+"guaranteed hit and increases damage dealt by 8&#37; for the next 3 attacks. "
+"24 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:24
 msgid ""
-"The years of training have sharpened your weapon skills. Performs a guaranteed "
-"hit and increases damage dealt by 12&#37; for the next 3 attacks. 24 seconds "
-"cooldown."
+"The years of training have sharpened your weapon skills. Performs a "
+"guaranteed hit and increases damage dealt by 12&#37; for the next 3 attacks. "
+"24 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:25
 msgid ""
-"The years of training have sharpened your weapon skills. Performs a guaranteed "
-"hit and increases damage dealt by 16&#37; for the next 3 attacks. 24 seconds "
-"cooldown."
+"The years of training have sharpened your weapon skills. Performs a "
+"guaranteed hit and increases damage dealt by 16&#37; for the next 3 attacks. "
+"24 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:26
 msgid ""
-"The years of training have sharpened your weapon skills. Performs a guaranteed "
-"hit and increases damage dealt by 20&#37; for the next 3 attacks. 24 seconds "
-"cooldown."
+"The years of training have sharpened your weapon skills. Performs a "
+"guaranteed hit and increases damage dealt by 20&#37; for the next 3 attacks. "
+"24 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:27
@@ -1010,127 +1020,127 @@ msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:32
 msgid ""
-"A sweeping attack that strikes your target and an additional nearby enemy with "
-"72&#37; damage for the next 2 attacks. 25 seconds cooldown."
+"A sweeping attack that strikes your target and an additional nearby enemy "
+"with 72&#37; damage for the next 2 attacks. 25 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:33
 msgid ""
-"A sweeping attack that strikes your target and an additional nearby enemy with "
-"76&#37; damage for the next 2 attacks. 25 seconds cooldown."
+"A sweeping attack that strikes your target and an additional nearby enemy "
+"with 76&#37; damage for the next 2 attacks. 25 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:34
 msgid ""
-"A sweeping attack that strikes your target and an additional nearby enemy with "
-"80&#37; damage for the next 2 attacks. 25 seconds cooldown."
+"A sweeping attack that strikes your target and an additional nearby enemy "
+"with 80&#37; damage for the next 2 attacks. 25 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:35
 msgid ""
-"A sweeping attack that strikes your target and an additional nearby enemy with "
-"84&#37; damage for the next 2 attacks. 25 seconds cooldown."
+"A sweeping attack that strikes your target and an additional nearby enemy "
+"with 84&#37; damage for the next 2 attacks. 25 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:36
 msgid ""
-"A sweeping attack that strikes your target and an additional nearby enemy with "
-"88&#37; damage for the next 2 attacks. 25 seconds cooldown."
+"A sweeping attack that strikes your target and an additional nearby enemy "
+"with 88&#37; damage for the next 2 attacks. 25 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:37
 msgid ""
-"Raises your shield and guards yourself! Damage taken is reduced by 33&#37; for "
-"10 seconds. 20 seconds cooldown."
+"Raises your shield and guards yourself! Damage taken is reduced by 33&#37; "
+"for 10 seconds. 20 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:38
 msgid ""
-"Raises your shield and guards yourself! Damage taken is reduced by 36&#37; for "
-"10 seconds. 20 seconds cooldown."
+"Raises your shield and guards yourself! Damage taken is reduced by 36&#37; "
+"for 10 seconds. 20 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:39
 msgid ""
-"Raises your shield and guards yourself! Damage taken is reduced by 39&#37; for "
-"10 seconds. 20 seconds cooldown."
+"Raises your shield and guards yourself! Damage taken is reduced by 39&#37; "
+"for 10 seconds. 20 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:40
 msgid ""
-"Raises your shield and guards yourself! Damage taken is reduced by 42&#37; for "
-"10 seconds. 20 seconds cooldown."
+"Raises your shield and guards yourself! Damage taken is reduced by 42&#37; "
+"for 10 seconds. 20 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:41
 msgid ""
-"Raises your shield and guards yourself! Damage taken is reduced by 45&#37; for "
-"10 seconds. 20 seconds cooldown."
+"Raises your shield and guards yourself! Damage taken is reduced by 45&#37; "
+"for 10 seconds. 20 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:42
 msgid ""
-"Focuses your mana to release it with a powerful arcane strike. Consumes all your "
-"mana and converts 0.37 damage per mana point additional to your next attack. 28 "
-"seconds cooldown."
+"Focuses your mana to release it with a powerful arcane strike. Consumes all "
+"your mana and converts 0.37 damage per mana point additional to your next "
+"attack. 28 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:43
 msgid ""
-"Focuses your mana to release it with a powerful arcane strike. Consumes all your "
-"mana and converts 0.40 damage per mana point additional to your next attack. 28 "
-"seconds cooldown."
+"Focuses your mana to release it with a powerful arcane strike. Consumes all "
+"your mana and converts 0.40 damage per mana point additional to your next "
+"attack. 28 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:44
 msgid ""
-"Focuses your mana to release it with a powerful arcane strike. Consumes all your "
-"mana and converts 0.43 damage per mana point additional to your next attack. 28 "
-"seconds cooldown."
+"Focuses your mana to release it with a powerful arcane strike. Consumes all "
+"your mana and converts 0.43 damage per mana point additional to your next "
+"attack. 28 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:45
 msgid ""
-"Focuses your mana to release it with a powerful arcane strike. Consumes all your "
-"mana and converts 0.46 damage per mana point additional to your next attack. 28 "
-"seconds cooldown."
+"Focuses your mana to release it with a powerful arcane strike. Consumes all "
+"your mana and converts 0.46 damage per mana point additional to your next "
+"attack. 28 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:46
 msgid ""
-"Focuses your mana to release it with a powerful arcane strike. Consumes all your "
-"mana and converts 0.50 damage per mana point additional to your next attack. 28 "
-"seconds cooldown."
+"Focuses your mana to release it with a powerful arcane strike. Consumes all "
+"your mana and converts 0.50 damage per mana point additional to your next "
+"attack. 28 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:47
 msgid ""
-"Performs a guaranteed hit and strikes your target and an additional nearby enemy "
-"with 73&#37; damage for the next 2 attacks. 25 seconds cooldown."
+"Performs a guaranteed hit and strikes your target and an additional nearby "
+"enemy with 73&#37; damage for the next 2 attacks. 25 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:48
 msgid ""
-"Performs a guaranteed hit and strikes your target and an additional nearby enemy "
-"with 76&#37; damage for the next 2 attacks. 25 seconds cooldown."
+"Performs a guaranteed hit and strikes your target and an additional nearby "
+"enemy with 76&#37; damage for the next 2 attacks. 25 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:49
 msgid ""
-"Performs a guaranteed hit and strikes your target and an additional nearby enemy "
-"with 79&#37; damage for the next 2 attacks. 25 seconds cooldown."
+"Performs a guaranteed hit and strikes your target and an additional nearby "
+"enemy with 79&#37; damage for the next 2 attacks. 25 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:50
 msgid ""
-"Performs a guaranteed hit and strikes your target and an additional nearby enemy "
-"with 82&#37; damage for the next 2 attacks. 25 seconds cooldown."
+"Performs a guaranteed hit and strikes your target and an additional nearby "
+"enemy with 82&#37; damage for the next 2 attacks. 25 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:51
 msgid ""
-"Performs a guaranteed hit and strikes your target and an additional nearby enemy "
-"with 85&#37; damage for the next 2 attacks. 25 seconds cooldown."
+"Performs a guaranteed hit and strikes your target and an additional nearby "
+"enemy with 85&#37; damage for the next 2 attacks. 25 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:52
@@ -1146,32 +1156,32 @@ msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:57
 msgid ""
-"You become enraged, increasing the damage dealt by 33&#37; for 10 seconds. 20 "
-"seconds cooldown."
+"You become enraged, increasing the damage dealt by 33&#37; for 10 seconds. "
+"20 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:58
 msgid ""
-"You become enraged, increasing the damage dealt by 36&#37; for 10 seconds. 20 "
-"seconds cooldown."
+"You become enraged, increasing the damage dealt by 36&#37; for 10 seconds. "
+"20 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:59
 msgid ""
-"You become enraged, increasing the damage dealt by 39&#37; for 10 seconds. 20 "
-"seconds cooldown."
+"You become enraged, increasing the damage dealt by 39&#37; for 10 seconds. "
+"20 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:60
 msgid ""
-"You become enraged, increasing the damage dealt by 42&#37; for 10 seconds. 20 "
-"seconds cooldown."
+"You become enraged, increasing the damage dealt by 42&#37; for 10 seconds. "
+"20 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:61
 msgid ""
-"You become enraged, increasing the damage dealt by 45&#37; for 10 seconds. 20 "
-"seconds cooldown."
+"You become enraged, increasing the damage dealt by 45&#37; for 10 seconds. "
+"20 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:62
@@ -1211,72 +1221,72 @@ msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:67
 msgid ""
-"Performs a stacked attack for the next 5 attacks. A stacked attack allows you to "
-"attack an enemy, even when sharing the tile with other players. 40 seconds "
-"cooldown."
+"Performs a stacked attack for the next 5 attacks. A stacked attack allows "
+"you to attack an enemy, even when sharing the tile with other players. 40 "
+"seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:68
 msgid ""
-"Performs a stacked attack for the next 5 attacks. A stacked attack allows you to "
-"attack an enemy, even when sharing the tile with other players. 35 seconds "
-"cooldown."
+"Performs a stacked attack for the next 5 attacks. A stacked attack allows "
+"you to attack an enemy, even when sharing the tile with other players. 35 "
+"seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:69
 msgid ""
-"Performs a stacked attack for the next 5 attacks. A stacked attack allows you to "
-"attack an enemy, even when sharing the tile with other players. 30 seconds "
-"cooldown."
+"Performs a stacked attack for the next 5 attacks. A stacked attack allows "
+"you to attack an enemy, even when sharing the tile with other players. 30 "
+"seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:70
 msgid ""
-"Performs a stacked attack for the next 5 attacks. A stacked attack allows you to "
-"attack an enemy, even when sharing the tile with other players. 25 seconds "
-"cooldown."
+"Performs a stacked attack for the next 5 attacks. A stacked attack allows "
+"you to attack an enemy, even when sharing the tile with other players. 25 "
+"seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:71
 msgid ""
-"Performs a stacked attack for the next 5 attacks. A stacked attack allows you to "
-"attack an enemy, even when sharing the tile with other players. 20 seconds "
-"cooldown."
+"Performs a stacked attack for the next 5 attacks. A stacked attack allows "
+"you to attack an enemy, even when sharing the tile with other players. 20 "
+"seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:72
 msgid ""
-"Equips yourself with a dwarven warden armour that adds an additional piece of "
-"armour with 80&#37; of your current protection for the next 6 incoming attacks. "
-"18 seconds cooldown."
+"Equips yourself with a dwarven warden armour that adds an additional piece "
+"of armour with 80&#37; of your current protection for the next 6 incoming "
+"attacks. 18 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:73
 msgid ""
-"Equips yourself with a dwarven warden armour that adds an additional piece of "
-"armour with 85&#37; of your current protection for the next 6 incoming attacks. "
-"18 seconds cooldown."
+"Equips yourself with a dwarven warden armour that adds an additional piece "
+"of armour with 85&#37; of your current protection for the next 6 incoming "
+"attacks. 18 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:74
 msgid ""
-"Equips yourself with a dwarven warden armour that adds an additional piece of "
-"armour with 90&#37; of your current protection for the next 6 incoming attacks. "
-"18 seconds cooldown."
+"Equips yourself with a dwarven warden armour that adds an additional piece "
+"of armour with 90&#37; of your current protection for the next 6 incoming "
+"attacks. 18 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:75
 msgid ""
-"Equips yourself with a dwarven warden armour that adds an additional piece of "
-"armour with 95&#37; of your current protection for the next 6 incoming attacks. "
-"18 seconds cooldown."
+"Equips yourself with a dwarven warden armour that adds an additional piece "
+"of armour with 95&#37; of your current protection for the next 6 incoming "
+"attacks. 18 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:76
 msgid ""
-"Equips yourself with a dwarven warden armour that adds an additional piece of "
-"armour with 100&#37; of your current protection for the next 6 incoming attacks. "
-"18 seconds cooldown."
+"Equips yourself with a dwarven warden armour that adds an additional piece "
+"of armour with 100&#37; of your current protection for the next 6 incoming "
+"attacks. 18 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:77
@@ -1347,236 +1357,246 @@ msgstr ""
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:87
 msgid ""
 "A steady stream of mana creates a shield against enemy attacks, preventing "
-"damage taken and draining 1.20 mana per damage point for 30 seconds. 60 seconds "
-"cooldown."
+"damage taken and draining 1.20 mana per damage point for 30 seconds. 60 "
+"seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:88
 msgid ""
 "A steady stream of mana creates a shield against enemy attacks, preventing "
-"damage taken and draining 1.15 mana per damage point for 30 seconds. 60 seconds "
-"cooldown."
+"damage taken and draining 1.15 mana per damage point for 30 seconds. 60 "
+"seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:89
 msgid ""
 "A steady stream of mana creates a shield against enemy attacks, preventing "
-"damage taken and draining 1.10 mana per damage point for 30 seconds. 60 seconds "
-"cooldown."
+"damage taken and draining 1.10 mana per damage point for 30 seconds. 60 "
+"seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:90
 msgid ""
 "A steady stream of mana creates a shield against enemy attacks, preventing "
-"damage taken and draining 1.05 mana per damage point for 30 seconds. 60 seconds "
-"cooldown."
+"damage taken and draining 1.05 mana per damage point for 30 seconds. 60 "
+"seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:91
 msgid ""
 "A steady stream of mana creates a shield against enemy attacks, preventing "
-"damage taken and draining 1.00 mana per damage point for 30 seconds. 60 seconds "
-"cooldown."
+"damage taken and draining 1.00 mana per damage point for 30 seconds. 60 "
+"seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:92
 msgid ""
-"Swirls your weapon around in a circle, performing a guaranteed hit and striking "
-"your target and 3 additional nearby enemies with 41&#37; damage for the next 3 "
-"attacks. 24 seconds cooldown."
+"Swirls your weapon around in a circle, performing a guaranteed hit and "
+"striking your target and 3 additional nearby enemies with 41&#37; damage for "
+"the next 3 attacks. 24 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:93
 msgid ""
-"Swirls your weapon around in a circle, performing a guaranteed hit and striking "
-"your target and 3 additional nearby enemies with 42&#37; damage for the next 3 "
-"attacks. 24 seconds cooldown."
+"Swirls your weapon around in a circle, performing a guaranteed hit and "
+"striking your target and 3 additional nearby enemies with 42&#37; damage for "
+"the next 3 attacks. 24 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:94
 msgid ""
-"Swirls your weapon around in a circle, performing a guaranteed hit and striking "
-"your target and 3 additional nearby enemies with 43&#37; damage for the next 3 "
-"attacks. 24 seconds cooldown."
+"Swirls your weapon around in a circle, performing a guaranteed hit and "
+"striking your target and 3 additional nearby enemies with 43&#37; damage for "
+"the next 3 attacks. 24 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:95
 msgid ""
-"Swirls your weapon around in a circle, performing a guaranteed hit and striking "
-"your target and 3 additional nearby enemies with 44&#37; damage for the next 3 "
-"attacks. 24 seconds cooldown."
+"Swirls your weapon around in a circle, performing a guaranteed hit and "
+"striking your target and 3 additional nearby enemies with 44&#37; damage for "
+"the next 3 attacks. 24 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:96
 msgid ""
-"Swirls your weapon around in a circle, performing a guaranteed hit and striking "
-"your target and 3 additional nearby enemies with 45&#37; damage for the next 3 "
-"attacks. 24 seconds cooldown."
+"Swirls your weapon around in a circle, performing a guaranteed hit and "
+"striking your target and 3 additional nearby enemies with 45&#37; damage for "
+"the next 3 attacks. 24 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:97
 msgid ""
 "Enters an offensive stance, increasing the damage dealt by 21&#37; and the "
-"chance to hit your enemy with attacks for 60 seconds. Every skill level raises "
-"the chance to hit by a medium amount. 30 seconds cooldown."
+"chance to hit your enemy with attacks for 60 seconds. Every skill level "
+"raises the chance to hit by a medium amount. 30 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:98
 msgid ""
 "Enters an offensive stance, increasing the damage dealt by 22&#37; and the "
-"chance to hit your enemy with attacks for 60 seconds. Every skill level raises "
-"the chance to hit by a medium amount. 30 seconds cooldown."
+"chance to hit your enemy with attacks for 60 seconds. Every skill level "
+"raises the chance to hit by a medium amount. 30 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:99
 msgid ""
 "Enters an offensive stance, increasing the damage dealt by 23&#37; and the "
-"chance to hit your enemy with attacks for 60 seconds. Every skill level raises "
-"the chance to hit by a medium amount. 30 seconds cooldown."
+"chance to hit your enemy with attacks for 60 seconds. Every skill level "
+"raises the chance to hit by a medium amount. 30 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:100
 msgid ""
 "Enters an offensive stance, increasing the damage dealt by 24&#37; and the "
-"chance to hit your enemy with attacks for 60 seconds. Every skill level raises "
-"the chance to hit by a medium amount. 30 seconds cooldown."
+"chance to hit your enemy with attacks for 60 seconds. Every skill level "
+"raises the chance to hit by a medium amount. 30 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:101
 msgid ""
 "Enters an offensive stance, increasing the damage dealt by 25&#37; and the "
-"chance to hit your enemy with attacks for 60 seconds. Every skill level raises "
-"the chance to hit by a medium amount. 30 seconds cooldown."
+"chance to hit your enemy with attacks for 60 seconds. Every skill level "
+"raises the chance to hit by a medium amount. 30 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:102
 msgid ""
 "Connects your weapon swings, performing a guaranteed hit and striking all "
-"targets in 2 yard range with 46&#37; damage for the next 3 attacks. All enemies "
-"in 2 yard distance will only receive half of the damage. 24 seconds cooldown."
+"targets in 2 yard range with 46&#37; damage for the next 3 attacks. All "
+"enemies in 2 yard distance will only receive half of the damage. 24 seconds "
+"cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:103
 msgid ""
 "Connects your weapon swings, performing a guaranteed hit and striking all "
-"targets in 2 yard range with 47&#37; damage for the next 3 attacks. All enemies "
-"in 2 yard distance will only receive half of the damage. 24 seconds cooldown."
+"targets in 2 yard range with 47&#37; damage for the next 3 attacks. All "
+"enemies in 2 yard distance will only receive half of the damage. 24 seconds "
+"cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:104
 msgid ""
 "Connects your weapon swings, performing a guaranteed hit and striking all "
-"targets in 2 yard range with 48&#37; damage for the next 3 attacks. All enemies "
-"in 2 yard distance will only receive half of the damage. 24 seconds cooldown."
+"targets in 2 yard range with 48&#37; damage for the next 3 attacks. All "
+"enemies in 2 yard distance will only receive half of the damage. 24 seconds "
+"cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:105
 msgid ""
 "Connects your weapon swings, performing a guaranteed hit and striking all "
-"targets in 2 yard range with 49&#37; damage for the next 3 attacks. All enemies "
-"in 2 yard distance will only receive half of the damage. 24 seconds cooldown."
+"targets in 2 yard range with 49&#37; damage for the next 3 attacks. All "
+"enemies in 2 yard distance will only receive half of the damage. 24 seconds "
+"cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:106
 msgid ""
 "Connects your weapon swings, performing a guaranteed hit and striking all "
-"targets in 2 yard range with 50&#37; damage for the next 3 attacks. All enemies "
-"in 2 yard distance will only receive half of the damage. 24 seconds cooldown."
+"targets in 2 yard range with 50&#37; damage for the next 3 attacks. All "
+"enemies in 2 yard distance will only receive half of the damage. 24 seconds "
+"cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:107
 msgid ""
-"Take cover behind your shield, absorbs 75&#37; of the next 170 damage taken. 90 "
-"seconds cooldown."
+"Take cover behind your shield, absorbs 75&#37; of the next 170 damage taken. "
+"90 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:108
 msgid ""
-"Take cover behind your shield, absorbs 75&#37; of the next 180 damage taken. 90 "
-"seconds cooldown."
+"Take cover behind your shield, absorbs 75&#37; of the next 180 damage taken. "
+"90 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:109
 msgid ""
-"Take cover behind your shield, absorbs 75&#37; of the next 190 damage taken. 90 "
-"seconds cooldown."
+"Take cover behind your shield, absorbs 75&#37; of the next 190 damage taken. "
+"90 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:110
 msgid ""
-"Take cover behind your shield, absorbs 75&#37; of the next 200 damage taken. 90 "
-"seconds cooldown."
+"Take cover behind your shield, absorbs 75&#37; of the next 200 damage taken. "
+"90 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:111
 msgid ""
-"Take cover behind your shield, absorbs 75&#37; of the next 210 damage taken. 90 "
-"seconds cooldown."
+"Take cover behind your shield, absorbs 75&#37; of the next 210 damage taken. "
+"90 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:112
 msgid ""
-"A surprising smash makes your enemy loose concentration, granting a chance to "
-"discharge target offensive skill by 80&#37; and defensive skill by 25&#37;. "
-"Monsters defensive skills can't be discharged. 30 seconds cooldown."
+"A surprising smash makes your enemy loose concentration, granting a chance "
+"to discharge target offensive skill by 80&#37; and defensive skill by "
+"25&#37;. Monsters defensive skills can't be discharged. 30 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:113
 msgid ""
-"A surprising smash makes your enemy loose concentration, granting a chance to "
-"discharge target offensive skill by 85&#37; and defensive skill by 25&#37;. "
-"Monsters defensive skills can't be discharged. 30 seconds cooldown."
+"A surprising smash makes your enemy loose concentration, granting a chance "
+"to discharge target offensive skill by 85&#37; and defensive skill by "
+"25&#37;. Monsters defensive skills can't be discharged. 30 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:114
 msgid ""
-"A surprising smash makes your enemy loose concentration, granting a chance to "
-"discharge target offensive skill by 90&#37; and defensive skill by 25&#37;. "
-"Monsters defensive skills can't be discharged. 30 seconds cooldown."
+"A surprising smash makes your enemy loose concentration, granting a chance "
+"to discharge target offensive skill by 90&#37; and defensive skill by "
+"25&#37;. Monsters defensive skills can't be discharged. 30 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:115
 msgid ""
-"A surprising smash makes your enemy loose concentration, granting a chance to "
-"discharge target offensive skill by 95&#37; and defensive skill by 25&#37;. "
-"Monsters defensive skills can't be discharged. 30 seconds cooldown."
+"A surprising smash makes your enemy loose concentration, granting a chance "
+"to discharge target offensive skill by 95&#37; and defensive skill by "
+"25&#37;. Monsters defensive skills can't be discharged. 30 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:116
 msgid ""
-"A surprising smash makes your enemy loose concentration, granting a chance to "
-"discharge target offensive skill by 100&#37; and defensive skill by 25&#37;. "
-"Monsters defensive skills can't be discharged. 30 seconds cooldown."
+"A surprising smash makes your enemy loose concentration, granting a chance "
+"to discharge target offensive skill by 100&#37; and defensive skill by "
+"25&#37;. Monsters defensive skills can't be discharged. 30 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:117
 msgid ""
 "Smashes the enemy with a powerful attack, performing a guaranteed hit and "
-"increasing damage dealt by 84&#37; for the next 3 attacks. 30 seconds cooldown."
+"increasing damage dealt by 84&#37; for the next 3 attacks. 30 seconds "
+"cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:118
 msgid ""
 "Smashes the enemy with a powerful attack, performing a guaranteed hit and "
-"increasing damage dealt by 88&#37; for the next 3 attacks. 30 seconds cooldown."
+"increasing damage dealt by 88&#37; for the next 3 attacks. 30 seconds "
+"cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:119
 msgid ""
 "Smashes the enemy with a powerful attack, performing a guaranteed hit and "
-"increasing damage dealt by 92&#37; for the next 3 attacks. 30 seconds cooldown."
+"increasing damage dealt by 92&#37; for the next 3 attacks. 30 seconds "
+"cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:120
 msgid ""
 "Smashes the enemy with a powerful attack, performing a guaranteed hit and "
-"increasing damage dealt by 96&#37; for the next 3 attacks. 30 seconds cooldown."
+"increasing damage dealt by 96&#37; for the next 3 attacks. 30 seconds "
+"cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:121
 msgid ""
 "Smashes the enemy with a powerful attack, performing a guaranteed hit and "
-"increasing damage dealt by 100&#37; for the next 3 attacks. 30 seconds cooldown."
+"increasing damage dealt by 100&#37; for the next 3 attacks. 30 seconds "
+"cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:122
@@ -1611,30 +1631,30 @@ msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:127
 msgid ""
-"Gathers your power before striking with a mighty blow, reducing the damage dealt "
-"by 45&#37; for the next attack. The following 3 attacks will perform a "
+"Gathers your power before striking with a mighty blow, reducing the damage "
+"dealt by 45&#37; for the next attack. The following 3 attacks will perform a "
 "guaranteed hit and deal the maximum amount of damage. 22 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:128
 msgid ""
-"Gathers your power before striking with a mighty blow, reducing the damage dealt "
-"by 30&#37; for the next attack. The following 3 attacks will perform a "
+"Gathers your power before striking with a mighty blow, reducing the damage "
+"dealt by 30&#37; for the next attack. The following 3 attacks will perform a "
 "guaranteed hit and deal the maximum amount of damage. 22 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:129
 msgid ""
-"Gathers your power before striking with a mighty blow, reducing the damage dealt "
-"by 15&#37; for the next attack. The following 3 attacks will perform a "
+"Gathers your power before striking with a mighty blow, reducing the damage "
+"dealt by 15&#37; for the next attack. The following 3 attacks will perform a "
 "guaranteed hit and deal the maximum amount of damage. 22 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:130
 msgid ""
-"Gathers your power before striking with a mighty blow, reducing the damage dealt "
-"by 0&#37; for the next attack. The following 3 attacks will perform a guaranteed "
-"hit and deal the maximum amount of damage. 22 seconds cooldown."
+"Gathers your power before striking with a mighty blow, reducing the damage "
+"dealt by 0&#37; for the next attack. The following 3 attacks will perform a "
+"guaranteed hit and deal the maximum amount of damage. 22 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:131
@@ -1650,154 +1670,159 @@ msgstr ""
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:135
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:136
 msgid ""
-"Enters a defensive stance, increasing the chance to evade enemy attacks for 60 "
-"seconds. Every skill level raises the chance to evade by a medium amount. 30 "
-"seconds cooldown."
+"Enters a defensive stance, increasing the chance to evade enemy attacks for "
+"60 seconds. Every skill level raises the chance to evade by a medium amount. "
+"30 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:137
 msgid ""
-"Performs a guaranteed hit and strikes all targets in 2 yard range with 56&#37; "
-"damage for the next 3 attacks. All enemies in 2 yard distance will only receive "
-"half of the damage. Afterwards all enemies search for a new target. 24 seconds "
-"cooldown."
+"Performs a guaranteed hit and strikes all targets in 2 yard range with "
+"56&#37; damage for the next 3 attacks. All enemies in 2 yard distance will "
+"only receive half of the damage. Afterwards all enemies search for a new "
+"target. 24 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:138
 msgid ""
-"Performs a guaranteed hit and strikes all targets in 2 yard range with 57&#37; "
-"damage for the next 3 attacks. All enemies in 2 yard distance will only receive "
-"half of the damage. Afterwards all enemies search for a new target. 24 seconds "
-"cooldown."
+"Performs a guaranteed hit and strikes all targets in 2 yard range with "
+"57&#37; damage for the next 3 attacks. All enemies in 2 yard distance will "
+"only receive half of the damage. Afterwards all enemies search for a new "
+"target. 24 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:139
 msgid ""
-"Performs a guaranteed hit and strikes all targets in 2 yard range with 58&#37; "
-"damage for the next 3 attacks. All enemies in 2 yard distance will only receive "
-"half of the damage. Afterwards all enemies search for a new target. 24 seconds "
-"cooldown."
+"Performs a guaranteed hit and strikes all targets in 2 yard range with "
+"58&#37; damage for the next 3 attacks. All enemies in 2 yard distance will "
+"only receive half of the damage. Afterwards all enemies search for a new "
+"target. 24 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:140
 msgid ""
-"Performs a guaranteed hit and strikes all targets in 2 yard range with 59&#37; "
-"damage for the next 3 attacks. All enemies in 2 yard distance will only receive "
-"half of the damage. Afterwards all enemies search for a new target. 24 seconds "
-"cooldown."
+"Performs a guaranteed hit and strikes all targets in 2 yard range with "
+"59&#37; damage for the next 3 attacks. All enemies in 2 yard distance will "
+"only receive half of the damage. Afterwards all enemies search for a new "
+"target. 24 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:141
 msgid ""
-"Performs a guaranteed hit and strikes all targets in 2 yard range with 60&#37; "
-"damage for the next 3 attacks. All enemies in 2 yard distance will only receive "
-"half of the damage. Afterwards all enemies search for a new target. 24 seconds "
-"cooldown."
+"Performs a guaranteed hit and strikes all targets in 2 yard range with "
+"60&#37; damage for the next 3 attacks. All enemies in 2 yard distance will "
+"only receive half of the damage. Afterwards all enemies search for a new "
+"target. 24 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:142
 msgid ""
-"Reduces damage taken by 66&#37; and increases the chance to evade enemy attacks "
-"for 30 seconds. Every skill level raises the chance to evade by a small amount. "
-"30 seconds cooldown."
+"Reduces damage taken by 66&#37; and increases the chance to evade enemy "
+"attacks for 30 seconds. Every skill level raises the chance to evade by a "
+"small amount. 30 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:143
 msgid ""
-"Reduces damage taken by 67&#37; and increases the chance to evade enemy attacks "
-"for 30 seconds. Every skill level raises the chance to evade by a small amount. "
-"30 seconds cooldown."
+"Reduces damage taken by 67&#37; and increases the chance to evade enemy "
+"attacks for 30 seconds. Every skill level raises the chance to evade by a "
+"small amount. 30 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:144
 msgid ""
-"Reduces damage taken by 68&#37; and increases the chance to evade enemy attacks "
-"for 30 seconds. Every skill level raises the chance to evade by a small amount. "
-"30 seconds cooldown."
+"Reduces damage taken by 68&#37; and increases the chance to evade enemy "
+"attacks for 30 seconds. Every skill level raises the chance to evade by a "
+"small amount. 30 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:145
 msgid ""
-"Reduces damage taken by 69&#37; and increases the chance to evade enemy attacks "
-"for 30 seconds. Every skill level raises the chance to evade by a small amount. "
-"30 seconds cooldown."
+"Reduces damage taken by 69&#37; and increases the chance to evade enemy "
+"attacks for 30 seconds. Every skill level raises the chance to evade by a "
+"small amount. 30 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:146
 msgid ""
-"Reduces damage taken by 70&#37; and increases the chance to evade enemy attacks "
-"for 30 seconds. Every skill level raises the chance to evade by a small amount. "
-"30 seconds cooldown."
+"Reduces damage taken by 70&#37; and increases the chance to evade enemy "
+"attacks for 30 seconds. Every skill level raises the chance to evade by a "
+"small amount. 30 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:147
 msgid ""
 "Increases the damage dealt by 16&#37;. Also increases the chance to hit your "
-"enemy with attacks and to evade enemy attacks for 60 seconds. Every skill level "
-"raises the chance to hit and to evade by a small amount. 30 seconds cooldown."
+"enemy with attacks and to evade enemy attacks for 60 seconds. Every skill "
+"level raises the chance to hit and to evade by a small amount. 30 seconds "
+"cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:148
 msgid ""
 "Increases the damage dealt by 17&#37;. Also increases the chance to hit your "
-"enemy with attacks and to evade enemy attacks for 60 seconds. Every skill level "
-"raises the chance to hit and to evade by a small amount. 30 seconds cooldown."
+"enemy with attacks and to evade enemy attacks for 60 seconds. Every skill "
+"level raises the chance to hit and to evade by a small amount. 30 seconds "
+"cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:149
 msgid ""
 "Increases the damage dealt by 18&#37;. Also increases the chance to hit your "
-"enemy with attacks and to evade enemy attacks for 60 seconds. Every skill level "
-"raises the chance to hit and to evade by a small amount. 30 seconds cooldown."
+"enemy with attacks and to evade enemy attacks for 60 seconds. Every skill "
+"level raises the chance to hit and to evade by a small amount. 30 seconds "
+"cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:150
 msgid ""
 "Increases the damage dealt by 19&#37;. Also increases the chance to hit your "
-"enemy with attacks and to evade enemy attacks for 60 seconds. Every skill level "
-"raises the chance to hit and to evade by a small amount. 30 seconds cooldown."
+"enemy with attacks and to evade enemy attacks for 60 seconds. Every skill "
+"level raises the chance to hit and to evade by a small amount. 30 seconds "
+"cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:151
 msgid ""
 "Increases the damage dealt by 20&#37;. Also increases the chance to hit your "
-"enemy with attacks and to evade enemy attacks for 60 seconds. Every skill level "
-"raises the chances to hit and to evade by a small amount. 30 seconds cooldown."
+"enemy with attacks and to evade enemy attacks for 60 seconds. Every skill "
+"level raises the chances to hit and to evade by a small amount. 30 seconds "
+"cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:152
 msgid ""
-"Blocks an enemy attack with your shield and counter them, reducing damage taken "
-"by 63&#37; and retaliating 88&#37; of the original damage for the next 5 enemy "
-"attacks. 20 seconds cooldown."
+"Blocks an enemy attack with your shield and counter them, reducing damage "
+"taken by 63&#37; and retaliating 88&#37; of the original damage for the next "
+"5 enemy attacks. 20 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:153
 msgid ""
-"Blocks an enemy attack with your shield and counter them, reducing damage taken "
-"by 66&#37; and retaliating 92&#37; of the original damage for the next 5 enemy "
-"attacks. 20 seconds cooldown."
+"Blocks an enemy attack with your shield and counter them, reducing damage "
+"taken by 66&#37; and retaliating 92&#37; of the original damage for the next "
+"5 enemy attacks. 20 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:154
 msgid ""
-"Blocks an enemy attack with your shield and counter them, reducing damage taken "
-"by 69&#37; and retaliating 96&#37; of the original damage for the next 5 enemy "
-"attacks. 20 seconds cooldown."
+"Blocks an enemy attack with your shield and counter them, reducing damage "
+"taken by 69&#37; and retaliating 96&#37; of the original damage for the next "
+"5 enemy attacks. 20 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:155
 msgid ""
-"Blocks an enemy attack with your shield and counter them, reducing damage taken "
-"by 72&#37; and retaliating 100&#37; of the original damage for the next 5 enemy "
-"attacks. 20 seconds cooldown."
+"Blocks an enemy attack with your shield and counter them, reducing damage "
+"taken by 72&#37; and retaliating 100&#37; of the original damage for the "
+"next 5 enemy attacks. 20 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_warrior.php:156
 msgid ""
-"Blocks an enemy attack with your shield and counter them, reducing damage taken "
-"by 75&#37; and retaliating 104&#37; of the original damage for the next 5 enemy "
-"attacks. 20 seconds cooldown."
+"Blocks an enemy attack with your shield and counter them, reducing damage "
+"taken by 75&#37; and retaliating 104&#37; of the original damage for the "
+"next 5 enemy attacks. 20 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:2
@@ -1838,116 +1863,116 @@ msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:13
 msgid ""
-"Enhances your dexterity, performing a guaranteed hit for the next 2 attacks. 50 "
-"seconds cooldown."
+"Enhances your dexterity, performing a guaranteed hit for the next 2 attacks. "
+"50 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:14
 msgid ""
-"Enhances your dexterity, performing a guaranteed hit for the next 3 attacks. 44 "
-"seconds cooldown."
+"Enhances your dexterity, performing a guaranteed hit for the next 3 attacks. "
+"44 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:15
 msgid ""
-"Enhances your dexterity, performing a guaranteed hit for the next 3 attacks. 32 "
-"seconds cooldown."
+"Enhances your dexterity, performing a guaranteed hit for the next 3 attacks. "
+"32 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:16
 msgid ""
-"Enhances your dexterity, performing a guaranteed hit for the next 3 attacks. 24 "
-"seconds cooldown."
+"Enhances your dexterity, performing a guaranteed hit for the next 3 attacks. "
+"24 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:17
 msgid ""
-"Channels holy energy, increasing the healing caused by 9&#37; for your next 2 "
-"healing spells. 20 seconds cooldown."
+"Channels holy energy, increasing the healing caused by 9&#37; for your next "
+"2 healing spells. 20 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:18
 msgid ""
-"Channels holy energy, increasing the healing caused by 11&#37; for your next 2 "
-"healing spells. 20 seconds cooldown."
+"Channels holy energy, increasing the healing caused by 11&#37; for your next "
+"2 healing spells. 20 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:19
 msgid ""
-"Channels holy energy, increasing the healing caused by 12&#37; for your next 2 "
-"healing spells. 20 seconds cooldown."
+"Channels holy energy, increasing the healing caused by 12&#37; for your next "
+"2 healing spells. 20 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:20
 msgid ""
-"Channels holy energy, increasing the healing caused by 14&#37; for your next 2 "
-"healing spells. 20 seconds cooldown."
+"Channels holy energy, increasing the healing caused by 14&#37; for your next "
+"2 healing spells. 20 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:21
 msgid ""
-"Channels holy energy, increasing the healing caused by 15&#37; for your next 2 "
-"healing spells. 20 seconds cooldown."
+"Channels holy energy, increasing the healing caused by 15&#37; for your next "
+"2 healing spells. 20 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:22
 msgid ""
-"Screams in a very high tone, causing all enemies in 3 yard range to take a step "
-"back and search for a new target. 50 seconds cooldown."
+"Screams in a very high tone, causing all enemies in 3 yard range to take a "
+"step back and search for a new target. 50 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:23
 msgid ""
-"Screams in a very high tone, causing all enemies in 3 yard range to take a step "
-"back and search for a new target. 45 seconds cooldown."
+"Screams in a very high tone, causing all enemies in 3 yard range to take a "
+"step back and search for a new target. 45 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:24
 msgid ""
-"Screams in a very high tone, causing all enemies in 3 yard range to take a step "
-"back and search for a new target. 40 seconds cooldown."
+"Screams in a very high tone, causing all enemies in 3 yard range to take a "
+"step back and search for a new target. 40 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:25
 msgid ""
-"Screams in a very high tone, causing all enemies in 3 yard range to take a step "
-"back and search for a new target. 35 seconds cooldown."
+"Screams in a very high tone, causing all enemies in 3 yard range to take a "
+"step back and search for a new target. 35 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:26
 msgid ""
-"Screams in a very high tone, causing all enemies in 3 yard range to take a step "
-"back and search for a new target. 30 seconds cooldown."
+"Screams in a very high tone, causing all enemies in 3 yard range to take a "
+"step back and search for a new target. 30 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:27
 msgid ""
-"Performs a guaranteed hit and increases the damage dealt by 5&#37; for the next "
-"2 spells. 24 seconds cooldown."
+"Performs a guaranteed hit and increases the damage dealt by 5&#37; for the "
+"next 2 spells. 24 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:28
 msgid ""
-"Performs a guaranteed hit and increases the damage dealt by 7&#37; for the next "
-"2 spells. 24 seconds cooldown."
+"Performs a guaranteed hit and increases the damage dealt by 7&#37; for the "
+"next 2 spells. 24 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:29
 msgid ""
-"Performs a guaranteed hit and increases the damage dealt by 9&#37; for the next "
-"2 spells. 24 seconds cooldown."
+"Performs a guaranteed hit and increases the damage dealt by 9&#37; for the "
+"next 2 spells. 24 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:30
 msgid ""
-"Performs a guaranteed hit and increases the damage dealt by 12&#37; for the next "
-"2 spells. 24 seconds cooldown."
+"Performs a guaranteed hit and increases the damage dealt by 12&#37; for the "
+"next 2 spells. 24 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:31
 msgid ""
-"Performs a guaranteed hit and increases the damage dealt by 15&#37; for the next "
-"2 spells. 24 seconds cooldown."
+"Performs a guaranteed hit and increases the damage dealt by 15&#37; for the "
+"next 2 spells. 24 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:32
@@ -1987,102 +2012,102 @@ msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:37
 msgid ""
-"Amplifies your holy energy, causing your healing spells to heal yourself and an "
-"additional nearby ally with 61&#37; of the original heal amount for the next to "
-"2 healing spells. 30 seconds cooldown."
+"Amplifies your holy energy, causing your healing spells to heal yourself and "
+"an additional nearby ally with 61&#37; of the original heal amount for the "
+"next to 2 healing spells. 30 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:38
 msgid ""
-"Amplifies your holy energy, causing your healing spells to heal yourself and an "
-"additional nearby ally with 62&#37; of the original heal amount for the next to "
-"2 healing spells. 30 seconds cooldown."
+"Amplifies your holy energy, causing your healing spells to heal yourself and "
+"an additional nearby ally with 62&#37; of the original heal amount for the "
+"next to 2 healing spells. 30 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:39
 msgid ""
-"Amplifies your holy energy, causing your healing spells to heal yourself and an "
-"additional nearby ally with 63&#37; of the original heal amount for the next to "
-"2 healing spells. 30 seconds cooldown."
+"Amplifies your holy energy, causing your healing spells to heal yourself and "
+"an additional nearby ally with 63&#37; of the original heal amount for the "
+"next to 2 healing spells. 30 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:40
 msgid ""
-"Amplifies your holy energy, causing your healing spells to heal yourself and an "
-"additional nearby ally with 64&#37; of the original heal amount for the next to "
-"2 healing spells. 30 seconds cooldown."
+"Amplifies your holy energy, causing your healing spells to heal yourself and "
+"an additional nearby ally with 64&#37; of the original heal amount for the "
+"next to 2 healing spells. 30 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:41
 msgid ""
-"Amplifies your holy energy, causing your healing spells to heal yourself and an "
-"additional nearby ally with 65&#37; of the original heal amount for the next to "
-"2 healing spells. 30 seconds cooldown."
+"Amplifies your holy energy, causing your healing spells to heal yourself and "
+"an additional nearby ally with 65&#37; of the original heal amount for the "
+"next to 2 healing spells. 30 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:42
 msgid ""
-"Shifts yourself to a meditating state, regenerating 40&#37; of your total health "
-"and mana over 15 seconds. 90 seconds cooldown."
+"Shifts yourself to a meditating state, regenerating 40&#37; of your total "
+"health and mana over 15 seconds. 90 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:43
 msgid ""
-"Shifts yourself to a meditating state, regenerating 45&#37; of your total health "
-"and mana over 15 seconds. 90 seconds cooldown."
+"Shifts yourself to a meditating state, regenerating 45&#37; of your total "
+"health and mana over 15 seconds. 90 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:44
 msgid ""
-"Shifts yourself to a meditating state, regenerating 50&#37; of your total health "
-"and mana over 15 seconds. 90 seconds cooldown."
+"Shifts yourself to a meditating state, regenerating 50&#37; of your total "
+"health and mana over 15 seconds. 90 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:45
 msgid ""
-"Shifts yourself to a meditating state, regenerating 55&#37; of your total health "
-"and mana over 15 seconds. 90 seconds cooldown."
+"Shifts yourself to a meditating state, regenerating 55&#37; of your total "
+"health and mana over 15 seconds. 90 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:46
 msgid ""
-"Shifts yourself to a meditating state, regenerating 60&#37; of your total health "
-"and mana over 15 seconds. 90 seconds cooldown."
+"Shifts yourself to a meditating state, regenerating 60&#37; of your total "
+"health and mana over 15 seconds. 90 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:47
 msgid ""
-"Surrounds your weapon with an electrical field, performing a guaranteed hit and "
-"incapacitating your target for 2.0 seconds with your next attack. 30 seconds "
-"cooldown."
+"Surrounds your weapon with an electrical field, performing a guaranteed hit "
+"and incapacitating your target for 2.0 seconds with your next attack. 30 "
+"seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:48
 msgid ""
-"Surrounds your weapon with an electrical field, performing a guaranteed hit and "
-"incapacitating your target for 2.5 seconds with your next attack. 30 seconds "
-"cooldown."
+"Surrounds your weapon with an electrical field, performing a guaranteed hit "
+"and incapacitating your target for 2.5 seconds with your next attack. 30 "
+"seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:49
 msgid ""
-"Surrounds your weapon with an electrical field, performing a guaranteed hit and "
-"incapacitating your target for 3.0 seconds with your next attack. 30 seconds "
-"cooldown."
+"Surrounds your weapon with an electrical field, performing a guaranteed hit "
+"and incapacitating your target for 3.0 seconds with your next attack. 30 "
+"seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:50
 msgid ""
-"Surrounds your weapon with an electrical field, performing a guaranteed hit and "
-"incapacitating your target for 3.5 seconds with your next attack. 30 seconds "
-"cooldown."
+"Surrounds your weapon with an electrical field, performing a guaranteed hit "
+"and incapacitating your target for 3.5 seconds with your next attack. 30 "
+"seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:51
 msgid ""
-"Surrounds your weapon with an electrical field, performing a guaranteed hit and "
-"incapacitating your target for 4.0 seconds with your next attack. 30 seconds "
-"cooldown."
+"Surrounds your weapon with an electrical field, performing a guaranteed hit "
+"and incapacitating your target for 4.0 seconds with your next attack. 30 "
+"seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:52
@@ -2153,36 +2178,36 @@ msgstr ""
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:62
 msgid ""
 "A mighty phrase added to your spells that sunders the armour of your enemy. "
-"Performs a guaranteed hit and reduces the armour of your enemy by 18&#37; for "
-"the next 2 spells. 24 seconds cooldown."
+"Performs a guaranteed hit and reduces the armour of your enemy by 18&#37; "
+"for the next 2 spells. 24 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:63
 msgid ""
 "A mighty phrase added to your spells that sunders the armour of your enemy. "
-"Performs a guaranteed hit and reduces the armour of your enemy by 21&#37; for "
-"the next 2 spells. 24 seconds cooldown."
+"Performs a guaranteed hit and reduces the armour of your enemy by 21&#37; "
+"for the next 2 spells. 24 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:64
 msgid ""
 "A mighty phrase added to your spells that sunders the armour of your enemy. "
-"Performs a guaranteed hit and reduces the armour of your enemy by 24&#37; for "
-"the next 2 spells. 24 seconds cooldown."
+"Performs a guaranteed hit and reduces the armour of your enemy by 24&#37; "
+"for the next 2 spells. 24 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:65
 msgid ""
 "A mighty phrase added to your spells that sunders the armour of your enemy. "
-"Performs a guaranteed hit and reduces the armour of your enemy by 27&#37; for "
-"the next 2 spells. 24 seconds cooldown."
+"Performs a guaranteed hit and reduces the armour of your enemy by 27&#37; "
+"for the next 2 spells. 24 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:66
 msgid ""
 "A mighty phrase added to your spells that sunders the armour of your enemy. "
-"Performs a guaranteed hit and reduces the armour of your enemy by 30&#37; for "
-"the next 2 spells. 24 seconds cooldown."
+"Performs a guaranteed hit and reduces the armour of your enemy by 30&#37; "
+"for the next 2 spells. 24 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:67
@@ -2217,162 +2242,162 @@ msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:72
 msgid ""
-"A dexterous strike that performs a guaranteed hit and increases the damage dealt "
-"by 26&#37; for the next 5 attacks. 20 seconds cooldown."
+"A dexterous strike that performs a guaranteed hit and increases the damage "
+"dealt by 26&#37; for the next 5 attacks. 20 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:73
 msgid ""
-"A dexterous strike that performs a guaranteed hit and increases the damage dealt "
-"by 31&#37; for the next 5 attacks. 20 seconds cooldown."
+"A dexterous strike that performs a guaranteed hit and increases the damage "
+"dealt by 31&#37; for the next 5 attacks. 20 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:74
 msgid ""
-"A dexterous strike that performs a guaranteed hit and increases the damage dealt "
-"by 35&#37; for the next 5 attacks. 20 seconds cooldown."
+"A dexterous strike that performs a guaranteed hit and increases the damage "
+"dealt by 35&#37; for the next 5 attacks. 20 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:75
 msgid ""
-"A dexterous strike that performs a guaranteed hit and increases the damage dealt "
-"by 39&#37; for the next 5 attacks. 20 seconds cooldown."
+"A dexterous strike that performs a guaranteed hit and increases the damage "
+"dealt by 39&#37; for the next 5 attacks. 20 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:76
 msgid ""
-"A dexterous strike that performs a guaranteed hit and increases the damage dealt "
-"by 44&#37; for the next 5 attacks. 20 seconds cooldown."
+"A dexterous strike that performs a guaranteed hit and increases the damage "
+"dealt by 44&#37; for the next 5 attacks. 20 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:77
 msgid ""
-"Surrounds you with an arcane ward, protecting yourself from enemy debuffs for 10 "
-"seconds. 50 seconds cooldown."
+"Surrounds you with an arcane ward, protecting yourself from enemy debuffs "
+"for 10 seconds. 50 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:78
 msgid ""
-"Surrounds you with an arcane ward, protecting yourself from enemy debuffs for 10 "
-"seconds. 45 seconds cooldown."
+"Surrounds you with an arcane ward, protecting yourself from enemy debuffs "
+"for 10 seconds. 45 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:79
 msgid ""
-"Surrounds you with an arcane ward, protecting yourself from enemy debuffs for 10 "
-"seconds. 40 seconds cooldown."
+"Surrounds you with an arcane ward, protecting yourself from enemy debuffs "
+"for 10 seconds. 40 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:80
 msgid ""
-"Surrounds you with an arcane ward, protecting yourself from enemy debuffs for 10 "
-"seconds. 35 seconds cooldown."
+"Surrounds you with an arcane ward, protecting yourself from enemy debuffs "
+"for 10 seconds. 35 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:81
 msgid ""
-"Surrounds you with an arcane ward, protecting yourself from enemy debuffs for 10 "
-"seconds. 30 seconds cooldown."
+"Surrounds you with an arcane ward, protecting yourself from enemy debuffs "
+"for 10 seconds. 30 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:82
 msgid ""
-"A stream of holy energy flows through your body, causing your healing spells to "
-"heal yourself and all allies in 3 yards range with 71&#37; of the original heal "
-"amount for next to 2 healing spells. 30 seconds cooldown."
+"A stream of holy energy flows through your body, causing your healing spells "
+"to heal yourself and all allies in 3 yards range with 71&#37; of the "
+"original heal amount for next to 2 healing spells. 30 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:83
 msgid ""
-"A stream of holy energy flows through your body, causing your healing spells to "
-"heal yourself and all allies in 3 yards range with 72&#37; of the original heal "
-"amount for next to 2 healing spells. 30 seconds cooldown."
+"A stream of holy energy flows through your body, causing your healing spells "
+"to heal yourself and all allies in 3 yards range with 72&#37; of the "
+"original heal amount for next to 2 healing spells. 30 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:84
 msgid ""
-"A stream of holy energy flows through your body, causing your healing spells to "
-"heal yourself and all allies in 3 yards range with 73&#37; of the original heal "
-"amount for next to 2 healing spells. 30 seconds cooldown."
+"A stream of holy energy flows through your body, causing your healing spells "
+"to heal yourself and all allies in 3 yards range with 73&#37; of the "
+"original heal amount for next to 2 healing spells. 30 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:85
 msgid ""
-"A stream of holy energy flows through your body, causing your healing spells to "
-"heal yourself and all allies in 3 yards range with 74&#37; of the original heal "
-"amount for next to 2 healing spells. 30 seconds cooldown."
+"A stream of holy energy flows through your body, causing your healing spells "
+"to heal yourself and all allies in 3 yards range with 74&#37; of the "
+"original heal amount for next to 2 healing spells. 30 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:86
 msgid ""
-"A stream of holy energy flows through your body, causing your healing spells to "
-"heal yourself and all allies in 3 yards range with 75&#37; of the original heal "
-"amount for next to 2 healing spells. 30 seconds cooldown."
+"A stream of holy energy flows through your body, causing your healing spells "
+"to heal yourself and all allies in 3 yards range with 75&#37; of the "
+"original heal amount for next to 2 healing spells. 30 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:87
 msgid ""
-"Performs a guaranteed hit and increases the damage dealt by 41&#37; for next 5 "
-"spells. 24 seconds cooldown."
+"Performs a guaranteed hit and increases the damage dealt by 41&#37; for next "
+"5 spells. 24 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:88
 msgid ""
-"Performs a guaranteed hit and increases the damage dealt by 43&#37; for next 5 "
-"spells. 24 seconds cooldown."
+"Performs a guaranteed hit and increases the damage dealt by 43&#37; for next "
+"5 spells. 24 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:89
 msgid ""
-"Performs a guaranteed hit and increases the damage dealt by 45&#37; for next 5 "
-"spells. 24 seconds cooldown."
+"Performs a guaranteed hit and increases the damage dealt by 45&#37; for next "
+"5 spells. 24 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:90
 msgid ""
-"Performs a guaranteed hit and increases the damage dealt by 48&#37; for next 5 "
-"spells. 24 seconds cooldown."
+"Performs a guaranteed hit and increases the damage dealt by 48&#37; for next "
+"5 spells. 24 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:91
 msgid ""
-"Performs a guaranteed hit and increases the damage dealt by 50&#37; for next 5 "
-"spells. 24 seconds cooldown."
+"Performs a guaranteed hit and increases the damage dealt by 50&#37; for next "
+"5 spells. 24 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:92
 msgid ""
-"Enchants your weapon with a mana leeching aura, performing a guaranteed hit and "
-"draining 26&#37; of your damage dealt as mana for the next 7 attacks. 20 seconds "
-"cooldown."
+"Enchants your weapon with a mana leeching aura, performing a guaranteed hit "
+"and draining 26&#37; of your damage dealt as mana for the next 7 attacks. 20 "
+"seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:93
 msgid ""
-"Enchants your weapon with a mana leeching aura, performing a guaranteed hit and "
-"draining 27&#37; of your damage dealt as mana for the next 7 attacks. 20 seconds "
-"cooldown."
+"Enchants your weapon with a mana leeching aura, performing a guaranteed hit "
+"and draining 27&#37; of your damage dealt as mana for the next 7 attacks. 20 "
+"seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:94
 msgid ""
-"Enchants your weapon with a mana leeching aura, performing a guaranteed hit and "
-"draining 28&#37; of your damage dealt as mana for the next 7 attacks. 20 seconds "
-"cooldown."
+"Enchants your weapon with a mana leeching aura, performing a guaranteed hit "
+"and draining 28&#37; of your damage dealt as mana for the next 7 attacks. 20 "
+"seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:95
 msgid ""
-"Enchants your weapon with a mana leeching aura, performing a guaranteed hit and "
-"draining 29&#37; of your damage dealt as mana for the next 7 attacks. 20 seconds "
-"cooldown."
+"Enchants your weapon with a mana leeching aura, performing a guaranteed hit "
+"and draining 29&#37; of your damage dealt as mana for the next 7 attacks. 20 "
+"seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:96
 msgid ""
-"Enchants your weapon with a mana leeching aura, performing a guaranteed hit and "
-"draining 30&#37; of your damage dealt as mana for the next 7 attacks. 20 seconds "
-"cooldown."
+"Enchants your weapon with a mana leeching aura, performing a guaranteed hit "
+"and draining 30&#37; of your damage dealt as mana for the next 7 attacks. 20 "
+"seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:97
@@ -2412,382 +2437,382 @@ msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:102
 msgid ""
-"Creates a magic barrier around you that either protects yourself from the next 2 "
-"aggressive spells or absorbs 60&#37; of the next 162 damage taken. First "
-"completed effect will end the skill. 60 seconds cooldown."
+"Creates a magic barrier around you that either protects yourself from the "
+"next 2 aggressive spells or absorbs 60&#37; of the next 162 damage taken. "
+"First completed effect will end the skill. 60 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:103
 msgid ""
-"Creates a magic barrier around you that either protects yourself from the next 2 "
-"aggressive spells or absorbs 60&#37; of the next 173 damage taken. First "
-"completed effect will end the skill. 60 seconds cooldown."
+"Creates a magic barrier around you that either protects yourself from the "
+"next 2 aggressive spells or absorbs 60&#37; of the next 173 damage taken. "
+"First completed effect will end the skill. 60 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:104
 msgid ""
-"Creates a magic barrier around you that either protects yourself from the next 2 "
-"aggressive spells or absorbs 60&#37; of the next 186 damage taken. First "
-"completed effect will end the skill. 60 seconds cooldown."
+"Creates a magic barrier around you that either protects yourself from the "
+"next 2 aggressive spells or absorbs 60&#37; of the next 186 damage taken. "
+"First completed effect will end the skill. 60 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:105
 msgid ""
-"Creates a magic barrier around you that either protects yourself from the next 2 "
-"aggressive spells or absorbs 60&#37; of the next 198 damage taken. First "
-"completed effect will end the skill. 60 seconds cooldown."
+"Creates a magic barrier around you that either protects yourself from the "
+"next 2 aggressive spells or absorbs 60&#37; of the next 198 damage taken. "
+"First completed effect will end the skill. 60 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:106
 msgid ""
-"Creates a magic barrier around you that either protects yourself from the next 2 "
-"aggressive spells or absorbs 60&#37; of the next 212 damage taken. First "
-"completed effect will end the skill. 60 seconds cooldown."
+"Creates a magic barrier around you that either protects yourself from the "
+"next 2 aggressive spells or absorbs 60&#37; of the next 212 damage taken. "
+"First completed effect will end the skill. 60 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:107
 msgid ""
-"Renews your body with holy energy, regenerating 42&#37; of your total health and "
-"mana over 30 seconds. 30 seconds cooldown."
+"Renews your body with holy energy, regenerating 42&#37; of your total health "
+"and mana over 30 seconds. 30 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:108
 msgid ""
-"Renews your body with holy energy, regenerating 44&#37; of your total health and "
-"mana over 30 seconds. 30 seconds cooldown."
+"Renews your body with holy energy, regenerating 44&#37; of your total health "
+"and mana over 30 seconds. 30 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:109
 msgid ""
-"Renews your body with holy energy, regenerating 46&#37; of your total health and "
-"mana over 30 seconds. 30 seconds cooldown."
+"Renews your body with holy energy, regenerating 46&#37; of your total health "
+"and mana over 30 seconds. 30 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:110
 msgid ""
-"Renews your body with holy energy, regenerating 48&#37; of your total health and "
-"mana over 30 seconds. 30 seconds cooldown."
+"Renews your body with holy energy, regenerating 48&#37; of your total health "
+"and mana over 30 seconds. 30 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:111
 msgid ""
-"Renews your body with holy energy, regenerating 50&#37; of your total health and "
-"mana over 30 seconds. 30 seconds cooldown."
+"Renews your body with holy energy, regenerating 50&#37; of your total health "
+"and mana over 30 seconds. 30 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:112
 msgid ""
-"Surrounds you with a holy ward, reducing damage taken by 67&#37; for the next 7 "
-"attacks and charging the ward. When ward fades you get healed by the ward's "
-"charge. 30 seconds cooldown."
+"Surrounds you with a holy ward, reducing damage taken by 67&#37; for the "
+"next 7 attacks and charging the ward. When ward fades you get healed by the "
+"ward's charge. 30 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:113
 msgid ""
-"Surrounds you with a holy ward, reducing damage taken by 69&#37; for the next 7 "
-"attacks and charging the ward. When ward fades you get healed by the ward's "
-"charge. 30 seconds cooldown."
+"Surrounds you with a holy ward, reducing damage taken by 69&#37; for the "
+"next 7 attacks and charging the ward. When ward fades you get healed by the "
+"ward's charge. 30 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:114
 msgid ""
-"Surrounds you with a holy ward, reducing damage taken by 71&#37; for the next 7 "
-"attacks and charging the ward. When ward fades you get healed by the ward's "
-"charge. 30 seconds cooldown."
+"Surrounds you with a holy ward, reducing damage taken by 71&#37; for the "
+"next 7 attacks and charging the ward. When ward fades you get healed by the "
+"ward's charge. 30 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:115
 msgid ""
-"Surrounds you with a holy ward, reducing damage taken by 73&#37; for the next 7 "
-"attacks and charging the ward. When ward fades you get healed by the ward's "
-"charge. 30 seconds cooldown."
+"Surrounds you with a holy ward, reducing damage taken by 73&#37; for the "
+"next 7 attacks and charging the ward. When ward fades you get healed by the "
+"ward's charge. 30 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:116
 msgid ""
-"Surrounds you with a holy ward, reducing damage taken by 75&#37; for the next 7 "
-"attacks and charging the ward. When ward fades you get healed by the ward's "
-"charge. 30 seconds cooldown."
+"Surrounds you with a holy ward, reducing damage taken by 75&#37; for the "
+"next 7 attacks and charging the ward. When ward fades you get healed by the "
+"ward's charge. 30 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:117
 msgid ""
-"Bridges the magical void, reducing the cooldown of your spells by 50&#37; for 18 "
-"seconds. 30 seconds cooldown."
+"Bridges the magical void, reducing the cooldown of your spells by 50&#37; "
+"for 18 seconds. 30 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:118
 msgid ""
-"Bridges the magical void, reducing the cooldown of your spells by 50&#37; for 21 "
-"seconds. 30 seconds cooldown."
+"Bridges the magical void, reducing the cooldown of your spells by 50&#37; "
+"for 21 seconds. 30 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:119
 msgid ""
-"Bridges the magical void, reducing the cooldown of your spells by 50&#37; for 24 "
-"seconds. 30 seconds cooldown."
+"Bridges the magical void, reducing the cooldown of your spells by 50&#37; "
+"for 24 seconds. 30 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:120
 msgid ""
-"Bridges the magical void, reducing the cooldown of your spells by 50&#37; for 27 "
-"seconds. 30 seconds cooldown."
+"Bridges the magical void, reducing the cooldown of your spells by 50&#37; "
+"for 27 seconds. 30 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:121
 msgid ""
-"Bridges the magical void, reducing the cooldown of your spells by 50&#37; for 30 "
-"seconds. 30 seconds cooldown."
+"Bridges the magical void, reducing the cooldown of your spells by 50&#37; "
+"for 30 seconds. 30 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:122
 msgid ""
-"Forming a gaping hole in the magic stream allows you to cast spells at a much "
-"lower mana consumption. Reduces the mana costs of your spells by 50&#37; for the "
-"next 22 seconds. 20 seconds cooldown."
+"Forming a gaping hole in the magic stream allows you to cast spells at a "
+"much lower mana consumption. Reduces the mana costs of your spells by "
+"50&#37; for the next 22 seconds. 20 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:123
 msgid ""
-"Forming a gaping hole in the magic stream allows you to cast spells at a much "
-"lower mana consumption. Reduces the mana costs of your spells by 50&#37; for the "
-"next 24 seconds. 20 seconds cooldown."
+"Forming a gaping hole in the magic stream allows you to cast spells at a "
+"much lower mana consumption. Reduces the mana costs of your spells by "
+"50&#37; for the next 24 seconds. 20 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:124
 msgid ""
-"Forming a gaping hole in the magic stream allows you to cast spells at a much "
-"lower mana consumption. Reduces the mana costs of your spells by 50&#37; for the "
-"next 26 seconds. 20 seconds cooldown."
+"Forming a gaping hole in the magic stream allows you to cast spells at a "
+"much lower mana consumption. Reduces the mana costs of your spells by "
+"50&#37; for the next 26 seconds. 20 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:125
 msgid ""
-"Forming a gaping hole in the magic stream allows you to cast spells at a much "
-"lower mana consumption. Reduces the mana costs of your spells by 50&#37; for the "
-"next 28 seconds. 20 seconds cooldown."
+"Forming a gaping hole in the magic stream allows you to cast spells at a "
+"much lower mana consumption. Reduces the mana costs of your spells by "
+"50&#37; for the next 28 seconds. 20 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:126
 msgid ""
-"Forming a gaping hole in the magic stream allows you to cast spells at a much "
-"lower mana consumption. Reduces the mana costs of your spells by 50&#37; for the "
-"next 30 seconds. 20 seconds cooldown."
+"Forming a gaping hole in the magic stream allows you to cast spells at a "
+"much lower mana consumption. Reduces the mana costs of your spells by "
+"50&#37; for the next 30 seconds. 20 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:127
 msgid ""
 "Enchants your weapon with a vampiric aura, performing a guaranteed hit and "
-"draining 31&#37; of your damage dealt as heal for the next 3 attacks. 30 seconds "
-"cooldown."
+"draining 31&#37; of your damage dealt as heal for the next 3 attacks. 30 "
+"seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:128
 msgid ""
 "Enchants your weapon with a vampiric aura, performing a guaranteed hit and "
-"draining 32&#37; of your damage dealt as heal for the next 3 attacks. 30 seconds "
-"cooldown."
+"draining 32&#37; of your damage dealt as heal for the next 3 attacks. 30 "
+"seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:129
 msgid ""
 "Enchants your weapon with a vampiric aura, performing a guaranteed hit and "
-"draining 33&#37; of your damage dealt as heal for the next 3 attacks. 30 seconds "
-"cooldown."
+"draining 33&#37; of your damage dealt as heal for the next 3 attacks. 30 "
+"seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:130
 msgid ""
 "Enchants your weapon with a vampiric aura, performing a guaranteed hit and "
-"draining 34&#37; of your damage dealt as heal for the next 3 attacks. 30 seconds "
-"cooldown."
+"draining 34&#37; of your damage dealt as heal for the next 3 attacks. 30 "
+"seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:131
 msgid ""
 "Enchants your weapon with a vampiric aura, performing a guaranteed hit and "
-"draining 35&#37; of your damage dealt as heal for the next 3 attacks. 30 seconds "
-"cooldown."
+"draining 35&#37; of your damage dealt as heal for the next 3 attacks. 30 "
+"seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:132
 msgid ""
-"A masterly weapon swing that performs a guaranteed hit and increases the damage "
-"dealt by 79&#37; for next 5 attacks. 22 seconds cooldown."
+"A masterly weapon swing that performs a guaranteed hit and increases the "
+"damage dealt by 79&#37; for next 5 attacks. 22 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:133
 msgid ""
-"A masterly weapon swing that performs a guaranteed hit and increases the damage "
-"dealt by 83&#37; for next 5 attacks. 22 seconds cooldown."
+"A masterly weapon swing that performs a guaranteed hit and increases the "
+"damage dealt by 83&#37; for next 5 attacks. 22 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:134
 msgid ""
-"A masterly weapon swing that performs a guaranteed hit and increases the damage "
-"dealt by 87&#37; for next 5 attacks. 22 seconds cooldown."
+"A masterly weapon swing that performs a guaranteed hit and increases the "
+"damage dealt by 87&#37; for next 5 attacks. 22 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:135
 msgid ""
-"A masterly weapon swing that performs a guaranteed hit and increases the damage "
-"dealt by 90&#37; for next 5 attacks. 22 seconds cooldown."
+"A masterly weapon swing that performs a guaranteed hit and increases the "
+"damage dealt by 90&#37; for next 5 attacks. 22 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:136
 msgid ""
-"A masterly weapon swing that performs a guaranteed hit and increases the damage "
-"dealt by 94&#37; for next 5 attacks. 22 seconds cooldown."
+"A masterly weapon swing that performs a guaranteed hit and increases the "
+"damage dealt by 94&#37; for next 5 attacks. 22 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:137
 msgid ""
-"Enchants your armour with a mighty magic, reducing damage taken by 52&#37; and "
-"regenerating 20&#37; of your total health and mana over 30 seconds. Cooldown 30 "
-"seconds."
+"Enchants your armour with a mighty magic, reducing damage taken by 52&#37; "
+"and regenerating 20&#37; of your total health and mana over 30 seconds. "
+"Cooldown 30 seconds."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:138
 msgid ""
-"Enchants your armour with a mighty magic, reducing damage taken by 54&#37; and "
-"regenerating 20&#37; of your total health and mana over 30 seconds. Cooldown 30 "
-"seconds."
+"Enchants your armour with a mighty magic, reducing damage taken by 54&#37; "
+"and regenerating 20&#37; of your total health and mana over 30 seconds. "
+"Cooldown 30 seconds."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:139
 msgid ""
-"Enchants your armour with a mighty magic, reducing damage taken by 56&#37; and "
-"regenerating 20&#37; of your total health and mana over 30 seconds. Cooldown 30 "
-"seconds."
+"Enchants your armour with a mighty magic, reducing damage taken by 56&#37; "
+"and regenerating 20&#37; of your total health and mana over 30 seconds. "
+"Cooldown 30 seconds."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:140
 msgid ""
-"Enchants your armour with a mighty magic, reducing damage taken by 58&#37; and "
-"regenerating 20&#37; of your total health and mana over 30 seconds. Cooldown 30 "
-"seconds."
+"Enchants your armour with a mighty magic, reducing damage taken by 58&#37; "
+"and regenerating 20&#37; of your total health and mana over 30 seconds. "
+"Cooldown 30 seconds."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:141
 msgid ""
-"Enchants your armour with a mighty magic, reducing damage taken by 60&#37; and "
-"regenerating 20&#37; of your total health and mana over 30 seconds. Cooldown 30 "
-"seconds."
+"Enchants your armour with a mighty magic, reducing damage taken by 60&#37; "
+"and regenerating 20&#37; of your total health and mana over 30 seconds. "
+"Cooldown 30 seconds."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:142
 msgid ""
 "The long study of the arcane ways have made you a master of spell casting. "
-"Performs a guaranteed hit and increases the damage dealt by 107&#37; for next 5 "
-"spells. 30 seconds cooldown."
+"Performs a guaranteed hit and increases the damage dealt by 107&#37; for "
+"next 5 spells. 30 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:143
 msgid ""
 "The long study of the arcane ways have made you a master of spell casting. "
-"Performs a guaranteed hit and increases the damage dealt by 110&#37; for next 5 "
-"spells. 30 seconds cooldown."
+"Performs a guaranteed hit and increases the damage dealt by 110&#37; for "
+"next 5 spells. 30 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:144
 msgid ""
 "The long study of the arcane ways have made you a master of spell casting. "
-"Performs a guaranteed hit and increases the damage dealt by 114&#37; for next 5 "
-"spells. 30 seconds cooldown."
+"Performs a guaranteed hit and increases the damage dealt by 114&#37; for "
+"next 5 spells. 30 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:145
 msgid ""
 "The long study of the arcane ways have made you a master of spell casting. "
-"Performs a guaranteed hit and increases the damage dealt by 117&#37; for next 5 "
-"spells. 30 seconds cooldown."
+"Performs a guaranteed hit and increases the damage dealt by 117&#37; for "
+"next 5 spells. 30 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:146
 msgid ""
 "The long study of the arcane ways have made you a master of spell casting. "
-"Performs a guaranteed hit and increases the damage dealt by 120&#37; for next 5 "
-"spells. 30 seconds cooldown."
+"Performs a guaranteed hit and increases the damage dealt by 120&#37; for "
+"next 5 spells. 30 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:147
 msgid ""
-"Performs a guaranteed hit and increases the damage dealt with your attacks by "
-"74&#37;. Causes your healing spells to heal yourself and an additional nearby "
-"ally with 82&#37; of the original heal amount. Lasts 10 seconds. 30 seconds "
-"cooldown."
+"Performs a guaranteed hit and increases the damage dealt with your attacks "
+"by 74&#37;. Causes your healing spells to heal yourself and an additional "
+"nearby ally with 82&#37; of the original heal amount. Lasts 10 seconds. 30 "
+"seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:148
 msgid ""
-"Performs a guaranteed hit and increases the damage dealt with your attacks by "
-"79&#37;. Causes your healing spells to heal yourself and an additional nearby "
-"ally with 83&#37; of the original heal amount. Lasts 10 seconds. 30 seconds "
-"cooldown."
+"Performs a guaranteed hit and increases the damage dealt with your attacks "
+"by 79&#37;. Causes your healing spells to heal yourself and an additional "
+"nearby ally with 83&#37; of the original heal amount. Lasts 10 seconds. 30 "
+"seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:149
 msgid ""
-"Performs a guaranteed hit and increases the damage dealt with your attacks by "
-"83&#37;. Causes your healing spells to heal yourself and an additional nearby "
-"ally with 85&#37; of the original heal amount. Lasts 10 seconds. 30 seconds "
-"cooldown."
+"Performs a guaranteed hit and increases the damage dealt with your attacks "
+"by 83&#37;. Causes your healing spells to heal yourself and an additional "
+"nearby ally with 85&#37; of the original heal amount. Lasts 10 seconds. 30 "
+"seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:150
 msgid ""
-"Performs a guaranteed hit and increases the damage dealt with your attacks by "
-"88&#37;. Causes your healing spells to heal yourself and an additional nearby "
-"ally with 86&#37; of the original heal amount. Lasts 10 seconds. 30 seconds "
-"cooldown."
+"Performs a guaranteed hit and increases the damage dealt with your attacks "
+"by 88&#37;. Causes your healing spells to heal yourself and an additional "
+"nearby ally with 86&#37; of the original heal amount. Lasts 10 seconds. 30 "
+"seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:151
 msgid ""
-"Performs a guaranteed hit and increases the damage dealt with your attacks by "
-"92&#37;. Causes your healing spells to heal yourself and an additional nearby "
-"ally with 88&#37; of the original heal amount. Lasts 10 seconds. 30 seconds "
-"cooldown."
+"Performs a guaranteed hit and increases the damage dealt with your attacks "
+"by 92&#37;. Causes your healing spells to heal yourself and an additional "
+"nearby ally with 88&#37; of the original heal amount. Lasts 10 seconds. 30 "
+"seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:152
 msgid ""
-"Establishes an equilibrium between arcane and holy flows. Performs a guaranteed "
-"hit and increases the damage dealt by 68&#37; for all attacks within 15 seconds. "
-"Heals yourself afterwards for 73&#37; of damage taken in this time. 40 seconds "
-"cooldown."
+"Establishes an equilibrium between arcane and holy flows. Performs a "
+"guaranteed hit and increases the damage dealt by 68&#37; for all attacks "
+"within 15 seconds. Heals yourself afterwards for 73&#37; of damage taken in "
+"this time. 40 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:153
 msgid ""
-"Establishes an equilibrium between arcane and holy flows. Performs a guaranteed "
-"hit and increases the damage dealt by 69&#37; for all attacks within 15 seconds. "
-"Heals yourself afterwards for 76&#37; of damage taken in this time. 40 seconds "
-"cooldown."
+"Establishes an equilibrium between arcane and holy flows. Performs a "
+"guaranteed hit and increases the damage dealt by 69&#37; for all attacks "
+"within 15 seconds. Heals yourself afterwards for 76&#37; of damage taken in "
+"this time. 40 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:154
 msgid ""
-"Establishes an equilibrium between arcane and holy flows. Performs a guaranteed "
-"hit and increases the damage dealt by 70&#37; for all attacks within 15 seconds. "
-"Heals yourself afterwards for 80&#37; of damage taken in this time. 40 seconds "
-"cooldown."
+"Establishes an equilibrium between arcane and holy flows. Performs a "
+"guaranteed hit and increases the damage dealt by 70&#37; for all attacks "
+"within 15 seconds. Heals yourself afterwards for 80&#37; of damage taken in "
+"this time. 40 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:155
 msgid ""
-"Establishes an equilibrium between arcane and holy flows. Performs a guaranteed "
-"hit and increases the damage dealt by 71&#37; for all attacks within 15 seconds. "
-"Heals yourself afterwards for 83&#37; of damage taken in this time. 40 seconds "
-"cooldown."
+"Establishes an equilibrium between arcane and holy flows. Performs a "
+"guaranteed hit and increases the damage dealt by 71&#37; for all attacks "
+"within 15 seconds. Heals yourself afterwards for 83&#37; of damage taken in "
+"this time. 40 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_skills_wizard.php:156
 msgid ""
-"Establishes an equilibrium between arcane and holy flows. Performs a guaranteed "
-"hit and increases the damage dealt by 72&#37; for all attacks within 15 seconds. "
-"Heals yourself afterwards for 86&#37; of damage taken in this time. 40 seconds "
-"cooldown."
+"Establishes an equilibrium between arcane and holy flows. Performs a "
+"guaranteed hit and increases the damage dealt by 72&#37; for all attacks "
+"within 15 seconds. Heals yourself afterwards for 86&#37; of damage taken in "
+"this time. 40 seconds cooldown."
 msgstr ""
 
 #: D:\Valery\Documents\www/gettextextras/gamecontent_spells.php:2
@@ -2898,13 +2923,14 @@ msgstr ""
 
 #: D:\Valery\Documents\www/templates/about.tpl.php:5
 msgid ""
-"TibiaME is the first massively multiplayer online role-playing game for mobile "
-"devices. Come together with hundreds of players and experience adventures in a "
-"colourful virtual world! Along with your friends you explore the mysterious land "
-"of TibiaME, fight your way through hordes of evil creatures and solve ancient "
-"riddles to find untold treasures. With every monster you defeat you will grow in "
-"strength and power. TibiaME is based on the successful online role-playing game "
-"Tibia which attracts thousands of players every day."
+"TibiaME is the first massively multiplayer online role-playing game for "
+"mobile devices. Come together with hundreds of players and experience "
+"adventures in a colourful virtual world! Along with your friends you explore "
+"the mysterious land of TibiaME, fight your way through hordes of evil "
+"creatures and solve ancient riddles to find untold treasures. With every "
+"monster you defeat you will grow in strength and power. TibiaME is based on "
+"the successful online role-playing game Tibia which attracts thousands of "
+"players every day."
 msgstr ""
 
 #: D:\Valery\Documents\www/templates/agreement.tpl.php:2
@@ -2932,14 +2958,15 @@ msgid "You are only allowed to use your real character nickname and gameworld."
 msgstr ""
 
 #: D:\Valery\Documents\www/templates/agreement.tpl.php:9
-msgid "Once you create an account, you will not be able to rename or remove it."
+msgid ""
+"Once you create an account, you will not be able to rename or remove it."
 msgstr ""
 
 #: D:\Valery\Documents\www/templates/agreement.tpl.php:10
 msgid ""
-"CipSoft staff and resellers should let us know about their accounts names to get "
-"a special status and nickname prefix, otherwise your account might be considered "
-"as fake and blocked."
+"CipSoft staff and resellers should let us know about their accounts names to "
+"get a special status and nickname prefix, otherwise your account might be "
+"considered as fake and blocked."
 msgstr ""
 
 #: D:\Valery\Documents\www/templates/agreement.tpl.php:11
@@ -2962,8 +2989,8 @@ msgstr ""
 
 #: D:\Valery\Documents\www/templates/agreement.tpl.php:13
 msgid ""
-"Screenshots are not allowed in photo album. Please upload them to Screenshots "
-"section."
+"Screenshots are not allowed in photo album. Please upload them to "
+"Screenshots section."
 msgstr ""
 
 #: D:\Valery\Documents\www/templates/agreement.tpl.php:14
@@ -2984,8 +3011,8 @@ msgstr ""
 
 #: D:\Valery\Documents\www/templates/agreement.tpl.php:17
 msgid ""
-"Top 100 wizards and top 100 warriors by total experience from each game world "
-"are listed."
+"Top 100 wizards and top 100 warriors by total experience from each game "
+"world are listed."
 msgstr ""
 
 #: D:\Valery\Documents\www/templates/agreement.tpl.php:18
@@ -2994,8 +3021,8 @@ msgstr ""
 
 #: D:\Valery\Documents\www/templates/agreement.tpl.php:19
 msgid ""
-"Top 100 wizards and top 100 warriors by achievement points from each game world "
-"are listed."
+"Top 100 wizards and top 100 warriors by achievement points from each game "
+"world are listed."
 msgstr ""
 
 #: D:\Valery\Documents\www/templates/agreement.tpl.php:20
@@ -3012,14 +3039,14 @@ msgstr ""
 
 #: D:\Valery\Documents\www/templates/agreement.tpl.php:23
 msgid ""
-"Highscores data are provided by tibiame.com and Tibia-ME.net is not responsible "
-"for its reliability."
+"Highscores data are provided by tibiame.com and Tibia-ME.net is not "
+"responsible for its reliability."
 msgstr ""
 
 #: D:\Valery\Documents\www/templates/agreement.tpl.php:24
 msgid ""
-"Worlds' statistics as well as Top Hunters data are only based on characters that "
-"are listed on this website (see 4.1.)."
+"Worlds' statistics as well as Top Hunters data are only based on characters "
+"that are listed on this website (see 4.1.)."
 msgstr ""
 
 #: D:\Valery\Documents\www/templates/agreement.tpl.php:25
@@ -3083,8 +3110,8 @@ msgstr ""
 
 #: D:\Valery\Documents\www/templates/agreement.tpl.php:34
 msgid ""
-"Use search engine before asking a question or posting new thread - you probably "
-"will find the answer."
+"Use search engine before asking a question or posting new thread - you "
+"probably will find the answer."
 msgstr ""
 
 #: D:\Valery\Documents\www/templates/agreement.tpl.php:35
@@ -3093,7 +3120,8 @@ msgstr ""
 
 #: D:\Valery\Documents\www/templates/agreement.tpl.php:36
 msgid ""
-"Tibia-ME.net never shares your hidden data (e.g. email, birth date) with anyone."
+"Tibia-ME.net never shares your hidden data (e.g. email, birth date) with "
+"anyone."
 msgstr ""
 
 #: D:\Valery\Documents\www/templates/agreement.tpl.php:37
@@ -3106,14 +3134,14 @@ msgstr ""
 
 #: D:\Valery\Documents\www/templates/agreement.tpl.php:38
 msgid ""
-"Your passwords are encrypted and cannot be viewed by anyone, including Tibia-ME."
-"net sfaff."
+"Your passwords are encrypted and cannot be viewed by anyone, including Tibia-"
+"ME.net sfaff."
 msgstr ""
 
 #: D:\Valery\Documents\www/templates/agreement.tpl.php:39
 msgid ""
-"Tibia-ME.net Admin may use your data to contact you (e.g. email, Yahoo ID, Skype "
-"ID, including hidden data)."
+"Tibia-ME.net Admin may use your data to contact you (e.g. email, Yahoo ID, "
+"Skype ID, including hidden data)."
 msgstr ""
 
 #: D:\Valery\Documents\www/templates/agreement.tpl.php:40
@@ -3122,14 +3150,14 @@ msgstr ""
 
 #: D:\Valery\Documents\www/templates/agreement.tpl.php:41
 msgid ""
-"TibiaME is a trademark of CipSoft GmbH, tibiame.com is the only official TibiaME "
-"website."
+"TibiaME is a trademark of CipSoft GmbH, tibiame.com is the only official "
+"TibiaME website."
 msgstr ""
 
 #: D:\Valery\Documents\www/templates/agreement.tpl.php:42
 msgid ""
-"Tibia-ME.net logos, source code and its name are property of Tibia-ME.net and "
-"you are not allowed to use them without permission."
+"Tibia-ME.net logos, source code and its name are property of Tibia-ME.net "
+"and you are not allowed to use them without permission."
 msgstr ""
 
 #: D:\Valery\Documents\www/templates/agreement.tpl.php:43
@@ -3147,8 +3175,8 @@ msgstr ""
 #: D:\Valery\Documents\www/templates/agreement.tpl.php:45
 msgid ""
 "Encyclopedia is based on data provided by CipSoft. Some additional data is "
-"fetched from <a href=\"http://tochki.su/tibiame/mobile/\">Tochki.su/TibiaME</a>, "
-"credit goes to Raist."
+"fetched from <a href=\"http://tochki.su/tibiame/mobile/\">Tochki.su/TibiaME</"
+"a>, credit goes to Raist."
 msgstr ""
 
 #: D:\Valery\Documents\www/templates/agreement.tpl.php:46
@@ -3157,8 +3185,8 @@ msgstr ""
 
 #: D:\Valery\Documents\www/templates/agreement.tpl.php:47
 msgid ""
-"This fansite was developed for mobile browsers and should be correctly displayed "
-"on most of modern mobile devices."
+"This fansite was developed for mobile browsers and should be correctly "
+"displayed on most of modern mobile devices."
 msgstr ""
 
 #: D:\Valery\Documents\www/templates/agreement.tpl.php:48
@@ -3675,8 +3703,8 @@ msgstr ""
 
 #: D:\Valery\Documents\www/templates/beta.tpl.php:5
 msgid ""
-"The open beta for the spring update 2014 has started and you can access the beta-"
-"world with the new beta client:"
+"The open beta for the spring update 2014 has started and you can access the "
+"beta-world with the new beta client:"
 msgstr ""
 
 #: D:\Valery\Documents\www/templates/beta.tpl.php:13
@@ -3723,8 +3751,8 @@ msgstr ""
 
 #: D:\Valery\Documents\www/templates/beta.tpl.php:23
 msgid ""
-"Monster specials: summoning minions, cursing (DoT), preferring one vocation as "
-"target"
+"Monster specials: summoning minions, cursing (DoT), preferring one vocation "
+"as target"
 msgstr ""
 
 #: D:\Valery\Documents\www/templates/comments.tpl.php:9
@@ -3845,15 +3873,17 @@ msgstr ""
 
 #: D:\Valery\Documents\www/templates/event.tpl.php:4
 msgid ""
-"As you surely noticed Darkmoons Eve has come to the world once again.<br/><br/>\n"
+"As you surely noticed Darkmoons Eve has come to the world once again.<br/"
+"><br/>\n"
 "This is nothing new you say? Doesn't it come every year?<br/><br/>\n"
-"Of course you are right, Darkmoons Eve is a yearly event, but we tried to spice "
-"it up a little bit for you.<br/><br/>\n"
+"Of course you are right, Darkmoons Eve is a yearly event, but we tried to "
+"spice it up a little bit for you.<br/><br/>\n"
 "Already tired of acquiring masks and disguising yourself. Want to play some "
 "pranks on your fellow players? Then you should seek out the witch Mischievia "
 "north of Aurea and see what she has in store for you.<br/><br/>\n"
-"Also the Darkmoons Eve brought some long thought lost relative of the cyclopses "
-"back to haunt the Mount Sternanium and the dungeons beneath.<br/><br/>\n"
+"Also the Darkmoons Eve brought some long thought lost relative of the "
+"cyclopses back to haunt the Mount Sternanium and the dungeons beneath.<br/"
+"><br/>\n"
 "Have fun and enjoy being a prankster on Darkmoons Eve."
 msgstr ""
 
@@ -3996,7 +4026,8 @@ msgstr ""
 
 #: D:\Valery\Documents\www/templates/friendlist_cancel.tpl.php:3
 #, php-format
-msgid "Are you sure you want to cancel your friend request to %s from world %d?"
+msgid ""
+"Are you sure you want to cancel your friend request to %s from world %d?"
 msgstr ""
 
 #: D:\Valery\Documents\www/templates/friendlist_cancel.tpl.php:8
@@ -4749,8 +4780,8 @@ msgstr ""
 
 #: D:\Valery\Documents\www/templates/index.tpl.php:138
 msgid ""
-"Tibia and TibiaME are trademarks of <a href=\"http://www.cipsoft.com\">CipSoft "
-"GmbH</a>, Germany."
+"Tibia and TibiaME are trademarks of <a href=\"http://www.cipsoft.com"
+"\">CipSoft GmbH</a>, Germany."
 msgstr ""
 
 #: D:\Valery\Documents\www/templates/letters_compose.tpl.php:11
@@ -4921,7 +4952,8 @@ msgstr ""
 #: D:\Valery\Documents\www/templates/notifications.tpl.php:41
 #, php-format
 msgid "%s and %d other user commented on <a href=\"%s\">screenshot</a>."
-msgid_plural "%s and %d other users commented on <a href=\"%s\">screenshot</a>."
+msgid_plural ""
+"%s and %d other users commented on <a href=\"%s\">screenshot</a>."
 msgstr[0] ""
 msgstr[1] ""
 
@@ -5141,8 +5173,8 @@ msgstr ""
 
 #: D:\Valery\Documents\www/templates/premium.tpl.php:7
 msgid ""
-"Life insurance with 50% of EP loss protection upon death (can be upgraded to 80% "
-"or 100%)"
+"Life insurance with 50% of EP loss protection upon death (can be upgraded to "
+"80% or 100%)"
 msgstr ""
 
 #: D:\Valery\Documents\www/templates/premium.tpl.php:8
@@ -5188,7 +5220,7 @@ msgstr ""
 
 #: D:\Valery\Documents\www/templates/profile.tpl.php:41
 msgid "Banned"
-msgstr ""
+msgstr "Banido"
 
 #: D:\Valery\Documents\www/templates/profile.tpl.php:77
 #: D:\Valery\Documents\www/templates/profile.tpl.php:98
@@ -5202,23 +5234,23 @@ msgstr ""
 
 #: D:\Valery\Documents\www/templates/profile.tpl.php:118
 msgid "Name"
-msgstr ""
+msgstr "Nome"
 
 #: D:\Valery\Documents\www/templates/profile.tpl.php:127
 msgid "Gender"
-msgstr ""
+msgstr "Sexo"
 
 #: D:\Valery\Documents\www/templates/profile.tpl.php:133
 #: D:\Valery\Documents\www/templates/profile.tpl.php:136
 #: D:\Valery\Documents\www/templates/profile.tpl.php:149
 msgid "Male"
-msgstr ""
+msgstr "Masculino"
 
 #: D:\Valery\Documents\www/templates/profile.tpl.php:140
 #: D:\Valery\Documents\www/templates/profile.tpl.php:143
 #: D:\Valery\Documents\www/templates/profile.tpl.php:152
 msgid "Female"
-msgstr ""
+msgstr "Feminino"
 
 #: D:\Valery\Documents\www/templates/profile.tpl.php:160
 msgid "Relationship status"
@@ -5227,13 +5259,13 @@ msgstr ""
 #: D:\Valery\Documents\www/templates/profile.tpl.php:166
 #: D:\Valery\Documents\www/templates/profile.tpl.php:206
 msgid "Single"
-msgstr ""
+msgstr "Solteiro"
 
 #: D:\Valery\Documents\www/templates/profile.tpl.php:169
 #: D:\Valery\Documents\www/templates/profile.tpl.php:172
 #: D:\Valery\Documents\www/templates/profile.tpl.php:209
 msgid "In relationship"
-msgstr ""
+msgstr "Em um relacionamento"
 
 #: D:\Valery\Documents\www/templates/profile.tpl.php:176
 #: D:\Valery\Documents\www/templates/profile.tpl.php:179
@@ -5245,7 +5277,7 @@ msgstr ""
 #: D:\Valery\Documents\www/templates/profile.tpl.php:186
 #: D:\Valery\Documents\www/templates/profile.tpl.php:215
 msgid "Married"
-msgstr ""
+msgstr "Casado"
 
 #: D:\Valery\Documents\www/templates/profile.tpl.php:190
 #: D:\Valery\Documents\www/templates/profile.tpl.php:193
@@ -5261,55 +5293,55 @@ msgstr ""
 
 #: D:\Valery\Documents\www/templates/profile.tpl.php:229
 msgid "Birthday"
-msgstr ""
+msgstr "Aniversário"
 
 #: D:\Valery\Documents\www/templates/profile.tpl.php:248
 msgid "January"
-msgstr ""
+msgstr "Janeiro"
 
 #: D:\Valery\Documents\www/templates/profile.tpl.php:251
 msgid "February"
-msgstr ""
+msgstr "Fevereiro"
 
 #: D:\Valery\Documents\www/templates/profile.tpl.php:254
 msgid "March"
-msgstr ""
+msgstr "Março"
 
 #: D:\Valery\Documents\www/templates/profile.tpl.php:257
 msgid "April"
-msgstr ""
+msgstr "Abril"
 
 #: D:\Valery\Documents\www/templates/profile.tpl.php:260
 msgid "May"
-msgstr ""
+msgstr "Maio"
 
 #: D:\Valery\Documents\www/templates/profile.tpl.php:263
 msgid "June"
-msgstr ""
+msgstr "Junho"
 
 #: D:\Valery\Documents\www/templates/profile.tpl.php:266
 msgid "July"
-msgstr ""
+msgstr "Julho"
 
 #: D:\Valery\Documents\www/templates/profile.tpl.php:269
 msgid "August"
-msgstr ""
+msgstr "Agosto"
 
 #: D:\Valery\Documents\www/templates/profile.tpl.php:272
 msgid "September"
-msgstr ""
+msgstr "Setembro"
 
 #: D:\Valery\Documents\www/templates/profile.tpl.php:275
 msgid "October"
-msgstr ""
+msgstr "Outubro"
 
 #: D:\Valery\Documents\www/templates/profile.tpl.php:278
 msgid "November"
-msgstr ""
+msgstr "Novembro"
 
 #: D:\Valery\Documents\www/templates/profile.tpl.php:281
 msgid "December"
-msgstr ""
+msgstr "Dezembro"
 
 #: D:\Valery\Documents\www/templates/profile.tpl.php:294
 msgid "Hide age"
@@ -5317,7 +5349,7 @@ msgstr ""
 
 #: D:\Valery\Documents\www/templates/profile.tpl.php:301
 msgid "Age"
-msgstr ""
+msgstr "Idade"
 
 #: D:\Valery\Documents\www/templates/profile.tpl.php:307
 #: D:\Valery\Documents\www/templates/profile.tpl.php:315
@@ -5334,7 +5366,7 @@ msgstr ""
 
 #: D:\Valery\Documents\www/templates/profile.tpl.php:328
 msgid "Last visit"
-msgstr ""
+msgstr "Última visita"
 
 #: D:\Valery\Documents\www/templates/profile.tpl.php:332
 msgid "no data"
@@ -5353,12 +5385,12 @@ msgstr ""
 #: D:\Valery\Documents\www/templates/register.tpl.php:20
 #: D:\Valery\Documents\www/templates/settings.tpl.php:31
 msgid "Hide email"
-msgstr ""
+msgstr "Ocultar email"
 
 #: D:\Valery\Documents\www/templates/profile.tpl.php:495
 #: D:\Valery\Documents\www/templates/profile.tpl.php:500
 msgid "Signature"
-msgstr ""
+msgstr "Assinatura"
 
 #: D:\Valery\Documents\www/templates/profile.tpl.php:496
 msgid "will be attached to your messages"
@@ -5372,12 +5404,12 @@ msgstr ""
 #: D:\Valery\Documents\www/templates/profile.tpl.php:510
 #: D:\Valery\Documents\www/templates/user_toolbar.tpl.php:20
 msgid "Photos"
-msgstr ""
+msgstr "Fotos"
 
 #: D:\Valery\Documents\www/templates/profile.tpl.php:526
 #: D:\Valery\Documents\www/templates/profile.tpl.php:528
 msgid "Friends"
-msgstr ""
+msgstr "Amigos"
 
 #: D:\Valery\Documents\www/templates/profile.tpl.php:532
 #: D:\Valery\Documents\www/templates/profile.tpl.php:534
@@ -5389,7 +5421,7 @@ msgstr ""
 #: D:\Valery\Documents\www/tibia-me.net/user/permissions.php:14
 #: D:\Valery\Documents\www/tibia-me.net/user/permissions.php:23
 msgid "Permissions"
-msgstr ""
+msgstr "Permissões"
 
 #: D:\Valery\Documents\www/templates/profile.tpl.php:558
 msgid "Delete all posts"
@@ -5487,8 +5519,8 @@ msgstr ""
 
 #: D:\Valery\Documents\www/templates/settings.tpl.php:93
 msgid ""
-"enable only if your browser supports it, otherwise some of website features may "
-"be unavailable"
+"enable only if your browser supports it, otherwise some of website features "
+"may be unavailable"
 msgstr ""
 
 #: D:\Valery\Documents\www/templates/settings.tpl.php:95
@@ -5561,8 +5593,8 @@ msgstr ""
 
 #: D:\Valery\Documents\www/templates/themes_upload.tpl.php:2
 msgid ""
-"You are only allowed to replace .mbm files in your theme. Themes with .r01, .app "
-"or other files will be removed."
+"You are only allowed to replace .mbm files in your theme. Themes with .r01, ."
+"app or other files will be removed."
 msgstr ""
 
 #: D:\Valery\Documents\www/templates/themes_upload.tpl.php:9
@@ -5579,35 +5611,36 @@ msgstr ""
 msgid ""
 "<b>Revamp of the Erebos Worldquest</b><br/>\n"
 "Come to Erebos and help regaining the control of the islands defence towers. "
-"Fight back the unholy hordes of Biestig the beastlord by taking and defending "
-"the tower on each of the rings of the volcano to gain access to the underground "
-"tunnels and finally face the beastlord himself.<br/><br/>\n"
+"Fight back the unholy hordes of Biestig the beastlord by taking and "
+"defending the tower on each of the rings of the volcano to gain access to "
+"the underground tunnels and finally face the beastlord himself.<br/><br/>\n"
 "\n"
 "<b>New Boss Battles for High-Level Players (100+)</b><br/>\n"
-"Match your prowess against the ancient evil that is rising on the islands Erebos "
-"and Ephialtis.\n"
-"Face Biestig the beast lord in a challenging battle and break his control over "
-"the unholy army that is pouring out of the volcano. And who knows, you might "
-"even discover his secret and gain a brand new rare high-level pet.\n"
-"Or challenge Mutabor the deceiver. Once a priest to both good and evil, and now "
-"the most ancient and powerful lich. Prevent him from ripping the veil of reality "
-"which would allow chaos to spill into and destroy the world.\n"
+"Match your prowess against the ancient evil that is rising on the islands "
+"Erebos and Ephialtis.\n"
+"Face Biestig the beast lord in a challenging battle and break his control "
+"over the unholy army that is pouring out of the volcano. And who knows, you "
+"might even discover his secret and gain a brand new rare high-level pet.\n"
+"Or challenge Mutabor the deceiver. Once a priest to both good and evil, and "
+"now the most ancient and powerful lich. Prevent him from ripping the veil of "
+"reality which would allow chaos to spill into and destroy the world.\n"
 "Your reward will be a full new set of new powerful rare weapons and the "
 "possibility to upgrade your existing legendary armour sets.<br/><br/>\n"
 "\n"
 "<b>New Weapons and Armour Upgrades</b><br/>\n"
 "Help the mastersmiths Wieland and Alberich on their quest to surpass the "
-"knowledge of the ancients. Bring them the powerful magic relicts you can collect "
-"in the battles against the new bosses to advance their research. With these and "
-"some rare elemental ore both smiths will be able to forge you weapons of "
-"exceptional power that will inspire legends.\n"
-"And they can also help you by improving your legendary armour sets. Ever wanted "
-"to boost the existing protection of your armour or add a new one. With the help "
-"of the mastersmiths this will be possible. Just bring them the necessary "
-"materials and they will temporarily take your armour beyond the legendary.\n"
-"As Wieland and Alberich are in constant need of ancient magic artefacts to fuel "
-"their research, they will take your surplus tokens from the existing boss "
-"battles and exchange them for raw materials.\n"
+"knowledge of the ancients. Bring them the powerful magic relicts you can "
+"collect in the battles against the new bosses to advance their research. "
+"With these and some rare elemental ore both smiths will be able to forge you "
+"weapons of exceptional power that will inspire legends.\n"
+"And they can also help you by improving your legendary armour sets. Ever "
+"wanted to boost the existing protection of your armour or add a new one. "
+"With the help of the mastersmiths this will be possible. Just bring them the "
+"necessary materials and they will temporarily take your armour beyond the "
+"legendary.\n"
+"As Wieland and Alberich are in constant need of ancient magic artefacts to "
+"fuel their research, they will take your surplus tokens from the existing "
+"boss battles and exchange them for raw materials.\n"
 "<br/><br/>"
 msgstr ""
 
@@ -5615,40 +5648,42 @@ msgstr ""
 msgid ""
 "<b>New Rare Pet</b><br/>\n"
 "Ever wanted a hellhound as a pet? Now you will have the chance. Face the "
-"beastlord Biestig in a challenging new boss battle and discover his secret of "
-"control. Then use it to tame your own three headed hound of hell.\n"
+"beastlord Biestig in a challenging new boss battle and discover his secret "
+"of control. Then use it to tame your own three headed hound of hell.\n"
 "<br/><br/>\n"
 "<b>Drop Rate Adjustment</b><br/>\n"
 "You killed thousands of demonic fiends on Erebos and Ephialtis to get the "
-"legendary weapons and did not get any of them? Then don't be disappointed any "
-"longer. We adjusted the drop rates of the weapons so you will get them more "
-"frequently.\n"
+"legendary weapons and did not get any of them? Then don't be disappointed "
+"any longer. We adjusted the drop rates of the weapons so you will get them "
+"more frequently.\n"
 "<br/><br/>\n"
 "<b>Messengers of the Higher Powers</b><br/>\n"
 "Are you angry and disappointed that you killed thousands and thousands of "
-"demonic fiends and didn't get a single legendary weapon? Well, the higher Powers "
-"have seen this injustice and sent their messengers Manel and Mirel to rectify "
-"this. Meet them on Erebos and Ephilatis and let them judge you. If they confirm "
-"your worthiness, you will receive some aid from the higher powers.\n"
+"demonic fiends and didn't get a single legendary weapon? Well, the higher "
+"Powers have seen this injustice and sent their messengers Manel and Mirel to "
+"rectify this. Meet them on Erebos and Ephilatis and let them judge you. If "
+"they confirm your worthiness, you will receive some aid from the higher "
+"powers.\n"
 "<br/><br/>\n"
 "<b>Colossea</b><br/>\n"
-"Ever wanted to fight another hero on a one on one basis and show him who is the "
-"better? Or are you a fan of watching other heroes prove their prowess when "
-"fighting each other? Then you should visit the new and free island of Colossea!\n"
-"There you find three one on one pvp arenas where you and your friends or enemies "
-"can engage in undisturbed pvp matches with a time limit and prove who is the "
-"better. Or you can just use the training arena to improve your pvp skills "
-"without the danger of loosing anything. And of course you can also just go there "
-"and watch others fight.\n"
-"In addition to the arena area Colossea is home to the brand new tournament area. "
-"For a small fee of platinum you can enter a hunting tournament and show the "
-"other players what a great hunter you are. The best 5 hunters of the tournament "
-"will be rewarded with prices of platinum. Of course there also are new "
-"highscores that show the ranking in the active tournament and the World hunting "
-"Champion.\n"
-"But don't think becoming a champion would be easy. You will have to watch your "
-"back as you are hunting in a no-penalty-pvp-zone. Perhaps your pet can help you "
-"there."
+"Ever wanted to fight another hero on a one on one basis and show him who is "
+"the better? Or are you a fan of watching other heroes prove their prowess "
+"when fighting each other? Then you should visit the new and free island of "
+"Colossea!\n"
+"There you find three one on one pvp arenas where you and your friends or "
+"enemies can engage in undisturbed pvp matches with a time limit and prove "
+"who is the better. Or you can just use the training arena to improve your "
+"pvp skills without the danger of loosing anything. And of course you can "
+"also just go there and watch others fight.\n"
+"In addition to the arena area Colossea is home to the brand new tournament "
+"area. For a small fee of platinum you can enter a hunting tournament and "
+"show the other players what a great hunter you are. The best 5 hunters of "
+"the tournament will be rewarded with prices of platinum. Of course there "
+"also are new highscores that show the ranking in the active tournament and "
+"the World hunting Champion.\n"
+"But don't think becoming a champion would be easy. You will have to watch "
+"your back as you are hunting in a no-penalty-pvp-zone. Perhaps your pet can "
+"help you there."
 msgstr ""
 
 #: D:\Valery\Documents\www/templates/user_banishment.tpl.php:5
@@ -5704,7 +5739,8 @@ msgid "Moderate artworks"
 msgstr ""
 
 #: D:\Valery\Documents\www/templates/user_toolbar.tpl.php:7
-msgid "Your browser does not support Javascript. Please disable it at settings."
+msgid ""
+"Your browser does not support Javascript. Please disable it at settings."
 msgstr ""
 
 #: D:\Valery\Documents\www/templates/user_toolbar.tpl.php:28
@@ -5773,8 +5809,8 @@ msgstr ""
 
 #: D:\Valery\Documents\www/tibia-me.net/advertisement.php:11
 msgid ""
-"Have a mobile website and would like to promote it? We could help you out with "
-"that for a little fee. Contact us to learn more."
+"Have a mobile website and would like to promote it? We could help you out "
+"with that for a little fee. Contact us to learn more."
 msgstr ""
 
 #: D:\Valery\Documents\www/tibia-me.net/album/albums.php:37
@@ -5909,7 +5945,8 @@ msgstr ""
 
 #: D:\Valery\Documents\www/tibia-me.net/error_handler.php:20
 msgid ""
-"This error may be caused by inccorrect server configuration or application error."
+"This error may be caused by inccorrect server configuration or application "
+"error."
 msgstr ""
 
 #: D:\Valery\Documents\www/tibia-me.net/fangames.php:36
@@ -5918,7 +5955,7 @@ msgstr ""
 
 #: D:\Valery\Documents\www/tibia-me.net/forum/index.php:15
 msgid "Mark all as read"
-msgstr ""
+msgstr "Marcar todas como lido"
 
 #: D:\Valery\Documents\www/tibia-me.net/forum/posting.php:24
 msgid "This thread is closed, you cannot delete posts."
@@ -5961,7 +5998,7 @@ msgstr ""
 
 #: D:\Valery\Documents\www/tibia-me.net/forum/posting.php:142
 msgid "Thread removed."
-msgstr ""
+msgstr "Tópico removido"
 
 #: D:\Valery\Documents\www/tibia-me.net/forum/posting.php:166
 msgid "Topic has been moved."
@@ -5970,16 +6007,16 @@ msgstr ""
 #: D:\Valery\Documents\www/tibia-me.net/forum/posting.php:174
 #: D:\Valery\Documents\www/tibia-me.net/forum/posting.php:189
 msgid "Create topic"
-msgstr ""
+msgstr "Criar tópico"
 
 #: D:\Valery\Documents\www/tibia-me.net/forum/posting.php:182
 #: D:\Valery\Documents\www/tibia-me.net/forum/viewtopic.php:40
 msgid "Edit topic"
-msgstr ""
+msgstr "Editar Tópico"
 
 #: D:\Valery\Documents\www/tibia-me.net/forum/posting.php:185
 msgid "Edit post"
-msgstr ""
+msgstr "Editar publicação"
 
 #: D:\Valery\Documents\www/tibia-me.net/forum/posting.php:192
 #: D:\Valery\Documents\www/tibia-me.net/forum/posting.php:202
@@ -5988,12 +6025,12 @@ msgstr ""
 
 #: D:\Valery\Documents\www/tibia-me.net/forum/posting.php:195
 msgid "Delete post"
-msgstr ""
+msgstr "Remover publicação"
 
 #: D:\Valery\Documents\www/tibia-me.net/forum/posting.php:205
 #: D:\Valery\Documents\www/tibia-me.net/forum/viewtopic.php:38
 msgid "Move topic"
-msgstr ""
+msgstr "Mover publicação"
 
 #: D:\Valery\Documents\www/tibia-me.net/forum/posting.php:253
 msgid "You don't have permission to post new threads here."
@@ -6006,7 +6043,7 @@ msgstr ""
 #: D:\Valery\Documents\www/tibia-me.net/forum/viewforum.php:11
 #: D:\Valery\Documents\www/tibia-me.net/forum/viewforum.php:15
 msgid "Forum not found."
-msgstr ""
+msgstr "Forum não encontrado."
 
 #: D:\Valery\Documents\www/tibia-me.net/forum/viewforum.php:19
 #, php-format
@@ -6015,7 +6052,7 @@ msgstr ""
 
 #: D:\Valery\Documents\www/tibia-me.net/forum/viewforum.php:27
 msgid "Post new topic"
-msgstr ""
+msgstr "Novo Tópico"
 
 #: D:\Valery\Documents\www/tibia-me.net/forum/viewtopic.php:11
 msgid "You will be notified on new replies in this thread."
@@ -6083,7 +6120,7 @@ msgstr ""
 #: D:\Valery\Documents\www/tibia-me.net/themes/index.php:33
 #: D:\Valery\Documents\www/tibia-me.net/themes/index.php:39
 msgid "My themes"
-msgstr ""
+msgstr "Meus temas"
 
 #: D:\Valery\Documents\www/tibia-me.net/themes/upload.php:40
 msgid "Your theme has been successfully uploaded."
@@ -6100,7 +6137,7 @@ msgstr ""
 #: D:\Valery\Documents\www/tibia-me.net/user/agreement.php:24
 #: D:\Valery\Documents\www/tibia-me.net/user/agreement.php:27
 msgid "User Agreement"
-msgstr ""
+msgstr "Termos de Uso"
 
 #: D:\Valery\Documents\www/tibia-me.net/user/banishments.php:26
 msgid "This user has an active banishment."
@@ -6151,7 +6188,7 @@ msgstr ""
 #: D:\Valery\Documents\www/tibia-me.net/user/friendlist.php:88
 #, php-format
 msgid "Friends: %d"
-msgstr ""
+msgstr "Amigos: %d"
 
 #: D:\Valery\Documents\www/tibia-me.net/user/friendlist.php:92
 #: D:\Valery\Documents\www/tibia-me.net/user/friendlist.php:95
@@ -6174,21 +6211,21 @@ msgstr ""
 #: D:\Valery\Documents\www/tibia-me.net/user/friendlist.php:113
 #, php-format
 msgid "Requests: %d"
-msgstr ""
+msgstr "Solicitações: %d"
 
 #: D:\Valery\Documents\www/tibia-me.net/user/friendlist.php:117
 msgid "Requests: 0"
-msgstr ""
+msgstr "Solicitações: 0"
 
 #: D:\Valery\Documents\www/tibia-me.net/user/friendlist.php:122
 #: D:\Valery\Documents\www/tibia-me.net/user/friendlist.php:126
 #, php-format
 msgid "Your requests: %d"
-msgstr ""
+msgstr "Suas solicitações: %d"
 
 #: D:\Valery\Documents\www/tibia-me.net/user/friendlist.php:132
 msgid "Your requests: 0"
-msgstr ""
+msgstr "Suas solicitações: 0"
 
 #: D:\Valery\Documents\www/tibia-me.net/user/letters.php:49
 msgid "Delete letter"
@@ -6215,11 +6252,11 @@ msgstr ""
 
 #: D:\Valery\Documents\www/tibia-me.net/user/login.php:15
 msgid "Welcome"
-msgstr ""
+msgstr "Bem Vindo"
 
 #: D:\Valery\Documents\www/tibia-me.net/user/login.php:28
 msgid "Continue"
-msgstr ""
+msgstr "Continuar"
 
 #: D:\Valery\Documents\www/tibia-me.net/user/lostpassword.php:5
 msgid "You are already authorized."
@@ -6235,8 +6272,8 @@ msgstr ""
 
 #: D:\Valery\Documents\www/tibia-me.net/user/lostpassword.php:29
 msgid ""
-"We could not send you confirmation code, please send us a mail to support@tibia-"
-"me.net."
+"We could not send you confirmation code, please send us a mail to "
+"support@tibia-me.net."
 msgstr ""
 
 #: D:\Valery\Documents\www/tibia-me.net/user/lostpassword.php:37
@@ -6257,20 +6294,20 @@ msgstr ""
 
 #: D:\Valery\Documents\www/tibia-me.net/user/lostpassword.php:49
 msgid "Password recovery"
-msgstr ""
+msgstr "Recuperação de senha"
 
 #: D:\Valery\Documents\www/tibia-me.net/user/lostpassword.php:77
 msgid "New password"
-msgstr ""
+msgstr "Nova senha"
 
 #: D:\Valery\Documents\www/tibia-me.net/user/memberlist.php:8
 msgid "Users online"
-msgstr ""
+msgstr "Usuários online"
 
 #: D:\Valery\Documents\www/tibia-me.net/user/memberlist.php:20
 #, php-format
 msgid "Users: %d"
-msgstr ""
+msgstr "Usuários: %d"
 
 #: D:\Valery\Documents\www/tibia-me.net/user/profile.php:37
 #, php-format
@@ -6279,7 +6316,7 @@ msgstr ""
 
 #: D:\Valery\Documents\www/tibia-me.net/user/register.php:7
 msgid "Please read and accept our User Agreement."
-msgstr ""
+msgstr "Por favor, ler e aceite nossos Termos de Uso."
 
 #: D:\Valery\Documents\www/tibia-me.net/user/register.php:22
 msgid "Incorrect confirmation code."
@@ -6287,15 +6324,15 @@ msgstr ""
 
 #: D:\Valery\Documents\www/ranks.dict:2
 msgid "User"
-msgstr ""
+msgstr "Usuário"
 
 #: D:\Valery\Documents\www/ranks.dict:3
 msgid "Assistant"
-msgstr ""
+msgstr "Assistente"
 
 #: D:\Valery\Documents\www/ranks.dict:4
 msgid "Creator"
-msgstr ""
+msgstr "Criador"
 
 #: D:\Valery\Documents\www/tibia-me.net/myadmin/doc/_ext/configext.py:89
 #, python-format
@@ -6321,7 +6358,7 @@ msgstr ""
 
 #: D:\Valery\Documents\www/tibia-me.net/myadmin/doc/html/_static/searchtools.js:288
 msgid "Searching"
-msgstr ""
+msgstr "Buscando"
 
 #: D:\Valery\Documents\www/tibia-me.net/myadmin/doc/html/_static/searchtools.js:293
 msgid "Preparing search..."
@@ -6344,13 +6381,13 @@ msgstr ""
 
 #: D:\Valery\Documents\www/tibia-me.net/myadmin/doc/html/_static/searchtools.js:525
 msgid ", in "
-msgstr ""
+msgstr ", em "
 
 #: D:\Valery\Documents\www/tibia-me.net/myadmin/doc/html/_static/sidebar.js:69
 msgid "Expand sidebar"
-msgstr ""
+msgstr "Expandir"
 
 #: D:\Valery\Documents\www/tibia-me.net/myadmin/doc/html/_static/sidebar.js:82
 #: D:\Valery\Documents\www/tibia-me.net/myadmin/doc/html/_static/sidebar.js:110
 msgid "Collapse sidebar"
-msgstr ""
+msgstr "Recolher"
